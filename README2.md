@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
-<p align="left"> <a href="https://twitter.com/cowboysysop" target="blank"><img src="https://img.shields.io/twitter/follow/cowboysysop?logo=twitter&style=for-the-badge" alt="cowboysysop" /></a> </p>
-
 - 📝 I regularly write articles on [https://www.cowboysysop.com/](https://www.cowboysysop.com/)
 
 - 📫 How to reach me **sebastien.prudhomme@gmail.com**
