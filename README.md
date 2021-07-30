@@ -12,6 +12,7 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme&show_icons=true&locale=en"/></p>
+![](https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme)
 
 ### Blogs posts
 
