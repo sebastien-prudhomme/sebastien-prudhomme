@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sébastien</h1>
+
 - 📝 I regularly write articles on [https://www.cowboysysop.com/](https://www.cowboysysop.com/)
-
 - 📫 How to reach me **sebastien.prudhomme@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/sébastien-prud-homme-289b71147/](https://www.linkedin.com/in/sébastien-prud-homme-289b71147/)
 
 ### Blogs posts
