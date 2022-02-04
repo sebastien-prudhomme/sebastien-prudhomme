@@ -7,11 +7,6 @@
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
-- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (2 months ago)
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) -  (2 months ago)
-- [sebastien-prudhomme/renovate-tests](https://github.com/sebastien-prudhomme/renovate-tests) -  (3 months ago)
-- [sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate](https://github.com/sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate) -  (3 months ago)
-- [sebastien-prudhomme/python](https://github.com/sebastien-prudhomme/python) -  (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,11 +15,6 @@
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest
 - [sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate](https://github.com/sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate) - 
 - [sebastien-prudhomme/renovate-tests](https://github.com/sebastien-prudhomme/renovate-tests) - 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) - 
-- [sebastien-prudhomme/test-actions-docker](https://github.com/sebastien-prudhomme/test-actions-docker) - 
-- [sebastien-prudhomme/python](https://github.com/sebastien-prudhomme/python) - 
-- [sebastien-prudhomme/test-electron-update](https://github.com/sebastien-prudhomme/test-electron-update) - 
-- [sebastien-prudhomme/roue-emotions-test](https://github.com/sebastien-prudhomme/roue-emotions-test) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,11 +23,6 @@
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.2), 1 week ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.6), 1 week ago) - Docker Image for Pytest
-- [sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate](https://github.com/sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate) ([whoami-2.5.0](https://github.com/sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate/releases/tag/whoami-2.5.0), 3 months ago) - 
-- [sebastien-prudhomme/renovate-tests](https://github.com/sebastien-prudhomme/renovate-tests) ([kroki-1.1.1](https://github.com/sebastien-prudhomme/renovate-tests/releases/tag/kroki-1.1.1), 3 months ago) - 
-- [sebastien-prudhomme/test-electron-update](https://github.com/sebastien-prudhomme/test-electron-update) ([v0.0.2](https://github.com/sebastien-prudhomme/test-electron-update/releases/tag/v0.0.2), 6 months ago) - 
-- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.3.2](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.3.2), 7 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
-- [sebastien-prudhomme/roue-emotions-test](https://github.com/sebastien-prudhomme/roue-emotions-test) ([2.0.7](https://github.com/sebastien-prudhomme/roue-emotions-test/releases/tag/2.0.7), 9 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -46,11 +31,6 @@
 - [ci: update renovatebot/github-action action to v31.63.2](https://github.com/cowboysysop/docker-pytest/pull/33) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [Add liveness and readiness probes](https://github.com/kserve/models-web-app/pull/28) on [kserve/models-web-app](https://github.com/kserve/models-web-app) (5 days ago)
 - [fix: some small quality fixes](https://github.com/cowboysysop/charts/pull/113) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v31.63.1](https://github.com/cowboysysop/docker-pytest/pull/32) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update renovatebot/github-action action to v31.63.0](https://github.com/cowboysysop/docker-pytest/pull/31) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update renovatebot/github-action action to v31.62.0](https://github.com/cowboysysop/docker-pytest/pull/30) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update github/super-linter action to v4.8.7](https://github.com/cowboysysop/docker-pytest/pull/29) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [feat(vertical-pod-autoscaler)!: update application version to 0.10.0](https://github.com/cowboysysop/charts/pull/112) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -75,11 +55,6 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time (6 months ago)
-- [gajus/global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent configurable using environment variables. (2 years ago)
-- [Patrowl/PatrowlManager](https://github.com/Patrowl/PatrowlManager) - PatrOwl - Open Source, Smart and Scalable Security Operations Orchestration Platform (2 years ago)
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (3 years ago)
-- [rancher/rke](https://github.com/rancher/rke) - Rancher Kubernetes Engine (RKE), an extremely simple, lightning fast Kubernetes distribution that runs entirely within containers. (3 years ago)
-- [rancher/terraform-provider-rke](https://github.com/rancher/terraform-provider-rke) - Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
