@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme&show_icons=true&locale=en"/></p>
-![test](https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA" />
-</p>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -42,11 +35,6 @@
 #### ⭐ Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### 👯 Check out some of my recent followers
