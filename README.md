@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme&show_icons=true&locale=en"/></p>
-![test](https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA" />
-</p>
 
 #### 👷 Check out what I'm currently working on
 
@@ -64,9 +57,6 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time (6 months ago)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
 
 #### 👯 Check out some of my recent followers
 
