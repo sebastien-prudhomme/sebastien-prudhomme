@@ -3,12 +3,10 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme&show_icons=true&locale=en"/></p>
 ![test](https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme&column=5&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA" />
 </p>
 
 #### 👷 Check out what I'm currently working on
