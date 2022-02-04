@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme&show_icons=true&locale=en"/></p>
+![test](https://github-readme-stats.vercel.app/api?username=sebastien-prudhomme)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sebastien-prudhomme)](https://github.com/ryo-ma/github-profile-trophy)
+
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
