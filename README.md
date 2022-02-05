@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) -  (1 day ago)
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) -  (2 days ago)
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.137](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.137), today) - 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.4](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.4), 1 day ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.137](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.137), 1 day ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.4](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.4), 2 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.2), 1 week ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.6), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [fix: switch to annotations for compatibility with EKS](https://github.com/cowboysysop/charts/pull/115) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update github/super-linter action to v4.8.7](https://github.com/sebastien-prudhomme/renovate-action/pull/83) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
-- [ci: update renovatebot/github-action action to v31.63.2](https://github.com/cowboysysop/docker-pytest/pull/33) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [Add liveness and readiness probes](https://github.com/kserve/models-web-app/pull/28) on [kserve/models-web-app](https://github.com/kserve/models-web-app) (5 days ago)
-- [fix: some small quality fixes](https://github.com/cowboysysop/charts/pull/113) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [fix: switch to annotations for compatibility with EKS](https://github.com/cowboysysop/charts/pull/115) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update github/super-linter action to v4.8.7](https://github.com/sebastien-prudhomme/renovate-action/pull/83) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
+- [ci: update renovatebot/github-action action to v31.63.2](https://github.com/cowboysysop/docker-pytest/pull/33) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [Add liveness and readiness probes](https://github.com/kserve/models-web-app/pull/28) on [kserve/models-web-app](https://github.com/kserve/models-web-app) (6 days ago)
+- [fix: some small quality fixes](https://github.com/cowboysysop/charts/pull/113) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Pre-configured suite of apps with developer self-service for Kubernetes (4 days ago)
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Pre-configured suite of apps with developer self-service for Kubernetes (5 days ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (2 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
