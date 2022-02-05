@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
+- [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (today)
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Pre-configured suite of apps with developer self-service for Kubernetes (5 days ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (2 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
-- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
