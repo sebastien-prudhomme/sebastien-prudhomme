@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) -  (2 days ago)
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (5 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: remove upgrades grouping](https://github.com/cowboysysop/charts/pull/116) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: switch to annotations for compatibility with EKS](https://github.com/cowboysysop/charts/pull/115) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update github/super-linter action to v4.8.7](https://github.com/sebastien-prudhomme/renovate-action/pull/83) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
 - [ci: update renovatebot/github-action action to v31.63.2](https://github.com/cowboysysop/docker-pytest/pull/33) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [Add liveness and readiness probes](https://github.com/kserve/models-web-app/pull/28) on [kserve/models-web-app](https://github.com/kserve/models-web-app) (6 days ago)
-- [fix: some small quality fixes](https://github.com/cowboysysop/charts/pull/113) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
