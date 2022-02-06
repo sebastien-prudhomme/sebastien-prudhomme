@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v7](https://github.com/cowboysysop/docker-pytest/pull/37) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v31.68.0](https://github.com/cowboysysop/docker-pytest/pull/36) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/build-push-action action to v2.9.0](https://github.com/cowboysysop/docker-pytest/pull/35) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-python action to v2.3.2](https://github.com/cowboysysop/docker-pytest/pull/34) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: remove upgrades grouping](https://github.com/cowboysysop/charts/pull/116) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: switch to annotations for compatibility with EKS](https://github.com/cowboysysop/charts/pull/115) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update github/super-linter action to v4.8.7](https://github.com/sebastien-prudhomme/renovate-action/pull/83) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
-- [ci: update renovatebot/github-action action to v31.63.2](https://github.com/cowboysysop/docker-pytest/pull/33) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [Add liveness and readiness probes](https://github.com/kserve/models-web-app/pull/28) on [kserve/models-web-app](https://github.com/kserve/models-web-app) (1 week ago)
 
 #### 📜 My recent blog posts
 
