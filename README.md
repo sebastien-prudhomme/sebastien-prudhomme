@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.140](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.140), 1 day ago) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.141](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.141), today) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.4](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.4), 4 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.2), 2 weeks ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 2 weeks ago) - Docker Image for Pytest
@@ -53,7 +53,7 @@
 #### ⭐ Recent Stars
 
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (2 days ago)
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Applications Configuration Platform (1 week ago)
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Applications and add-ons Configuration Platform with developer self-service (1 week ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (2 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
