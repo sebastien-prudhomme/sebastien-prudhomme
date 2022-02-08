@@ -53,7 +53,7 @@
 #### ⭐ Recent Stars
 
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (3 days ago)
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Application Configuration &amp; Automation Platform (1 week ago)
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Applications Configuration &amp; Automation Platform (1 week ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (2 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (2 months ago)
 - [polymny/polymny](https://github.com/polymny/polymny) - Web based tool for easy production of educational videos. (2 months ago)
