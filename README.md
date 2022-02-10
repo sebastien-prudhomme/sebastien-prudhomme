@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (today)
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (3 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) -  (1 week ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) - 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest
 - [sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate](https://github.com/sebastien-prudhomme/sebastien-prudhomme-cowboysysop-charts-test-renovate) - 
-- [sebastien-prudhomme/renovate-tests](https://github.com/sebastien-prudhomme/renovate-tests) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Amplication build pqkymsny](https://github.com/sebastien-prudhomme/test-amplication/pull/2) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (today)
+- [Amplication build xe7x1zq4](https://github.com/sebastien-prudhomme/test-amplication/pull/1) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (today)
 - [test: update dependency pytest to v7](https://github.com/sebastien-prudhomme/renovate-action/pull/86) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
 - [ci: update docker/build-push-action action to v2.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/85) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
 - [ci: update actions/setup-python action to v2.3.2](https://github.com/sebastien-prudhomme/renovate-action/pull/84) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
-- [test: update dependency pytest to v7](https://github.com/cowboysysop/docker-pytest/pull/37) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update renovatebot/github-action action to v31.68.0](https://github.com/cowboysysop/docker-pytest/pull/36) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
