@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (1 day ago)
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (2 days ago)
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.152](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.152), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.152](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.152), 1 day ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.4](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.4), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.2), 2 weeks ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 2 weeks ago) - Docker Image for Pytest
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Amplication build pqkymsny](https://github.com/sebastien-prudhomme/test-amplication/pull/2) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (1 day ago)
-- [Amplication build xe7x1zq4](https://github.com/sebastien-prudhomme/test-amplication/pull/1) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (1 day ago)
-- [test: update dependency pytest to v7](https://github.com/sebastien-prudhomme/renovate-action/pull/86) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
-- [ci: update docker/build-push-action action to v2.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/85) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
-- [ci: update actions/setup-python action to v2.3.2](https://github.com/sebastien-prudhomme/renovate-action/pull/84) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
+- [Amplication build pqkymsny](https://github.com/sebastien-prudhomme/test-amplication/pull/2) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (2 days ago)
+- [Amplication build xe7x1zq4](https://github.com/sebastien-prudhomme/test-amplication/pull/1) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (2 days ago)
+- [test: update dependency pytest to v7](https://github.com/sebastien-prudhomme/renovate-action/pull/86) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
+- [ci: update docker/build-push-action action to v2.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/85) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
+- [ci: update actions/setup-python action to v2.3.2](https://github.com/sebastien-prudhomme/renovate-action/pull/84) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (6 days ago)
+- [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (1 week ago)
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Applications Configuration &amp; Automation Platform (1 week ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (2 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (3 months ago)
