@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v31.81.0](https://github.com/cowboysysop/docker-pytest/pull/41) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest-testinfra to v6.6.0](https://github.com/cowboysysop/docker-pytest/pull/40) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v31.80.1](https://github.com/cowboysysop/docker-pytest/pull/39) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v16.14.0](https://github.com/cowboysysop/docker-pytest/pull/38) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [Amplication build pqkymsny](https://github.com/sebastien-prudhomme/test-amplication/pull/2) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (3 days ago)
-- [Amplication build xe7x1zq4](https://github.com/sebastien-prudhomme/test-amplication/pull/1) on [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) (3 days ago)
 
 #### 📜 My recent blog posts
 
