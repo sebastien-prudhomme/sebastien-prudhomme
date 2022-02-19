@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add PGP public key](https://github.com/cowboysysop/charts/pull/133) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix(vertical-pod-autoscaler): use dedicated path for probes](https://github.com/cowboysysop/charts/pull/132) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [test: update dependency pytest-testinfra to v6.6.0](https://github.com/sebastien-prudhomme/renovate-action/pull/88) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
 - [ci: update dependency node to v16.14.0](https://github.com/sebastien-prudhomme/renovate-action/pull/87) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
 - [ci: update renovatebot/github-action action to v31.81.2](https://github.com/cowboysysop/docker-pytest/pull/42) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update renovatebot/github-action action to v31.81.0](https://github.com/cowboysysop/docker-pytest/pull/41) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 
 #### 📜 My recent blog posts
 
