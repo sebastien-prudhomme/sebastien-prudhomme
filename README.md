@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), today) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.0.3](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.0.3), today) - Cowboy Sysop Charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.170](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.170), 1 day ago) - 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.2), 3 weeks ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 3 weeks ago) - Docker Image for Pytest
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.6), 3 weeks ago) - Docker Image for Pytest
 
