@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: sign charts](https://github.com/cowboysysop/charts/pull/134) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [chore: add PGP public key](https://github.com/cowboysysop/charts/pull/133) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix(vertical-pod-autoscaler): use dedicated path for probes](https://github.com/cowboysysop/charts/pull/132) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [test: update dependency pytest-testinfra to v6.6.0](https://github.com/sebastien-prudhomme/renovate-action/pull/88) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
-- [ci: update dependency node to v16.14.0](https://github.com/sebastien-prudhomme/renovate-action/pull/87) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
+- [fix: update dependency grpcio_health_checking to v1.44.0](https://github.com/cowboysysop/docker-pytest/pull/48) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.44.0](https://github.com/cowboysysop/docker-pytest/pull/47) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update github/super-linter action to v4.9.0](https://github.com/cowboysysop/docker-pytest/pull/46) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/login-action action to v1.13.0](https://github.com/cowboysysop/docker-pytest/pull/45) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency mariadb to v1.0.10](https://github.com/cowboysysop/docker-pytest/pull/44) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
