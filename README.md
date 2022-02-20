@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 day ago)
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.5](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.5), today) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), today) - 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.170](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.170), 1 day ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.5](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.5), 1 day ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), 1 day ago) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.170](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.170), 2 days ago) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.7](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.7), 3 weeks ago) - Docker Image for Pytest
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.6), 3 weeks ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.6), 4 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: sign charts](https://github.com/cowboysysop/charts/pull/134) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [chore: add PGP public key](https://github.com/cowboysysop/charts/pull/133) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix(vertical-pod-autoscaler): use dedicated path for probes](https://github.com/cowboysysop/charts/pull/132) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [test: update dependency pytest-testinfra to v6.6.0](https://github.com/sebastien-prudhomme/renovate-action/pull/88) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
-- [ci: update dependency node to v16.14.0](https://github.com/sebastien-prudhomme/renovate-action/pull/87) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (5 days ago)
+- [ci: sign charts](https://github.com/cowboysysop/charts/pull/134) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [chore: add PGP public key](https://github.com/cowboysysop/charts/pull/133) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix(vertical-pod-autoscaler): use dedicated path for probes](https://github.com/cowboysysop/charts/pull/132) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [test: update dependency pytest-testinfra to v6.6.0](https://github.com/sebastien-prudhomme/renovate-action/pull/88) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
+- [ci: update dependency node to v16.14.0](https://github.com/sebastien-prudhomme/renovate-action/pull/87) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (6 days ago)
+- [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (1 week ago)
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (2 weeks ago)
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Kubernetes Applications Configuration &amp; Automation Platform (2 weeks ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (3 months ago)
