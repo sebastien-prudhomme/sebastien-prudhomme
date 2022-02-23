@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (1 week ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.10](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.10), today) - Docker Image for Pytest
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.176](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.176), today) - 
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.10](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.10), 2 days ago) - Docker Image for Pytest
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.9](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.9), 3 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.5](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.5), 4 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), 4 days ago) - 
 
