@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kserve/models-web-app](https://github.com/kserve/models-web-app) - KServe models web UI (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
 - [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 days ago)
-- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
