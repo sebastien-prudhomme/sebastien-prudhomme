@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (3 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 days ago)
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.179](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.179), today) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.10](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.10), 1 day ago) - Docker Image for Pytest
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.10](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.10), 3 days ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.5](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.5), 5 days ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), 5 days ago) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.179](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.179), 1 day ago) - 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.10](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.10), 2 days ago) - Docker Image for Pytest
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.10](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.10), 4 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.5](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.5), 6 days ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-2.5.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-2.5.4), 6 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency grpcio_health_checking to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/93) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
-- [fix: update dependency grpcio to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/92) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
-- [ci: update github/super-linter action to v4.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/91) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
-- [ci: update docker/login-action action to v1.13.0](https://github.com/sebastien-prudhomme/renovate-action/pull/90) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
-- [fix: update dependency mariadb to v1.0.10](https://github.com/sebastien-prudhomme/renovate-action/pull/89) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (3 days ago)
+- [fix: update dependency grpcio_health_checking to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/93) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
+- [fix: update dependency grpcio to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/92) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
+- [ci: update github/super-linter action to v4.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/91) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
+- [ci: update docker/login-action action to v1.13.0](https://github.com/sebastien-prudhomme/renovate-action/pull/90) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
+- [fix: update dependency mariadb to v1.0.10](https://github.com/sebastien-prudhomme/renovate-action/pull/89) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (4 days ago)
 
 #### 📜 My recent blog posts
 
