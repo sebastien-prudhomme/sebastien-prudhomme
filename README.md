@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v3](https://github.com/cowboysysop/docker-pytest/pull/49) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/93) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
 - [fix: update dependency grpcio to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/92) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
 - [ci: update github/super-linter action to v4.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/91) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
 - [ci: update docker/login-action action to v1.13.0](https://github.com/sebastien-prudhomme/renovate-action/pull/90) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
-- [fix: update dependency mariadb to v1.0.10](https://github.com/sebastien-prudhomme/renovate-action/pull/89) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (6 days ago)
 
 #### 📜 My recent blog posts
 
