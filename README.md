@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32](https://github.com/cowboysysop/docker-pytest/pull/54) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update cycjimmy/semantic-release-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/53) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v3](https://github.com/cowboysysop/docker-pytest/pull/52) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3](https://github.com/cowboysysop/docker-pytest/pull/51) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/login-action action to v1.14.1](https://github.com/cowboysysop/docker-pytest/pull/50) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/setup-node action to v3](https://github.com/cowboysysop/docker-pytest/pull/49) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
