@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update cycjimmy/semantic-release-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/53) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-python action to v3](https://github.com/cowboysysop/docker-pytest/pull/52) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/checkout action to v3](https://github.com/cowboysysop/docker-pytest/pull/51) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/login-action action to v1.14.1](https://github.com/cowboysysop/docker-pytest/pull/50) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3](https://github.com/cowboysysop/docker-pytest/pull/49) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio_health_checking to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/93) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (1 week ago)
-- [fix: update dependency grpcio to v1.44.0](https://github.com/sebastien-prudhomme/renovate-action/pull/92) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (1 week ago)
-- [ci: update github/super-linter action to v4.9.0](https://github.com/sebastien-prudhomme/renovate-action/pull/91) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (1 week ago)
-- [ci: update docker/login-action action to v1.13.0](https://github.com/sebastien-prudhomme/renovate-action/pull/90) on [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) (1 week ago)
 
 #### 📜 My recent blog posts
 
