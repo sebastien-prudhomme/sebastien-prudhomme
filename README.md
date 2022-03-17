@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add more pod options for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/147) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [test: update dependency pytest to v7.1.0](https://github.com/cowboysysop/docker-pytest/pull/57) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update renovatebot/github-action action to v32.3.0](https://github.com/cowboysysop/docker-pytest/pull/56) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update renovatebot/github-action action to v32.2.2](https://github.com/cowboysysop/docker-pytest/pull/55) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update renovatebot/github-action action to v32](https://github.com/cowboysysop/docker-pytest/pull/54) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update cycjimmy/semantic-release-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/53) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
