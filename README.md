@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) -  (2 weeks ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (3 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.237](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.237), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.237](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.237), 1 day ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.1.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 3 weeks ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.10](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.10), 1 month ago) - Docker Image for Pytest
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.7.5](https://github.com/cowboysysop/docker-pytest/pull/68) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency grpcio_health_checking to v1.45.0](https://github.com/cowboysysop/docker-pytest/pull/67) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update renovatebot/github-action action to v32.7.4](https://github.com/cowboysysop/docker-pytest/pull/66) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update github/super-linter action to v4.9.1](https://github.com/cowboysysop/docker-pytest/pull/65) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency python to v3.10.4](https://github.com/cowboysysop/docker-pytest/pull/64) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update renovatebot/github-action action to v32.7.5](https://github.com/cowboysysop/docker-pytest/pull/68) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [fix: update dependency grpcio_health_checking to v1.45.0](https://github.com/cowboysysop/docker-pytest/pull/67) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update renovatebot/github-action action to v32.7.4](https://github.com/cowboysysop/docker-pytest/pull/66) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update github/super-linter action to v4.9.1](https://github.com/cowboysysop/docker-pytest/pull/65) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update dependency python to v3.10.4](https://github.com/cowboysysop/docker-pytest/pull/64) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -54,7 +54,7 @@
 
 - [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (1 month ago)
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (1 month ago)
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes (1 month ago)
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes (2 months ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (4 months ago)
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (4 months ago)
 
