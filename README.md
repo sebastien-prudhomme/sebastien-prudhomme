@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (today)
 - [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (1 month ago)
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (2 months ago)
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes (2 months ago)
 - [Gear61/Software-Project-Ideas](https://github.com/Gear61/Software-Project-Ideas) - Feasible, organic software project ideas that are suitable for all developers, including junior ones. (4 months ago)
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
