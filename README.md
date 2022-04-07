@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) -  (3 weeks ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (1 month ago)
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest (1 month ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) - 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) - Docker Image for Pytest
 
 #### 🔭 Latest releases I've contributed to
 
