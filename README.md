@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.17.1](https://github.com/cowboysysop/docker-pytest/pull/76) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.17.0](https://github.com/cowboysysop/docker-pytest/pull/75) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/metadata-action action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/74) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-python action to v3.1.1](https://github.com/cowboysysop/docker-pytest/pull/73) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.10.4](https://github.com/cowboysysop/docker-pytest/pull/72) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
+- [test: update dependency pytest-testinfra to v6.7.0](https://github.com/cowboysysop/docker-pytest/pull/82) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.25.0](https://github.com/cowboysysop/docker-pytest/pull/81) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency mariadb to v1.0.11](https://github.com/cowboysysop/docker-pytest/pull/80) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-python action to v3.1.2](https://github.com/cowboysysop/docker-pytest/pull/79) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-node action to v3.1.1](https://github.com/cowboysysop/docker-pytest/pull/78) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
