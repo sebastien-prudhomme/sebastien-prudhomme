@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.35.1](https://github.com/cowboysysop/docker-pytest/pull/90) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/metadata-action action to v3.8.0](https://github.com/cowboysysop/docker-pytest/pull/89) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v16.15.0](https://github.com/cowboysysop/docker-pytest/pull/88) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18](https://github.com/cowboysysop/docker-pytest/pull/87) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v32.30.1](https://github.com/cowboysysop/docker-pytest/pull/86) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [test: update dependency pytest to v7.1.2](https://github.com/cowboysysop/docker-pytest/pull/85) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/checkout action to v3.0.2](https://github.com/cowboysysop/docker-pytest/pull/84) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.25.1](https://github.com/cowboysysop/docker-pytest/pull/83) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
