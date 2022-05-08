@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.12](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.12), today) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.13](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.13), today) - Docker Image for Pytest
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.285](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.285), 1 day ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.1.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 2 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.45.5](https://github.com/cowboysysop/docker-pytest/pull/98) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/metadata-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/97) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/login-action action to v2](https://github.com/cowboysysop/docker-pytest/pull/96) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/95) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.46.0](https://github.com/cowboysysop/docker-pytest/pull/94) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency grpcio to v1.46.0](https://github.com/cowboysysop/docker-pytest/pull/93) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
