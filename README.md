@@ -5,34 +5,34 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) -  (1 month ago)
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) -  (2 months ago)
-- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (2 months ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) - 
 - [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 - [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) - 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.0](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.0), today) - 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.313](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.313), 1 day ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.17](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.17), 4 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.1.0), 2 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 2 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
-- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.10](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.10), 3 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [WIP](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.64.2](https://github.com/cowboysysop/docker-pytest/pull/106) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update dependency node to v18.2.0](https://github.com/cowboysysop/docker-pytest/pull/105) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update actions/setup-node action to v3.2.0](https://github.com/cowboysysop/docker-pytest/pull/104) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [fix: update dependency grpcio_health_checking to v1.46.3](https://github.com/cowboysysop/docker-pytest/pull/103) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency grpcio to v1.46.3](https://github.com/cowboysysop/docker-pytest/pull/102) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
