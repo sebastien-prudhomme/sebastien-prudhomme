@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.68.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/8) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: sign Docker image with Cosign](https://github.com/cowboysysop/docker-pytest/pull/107) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency conventional-changelog-conventionalcommits to v5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/6) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.66.7](https://github.com/sebastien-prudhomme/docker-pytest2/pull/5) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update dependency cosign to v1.8.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/4) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
-- [ci: update github/super-linter action to v4.9.4](https://github.com/sebastien-prudhomme/docker-pytest2/pull/3) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 
 #### 📜 My recent blog posts
 
