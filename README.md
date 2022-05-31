@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.318](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.318), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.319](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.319), today) - 
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.14](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.14), 3 days ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.17](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.17), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.1.0), 2 months ago) - Cowboy Sysop Charts
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.71.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/13) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.70.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/12) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.68.3](https://github.com/sebastien-prudhomme/docker-pytest2/pull/11) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.68.2](https://github.com/sebastien-prudhomme/docker-pytest2/pull/10) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.68.1](https://github.com/cowboysysop/docker-pytest/pull/112) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.68.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/9) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
 
 #### 📜 My recent blog posts
 
