@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v18.3.0](https://github.com/cowboysysop/docker-pytest/pull/114) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v1.9.0](https://github.com/cowboysysop/docker-pytest/pull/113) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.74.3](https://github.com/sebastien-prudhomme/docker-pytest2/pull/20) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.74.2](https://github.com/sebastien-prudhomme/docker-pytest2/pull/19) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.73.3](https://github.com/sebastien-prudhomme/docker-pytest2/pull/18) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.73.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/17) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.71.3](https://github.com/sebastien-prudhomme/docker-pytest2/pull/16) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
 
 #### 📜 My recent blog posts
 
