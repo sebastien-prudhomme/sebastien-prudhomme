@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.325](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.325), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.326](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.326), today) - 
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.14](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.14), 1 week ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.17](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.17), 2 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-4.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-4.1.0), 2 months ago) - Cowboy Sysop Charts
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.10.5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/24) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update dependency python to v3.10.5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/23) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.76.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/22) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update actions/setup-node action to v3.3.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/21) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update dependency node to v18.3.0](https://github.com/cowboysysop/docker-pytest/pull/114) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update dependency cosign to v1.9.0](https://github.com/cowboysysop/docker-pytest/pull/113) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
