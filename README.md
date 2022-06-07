@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(vertical-pod-autoscaler)!: update application version to 0.11.0](https://github.com/cowboysysop/charts/pull/186) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency python to v3.10.5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/24) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update dependency python to v3.10.5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/23) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.76.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/22) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update actions/setup-node action to v3.3.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/21) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
-- [ci: update dependency node to v18.3.0](https://github.com/cowboysysop/docker-pytest/pull/114) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
