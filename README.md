@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.82.2](https://github.com/sebastien-prudhomme/docker-pytest2/pull/32) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.82.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/31) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.80.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/30) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [fix: update dependency requests to v2.28.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/29) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update dependency semantic-release to v19.0.3](https://github.com/sebastien-prudhomme/docker-pytest2/pull/28) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
-- [ci: update actions/setup-python action to v4](https://github.com/sebastien-prudhomme/docker-pytest2/pull/27) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
 
 #### 📜 My recent blog posts
 
