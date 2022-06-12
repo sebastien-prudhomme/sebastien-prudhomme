@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.83.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/34) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
-- [ci: update renovatebot/github-action action to v32.83.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/33) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
-- [ci: update renovatebot/github-action action to v32.82.2](https://github.com/sebastien-prudhomme/docker-pytest2/pull/32) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.82.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/31) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.80.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/30) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
+- [ci: update renovatebot/github-action action to v32.83.2](https://github.com/sebastien-prudhomme/docker-pytest2/pull/35) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
+- [ci: update actions/setup-python action to v4](https://github.com/cowboysysop/docker-pytest/pull/121) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency requests to v2.28.0](https://github.com/cowboysysop/docker-pytest/pull/120) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v2.4.0](https://github.com/cowboysysop/docker-pytest/pull/119) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.83.2](https://github.com/cowboysysop/docker-pytest/pull/118) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
