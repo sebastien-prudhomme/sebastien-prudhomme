@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.336](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.336), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.337](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.337), today) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.18](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.18), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.16](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.16), 1 week ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-5.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-5.0.0), 1 week ago) - Cowboy Sysop Charts
