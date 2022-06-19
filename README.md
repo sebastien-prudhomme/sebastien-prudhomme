@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest-testinfra to v6.8.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/44) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.90.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/43) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.90.0](https://github.com/cowboysysop/docker-pytest/pull/123) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18.4.0](https://github.com/cowboysysop/docker-pytest/pull/122) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.89.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/42) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
-- [ci: update renovatebot/github-action action to v32.89.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/41) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
 
 #### 📜 My recent blog posts
 
