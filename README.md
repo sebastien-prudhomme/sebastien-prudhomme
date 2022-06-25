@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.99.1](https://github.com/sebastien-prudhomme/docker-pytest2/pull/53) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update renovatebot/github-action action to v32.97.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/52) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.96.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/51) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.94.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/50) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (2 days ago)
 - [fix: update dependency grpcio_health_checking to v1.47.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/49) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
-- [fix: update dependency grpcio to v1.47.0](https://github.com/sebastien-prudhomme/docker-pytest2/pull/48) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
 
 #### 📜 My recent blog posts
 
