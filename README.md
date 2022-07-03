@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.21](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.21), today) - Docker Image for Pytest
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.354](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.354), 3 days ago) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.20](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.20), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-5.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-5.1.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.18](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.18), 1 week ago) - 
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 4 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
