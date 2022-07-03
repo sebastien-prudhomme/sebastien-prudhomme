@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [fix: update dependency mariadb to v1.1.2](https://github.com/cowboysysop/docker-pytest/pull/133) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v32.103.0](https://github.com/cowboysysop/docker-pytest/pull/132) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.103.2](https://github.com/cowboysysop/docker-pytest/pull/132) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency requests to v2.28.1](https://github.com/cowboysysop/docker-pytest/pull/131) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update sigstore/cosign-installer action to v2.4.1](https://github.com/cowboysysop/docker-pytest/pull/130) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.99.5](https://github.com/sebastien-prudhomme/docker-pytest2/pull/55) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (1 week ago)
