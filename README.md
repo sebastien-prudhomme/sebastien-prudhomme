@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) -  (1 month ago)
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (1 month ago)
-- [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) -  (3 months ago)
 
 #### 🌱 My latest projects
 
