@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-3.0.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-3.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.6](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.6), today) - Cowboy Sysop Charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.375](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.375), 1 day ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.21](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.21), 2 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.18](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.18), 1 month ago) - 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependencies versions](https://github.com/cowboysysop/charts/pull/237) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat!: update dependencies versions](https://github.com/cowboysysop/charts/pull/236) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v32.118.0](https://github.com/cowboysysop/docker-pytest/pull/141) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [ci: update renovatebot/github-action action to v32.117.3](https://github.com/cowboysysop/docker-pytest/pull/140) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [ci: update dependency node to v18.6.0](https://github.com/cowboysysop/docker-pytest/pull/139) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update actions/setup-node action to v3.4.1](https://github.com/cowboysysop/docker-pytest/pull/138) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 
 #### 📜 My recent blog posts
 
