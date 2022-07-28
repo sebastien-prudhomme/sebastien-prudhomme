@@ -8,23 +8,23 @@
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (2 weeks ago)
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) -  (2 months ago)
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (2 months ago)
+- [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) -  (3 months ago)
 
 #### 🌱 My latest projects
 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) - 
 - [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
+- [sebastien-prudhomme/provider-jet-github](https://github.com/sebastien-prudhomme/provider-jet-github) - 
 
 #### 🔭 Latest releases I've contributed to
 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.383](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.383), 1 day ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.6](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.6), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.21](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.21), 3 weeks ago) - Docker Image for Pytest
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.18](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.18), 1 month ago) - 
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 4 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
+- [sebastien-prudhomme/renovate-action](https://github.com/sebastien-prudhomme/renovate-action) ([v1.3.10](https://github.com/sebastien-prudhomme/renovate-action/releases/tag/v1.3.10), 5 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
