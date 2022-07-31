@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.127.0](https://github.com/cowboysysop/docker-pytest/pull/147) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.126.2](https://github.com/cowboysysop/docker-pytest/pull/146) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.126.1](https://github.com/cowboysysop/docker-pytest/pull/145) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.125.0](https://github.com/cowboysysop/docker-pytest/pull/144) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/build-push-action action to v3.1.0](https://github.com/cowboysysop/docker-pytest/pull/143) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency grpcio_health_checking to v1.48.0](https://github.com/cowboysysop/docker-pytest/pull/152) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.48.0](https://github.com/cowboysysop/docker-pytest/pull/151) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v2.5.0](https://github.com/cowboysysop/docker-pytest/pull/150) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.7.0](https://github.com/cowboysysop/docker-pytest/pull/149) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update github/super-linter action to v4.9.5](https://github.com/cowboysysop/docker-pytest/pull/148) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
