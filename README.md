@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency grpcio_health_checking to v1.48.0](https://github.com/cowboysysop/docker-pytest/pull/152) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio to v1.48.0](https://github.com/cowboysysop/docker-pytest/pull/151) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update sigstore/cosign-installer action to v2.5.0](https://github.com/cowboysysop/docker-pytest/pull/150) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v18.7.0](https://github.com/cowboysysop/docker-pytest/pull/149) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update github/super-linter action to v4.9.5](https://github.com/cowboysysop/docker-pytest/pull/148) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update renovatebot/github-action action to v32.150.4](https://github.com/cowboysysop/docker-pytest/pull/159) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v3.1.0](https://github.com/cowboysysop/docker-pytest/pull/158) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-python action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/157) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update github/super-linter action to v4.9.6](https://github.com/cowboysysop/docker-pytest/pull/156) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/build-push-action action to v3.1.1](https://github.com/cowboysysop/docker-pytest/pull/155) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
