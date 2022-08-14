@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.159.0](https://github.com/cowboysysop/docker-pytest/pull/161) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.151.2](https://github.com/cowboysysop/docker-pytest/pull/160) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v32.150.4](https://github.com/cowboysysop/docker-pytest/pull/159) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update cycjimmy/semantic-release-action action to v3.1.0](https://github.com/cowboysysop/docker-pytest/pull/158) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update actions/setup-python action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/157) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update github/super-linter action to v4.9.6](https://github.com/cowboysysop/docker-pytest/pull/156) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
