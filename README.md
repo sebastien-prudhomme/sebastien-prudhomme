@@ -56,7 +56,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (4 months ago)
 - [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (6 months ago)
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (6 months ago)
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps Platform as a Service for Kubernetes (6 months ago)
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Complete stack of integrated Kubernetes applications (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
