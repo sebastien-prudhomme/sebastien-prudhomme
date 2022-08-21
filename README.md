@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.410](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.410), 3 days ago) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.411](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.411), today) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.23](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.23), 3 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.6](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.6), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 5 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
