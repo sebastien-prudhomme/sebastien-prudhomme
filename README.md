@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.159.1](https://github.com/cowboysysop/docker-pytest/pull/162) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update dependency cosign to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/164) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v2.5.1](https://github.com/cowboysysop/docker-pytest/pull/163) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.168.0](https://github.com/cowboysysop/docker-pytest/pull/162) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v32.159.0](https://github.com/cowboysysop/docker-pytest/pull/161) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v32.151.2](https://github.com/cowboysysop/docker-pytest/pull/160) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [ci: update renovatebot/github-action action to v32.150.4](https://github.com/cowboysysop/docker-pytest/pull/159) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [ci: update cycjimmy/semantic-release-action action to v3.1.0](https://github.com/cowboysysop/docker-pytest/pull/158) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
