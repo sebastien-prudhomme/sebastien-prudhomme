@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-5.2.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-5.2.0), today) - Cowboy Sysop Charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.417](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.417), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1), 1 day ago) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.23](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.23), 3 weeks ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.5.6](https://github.com/cowboysysop/charts/releases/tag/whoami-2.5.6), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 5 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow pod annotations for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/270) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [[prometheus-postgres-exporter] Fix indentation](https://github.com/prometheus-community/helm-charts/pull/2388) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [ci: update renovatebot/github-action action to v32.169.1](https://github.com/cowboysysop/docker-pytest/pull/166) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update renovatebot/github-action action to v32.169.0](https://github.com/cowboysysop/docker-pytest/pull/165) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update dependency cosign to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/164) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update sigstore/cosign-installer action to v2.5.1](https://github.com/cowboysysop/docker-pytest/pull/163) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 
 #### 📜 My recent blog posts
 
