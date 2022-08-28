@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.179.1](https://github.com/cowboysysop/docker-pytest/pull/170) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.8.0](https://github.com/cowboysysop/docker-pytest/pull/169) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency semantic-release to v19.0.5](https://github.com/cowboysysop/docker-pytest/pull/168) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v1.11.1](https://github.com/cowboysysop/docker-pytest/pull/167) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: allow pod annotations for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/270) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [[prometheus-postgres-exporter] Fix indentation](https://github.com/prometheus-community/helm-charts/pull/2388) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v32.169.1](https://github.com/cowboysysop/docker-pytest/pull/166) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.169.0](https://github.com/cowboysysop/docker-pytest/pull/165) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency cosign to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/164) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
