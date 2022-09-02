@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.423](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.423), today) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.424](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.424), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.17.0), 1 day ago) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-5.2.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-5.2.0), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.23](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.23), 1 month ago) - Docker Image for Pytest
