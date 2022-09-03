@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.4.0), today) - Prometheus community Helm charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.425](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.425), 1 day ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-5.2.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-5.2.0), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.23](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.23), 1 month ago) - Docker Image for Pytest
