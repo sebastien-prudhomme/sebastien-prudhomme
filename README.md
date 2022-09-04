@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.190.2](https://github.com/cowboysysop/docker-pytest/pull/178) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.190.0](https://github.com/cowboysysop/docker-pytest/pull/177) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.1.3](https://github.com/cowboysysop/docker-pytest/pull/176) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.48.1](https://github.com/cowboysysop/docker-pytest/pull/175) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.48.1](https://github.com/cowboysysop/docker-pytest/pull/174) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update cycjimmy/semantic-release-action action to v3.1.1](https://github.com/cowboysysop/docker-pytest/pull/173) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
