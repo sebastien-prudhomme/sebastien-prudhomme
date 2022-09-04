@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add timeout when testing connection to database](https://github.com/tuxgasy/docker-dolibarr/pull/93) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (4 days ago)
-- [ci: update renovatebot/github-action action to v32.180.1](https://github.com/cowboysysop/docker-pytest/pull/172) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.180.0](https://github.com/cowboysysop/docker-pytest/pull/171) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v32.179.1](https://github.com/cowboysysop/docker-pytest/pull/170) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v18.8.0](https://github.com/cowboysysop/docker-pytest/pull/169) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update renovatebot/github-action action to v32.190.0](https://github.com/cowboysysop/docker-pytest/pull/177) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [test: update dependency pytest to v7.1.3](https://github.com/cowboysysop/docker-pytest/pull/176) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio_health_checking to v1.48.1](https://github.com/cowboysysop/docker-pytest/pull/175) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.48.1](https://github.com/cowboysysop/docker-pytest/pull/174) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v3.1.1](https://github.com/cowboysysop/docker-pytest/pull/173) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
