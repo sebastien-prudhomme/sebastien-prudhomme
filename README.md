@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Configure full path to mysqldump command](https://github.com/tuxgasy/docker-dolibarr/pull/94) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (today)
 - [ci: update renovatebot/github-action action to v32.190.3](https://github.com/cowboysysop/docker-pytest/pull/179) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.190.2](https://github.com/cowboysysop/docker-pytest/pull/178) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.190.0](https://github.com/cowboysysop/docker-pytest/pull/177) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [test: update dependency pytest to v7.1.3](https://github.com/cowboysysop/docker-pytest/pull/176) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency grpcio_health_checking to v1.48.1](https://github.com/cowboysysop/docker-pytest/pull/175) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
