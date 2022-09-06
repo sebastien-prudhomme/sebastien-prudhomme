@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
-- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (6 days ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
