@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 day ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (2 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (1 week ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [Redirect cron script outputs to container outputs](https://github.com/tuxgasy/docker-dolibarr/pull/96) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (2 days ago)
 - [fix: upgrade Kubernetes version requirement](https://github.com/cowboysysop/charts/pull/277) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [Configure full path to mysqldump command](https://github.com/tuxgasy/docker-dolibarr/pull/94) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (3 days ago)
-- [ci: update renovatebot/github-action action to v32.190.3](https://github.com/cowboysysop/docker-pytest/pull/179) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
