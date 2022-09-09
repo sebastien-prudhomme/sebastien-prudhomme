@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 days ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (3 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [Redirect cron script outputs to container outputs](https://github.com/tuxgasy/docker-dolibarr/pull/96) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (3 days ago)
 - [fix: upgrade Kubernetes version requirement](https://github.com/cowboysysop/charts/pull/277) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [Configure full path to mysqldump command](https://github.com/tuxgasy/docker-dolibarr/pull/94) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (4 days ago)
 
 #### 📜 My recent blog posts
 
