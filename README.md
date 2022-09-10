@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 days ago)
-- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 days ago)
+- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.3), 1 day ago) - Prometheus community Helm charts
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 day ago) - 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 3 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 5 days ago) - Docker Image for Pytest
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.3), 2 days ago) - Prometheus community Helm charts
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 2 days ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 6 days ago) - Docker Image for Pytest
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 6 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
-- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [Redirect cron script outputs to container outputs](https://github.com/tuxgasy/docker-dolibarr/pull/96) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (3 days ago)
-- [fix: upgrade Kubernetes version requirement](https://github.com/cowboysysop/charts/pull/277) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [Redirect cron script outputs to container outputs](https://github.com/tuxgasy/docker-dolibarr/pull/96) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (4 days ago)
+- [fix: upgrade Kubernetes version requirement](https://github.com/cowboysysop/charts/pull/277) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
