@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.9.0](https://github.com/cowboysysop/docker-pytest/pull/181) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency python to v3.10.7](https://github.com/cowboysysop/docker-pytest/pull/180) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.194.4](https://github.com/cowboysysop/charts/pull/282) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.1786.0](https://github.com/cowboysysop/charts/pull/281) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
