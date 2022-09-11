@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 days ago)
-- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
+- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0), today) - Prometheus community Helm charts
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 2 days ago) - 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 4 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 6 days ago) - Docker Image for Pytest
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0), 1 day ago) - Prometheus community Helm charts
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 3 days ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 5 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 6 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
-- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [Redirect cron script outputs to container outputs](https://github.com/tuxgasy/docker-dolibarr/pull/96) on [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) (4 days ago)
-- [fix: upgrade Kubernetes version requirement](https://github.com/cowboysysop/charts/pull/277) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update renovatebot/github-action action to v32.194.4](https://github.com/cowboysysop/charts/pull/282) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.1786.0](https://github.com/cowboysysop/charts/pull/281) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: switch to Renovate GitHub Action](https://github.com/cowboysysop/charts/pull/280) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: automerge patch updates](https://github.com/cowboysysop/charts/pull/279) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat(dolibarr): first version of the chart](https://github.com/cowboysysop/charts/pull/278) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -55,7 +55,7 @@
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (1 week ago)
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (3 months ago)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile &amp; Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (5 months ago)
-- [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (6 months ago)
+- [mickaelbaron/microservices-kubernetes-gettingstarted-tutorial](https://github.com/mickaelbaron/microservices-kubernetes-gettingstarted-tutorial) - L&#39;objectif de cette série d&#39;exercices est d&#39;apprendre à démystifier Kubernetes (K8s) en s&#39;intéressant aux concepts fondamentaux de cet orchestrateur tels que Pod, Deployment, Service et Volume. La mise en place d&#39;un cluster K8s sur son poste de développeur sera expliquée pour réaliser les différentes manipulations (7 months ago)
 - [particuleio/formations](https://github.com/particuleio/formations) - Supports de cours des formations Particule. (7 months ago)
 
 #### 👯 Check out some of my recent followers
