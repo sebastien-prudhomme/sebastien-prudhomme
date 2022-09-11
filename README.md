@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (5 days ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.1), today) - Prometheus community Helm charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 3 days ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 5 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 1 week ago) - Docker Image for Pytest
