@@ -4,35 +4,35 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
-- [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (1 week ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) - 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
 - [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
 - [sebastien-prudhomme/fastapi-tuto](https://github.com/sebastien-prudhomme/fastapi-tuto) - 
-- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.0), today) - Prometheus community Helm charts
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 6 days ago) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-1.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-1.0.0), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 1 week ago) - Docker Image for Pytest
-- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 6 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
+- [Trivy](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (today)
 - [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update dependency node to v18.9.0](https://github.com/cowboysysop/docker-pytest/pull/181) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update dependency python to v3.10.7](https://github.com/cowboysysop/docker-pytest/pull/180) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v32.194.4](https://github.com/cowboysysop/charts/pull/282) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.1786.0](https://github.com/cowboysysop/charts/pull/281) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
