@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: allow extra objects to deploy with the release](https://github.com/cowboysysop/charts/pull/284) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [Trivy](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
 - [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update dependency node to v18.9.0](https://github.com/cowboysysop/docker-pytest/pull/181) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update dependency python to v3.10.7](https://github.com/cowboysysop/docker-pytest/pull/180) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update renovatebot/github-action action to v32.194.4](https://github.com/cowboysysop/charts/pull/282) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
