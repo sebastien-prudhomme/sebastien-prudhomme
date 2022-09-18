@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.6.0](https://github.com/cowboysysop/charts/releases/tag/whoami-2.6.0), today) - Cowboy Sysop Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.19.0), today) - Prometheus community Helm charts
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 3 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.1), today) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.6.0](https://github.com/cowboysysop/charts/releases/tag/whoami-2.6.0), 1 day ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 4 days ago) - 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 week ago) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.25), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: allow extra objects to deploy with the release](https://github.com/cowboysysop/charts/pull/284) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [Trivy](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (3 days ago)
-- [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update dependency node to v18.9.0](https://github.com/cowboysysop/docker-pytest/pull/181) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update dependency python to v3.10.7](https://github.com/cowboysysop/docker-pytest/pull/180) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/charts/pull/286) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.1790.0](https://github.com/cowboysysop/charts/pull/285) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: allow extra objects to deploy with the release](https://github.com/cowboysysop/charts/pull/284) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [Trivy](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (4 days ago)
+- [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
