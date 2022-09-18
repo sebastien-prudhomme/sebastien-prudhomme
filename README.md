@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/docker-pytest/pull/184) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/183) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/charts/pull/286) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.1790.0](https://github.com/cowboysysop/charts/pull/285) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: allow extra objects to deploy with the release](https://github.com/cowboysysop/charts/pull/284) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [Trivy](https://github.com/sebastien-prudhomme/docker-pytest2/pull/1) on [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) (4 days ago)
-- [ci: update sigstore/cosign-installer action to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/182) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
