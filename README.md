@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.27](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.27), today) - Docker Image for Pytest
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.1), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.6.0](https://github.com/cowboysysop/charts/releases/tag/whoami-2.6.0), 1 day ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 4 days ago) - 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.27](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.27), 1 day ago) - Docker Image for Pytest
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.1), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.6.0](https://github.com/cowboysysop/charts/releases/tag/whoami-2.6.0), 2 days ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 5 days ago) - 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.198.1](https://github.com/cowboysysop/docker-pytest/pull/187) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/docker-pytest/pull/184) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency cosign to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/183) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.198.1](https://github.com/cowboysysop/docker-pytest/pull/187) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/docker-pytest/pull/184) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency cosign to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/183) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
