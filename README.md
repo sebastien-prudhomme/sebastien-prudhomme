@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Set pod annotations in rancher-pushprox](https://github.com/rancher/charts/pull/2098) on [rancher/charts](https://github.com/rancher/charts) (today)
 - [ci: update renovatebot/github-action action to v32.198.1](https://github.com/cowboysysop/docker-pytest/pull/187) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v32.197.1](https://github.com/cowboysysop/docker-pytest/pull/184) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency cosign to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/183) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
