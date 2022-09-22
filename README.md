@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (6 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-6.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-6.0.0), today) - Cowboy Sysop Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0), today) - Prometheus community Helm charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.27](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.27), 3 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-6.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-6.0.0), 1 day ago) - Cowboy Sysop Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.27](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.27), 4 days ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 1 week ago) - 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 week ago) - 
+- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(vertical-pod-autoscaler)!: update application version to 0.12.0](https://github.com/cowboysysop/charts/pull/287) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [Set pod annotations in rancher-pushprox](https://github.com/rancher/charts/pull/2098) on [rancher/charts](https://github.com/rancher/charts) (today)
-- [ci: update renovatebot/github-action action to v32.198.1](https://github.com/cowboysysop/docker-pytest/pull/187) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [feat(vertical-pod-autoscaler)!: update application version to 0.12.0](https://github.com/cowboysysop/charts/pull/287) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [Set pod annotations in rancher-pushprox](https://github.com/rancher/charts/pull/2098) on [rancher/charts](https://github.com/rancher/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v32.198.1](https://github.com/cowboysysop/docker-pytest/pull/187) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency grpcio_health_checking to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/186) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency grpcio to v1.49.0](https://github.com/cowboysysop/docker-pytest/pull/185) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
