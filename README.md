@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update metacontrollerio/metacontroller docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/32) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [fix: update metacontrollerio/metacontroller docker tag to v4 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/32) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [fix: update helm release postgresql to v11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/31) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [fix: update helm release mongodb to v13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [fix: update helm release common to v2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/29) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update yuzutech/kroki-mermaid docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [fix: update yuzutech/kroki-mermaid docker tag to v0.17.2 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 
 #### 📜 My recent blog posts
 
