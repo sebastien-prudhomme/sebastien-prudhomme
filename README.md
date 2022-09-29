@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update helm/chart-testing-action action to v2.3.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update helm/chart-releaser-action action to v1.4.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update sigstore/cosign-installer action to v2.7.0](https://github.com/cowboysysop/docker-pytest/pull/193) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update renovatebot/github-action action to v32.202.4](https://github.com/cowboysysop/docker-pytest/pull/192) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [fix: update dependency grpcio_health_checking to v1.49.1](https://github.com/cowboysysop/docker-pytest/pull/191) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency grpcio to v1.49.1](https://github.com/cowboysysop/docker-pytest/pull/190) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency node to v18.9.1](https://github.com/cowboysysop/docker-pytest/pull/189) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
