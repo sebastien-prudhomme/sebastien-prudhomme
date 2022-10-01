@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update yuzutech/kroki-mermaid docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update yuzutech/kroki-excalidraw docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/54) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update yuzutech/kroki-bpmn docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/53) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update yuzutech/kroki-blockdiag docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/52) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix: update tuxgasy/dolibarr docker tag to v16](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/51) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update metacontrollerio/metacontroller docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/50) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update yuzutech/kroki docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/49) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update patrickhulce/lhci-server docker tag to v0.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/48) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update metacontrollerio/metacontroller docker tag to v2.6.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/47) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 
 #### 📜 My recent blog posts
 
