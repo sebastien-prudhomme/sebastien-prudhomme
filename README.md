@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (1 week ago)
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (2 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v32.211.1](https://github.com/cowboysysop/docker-pytest/pull/196) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.10.0](https://github.com/cowboysysop/docker-pytest/pull/195) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-node action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/194) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update helm/chart-testing-action action to v2.3.1](https://github.com/cowboysysop/charts/pull/296) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/chart-releaser-action action to v1.4.1](https://github.com/cowboysysop/charts/pull/295) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update yuzutech/kroki-mermaid docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update yuzutech/kroki-excalidraw docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/54) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [fix: update yuzutech/kroki-bpmn docker tag to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/53) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 
 #### 📜 My recent blog posts
 
