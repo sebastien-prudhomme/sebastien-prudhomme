@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update yuzutech/kroki to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/58) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update yuzutech/kroki to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/58) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix: update kubeflowkatib/katib to v0.14.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix: update k8s.gcr.io/autoscaling/vpa to v0.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v32.213.0](https://github.com/cowboysysop/docker-pytest/pull/198) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
