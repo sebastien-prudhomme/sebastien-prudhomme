@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (1 week ago)
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (2 weeks ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update yuzutech/kroki to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/58) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update kubeflowkatib/katib to v0.14.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update k8s.gcr.io/autoscaling/vpa to v0.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v32.213.0](https://github.com/cowboysysop/docker-pytest/pull/198) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update renovatebot/github-action action to v32.211.2](https://github.com/cowboysysop/docker-pytest/pull/197) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update renovatebot/github-action action to v32.211.1](https://github.com/cowboysysop/docker-pytest/pull/196) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency node to v18.10.0](https://github.com/cowboysysop/docker-pytest/pull/195) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update actions/setup-node action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/194) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
