@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (2 weeks ago)
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (3 weeks ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.15.0), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-2.7.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-2.7.1), 4 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.29](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.29), 1 week ago) - Docker Image for Pytest
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.15.0), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-2.7.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-2.7.1), 5 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.29](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.29), 2 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 3 weeks ago) - 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/checkout action to v3.1.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/59) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
-- [test(mongo-express): take subdirectory into account in URL](https://github.com/cowboysysop/charts/pull/297) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat: update yuzutech/kroki to v0.17.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/58) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [fix: update kubeflowkatib/katib to v0.14.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [fix: update k8s.gcr.io/autoscaling/vpa to v0.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update renovatebot/github-action action to v32.225.1](https://github.com/cowboysysop/charts/pull/300) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.1804.0](https://github.com/cowboysysop/charts/pull/299) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v3.1.0](https://github.com/cowboysysop/charts/pull/298) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v3.1.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/59) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
+- [test(mongo-express): take subdirectory into account in URL](https://github.com/cowboysysop/charts/pull/297) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
