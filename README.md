@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.225.1](https://github.com/cowboysysop/charts/pull/300) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.1804.0](https://github.com/cowboysysop/charts/pull/299) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/checkout action to v3.1.0](https://github.com/cowboysysop/charts/pull/298) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/checkout action to v3.1.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/59) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [test(mongo-express): take subdirectory into account in URL](https://github.com/cowboysysop/charts/pull/297) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update sigstore/cosign-installer action to v2.8.0](https://github.com/cowboysysop/docker-pytest/pull/204) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.225.1](https://github.com/cowboysysop/docker-pytest/pull/203) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v1.13.0](https://github.com/cowboysysop/docker-pytest/pull/202) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/checkout action to v3.1.0](https://github.com/cowboysysop/docker-pytest/pull/201) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency psycopg2 to v2.9.4](https://github.com/cowboysysop/docker-pytest/pull/200) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
