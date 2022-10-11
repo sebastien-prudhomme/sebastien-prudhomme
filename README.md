@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.3.1), today) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.30](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.30), 2 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-2.7.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-2.7.1), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 3 weeks ago) - 
