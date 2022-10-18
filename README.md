@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.2), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-2.7.3](https://github.com/cowboysysop/charts/releases/tag/mongo-express-2.7.3), 1 day ago) - Cowboy Sysop Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.5.0), 1 day ago) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.30](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.30), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 1 month ago) - 
 - [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 1 month ago) - 
