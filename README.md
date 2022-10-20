@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([quickchart-1.2.0](https://github.com/cowboysysop/charts/releases/tag/quickchart-1.2.0), 2 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.30](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.30), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 1 month ago) - 
