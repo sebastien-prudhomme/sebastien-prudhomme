@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (4 weeks ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v32.241.10](https://github.com/cowboysysop/charts/pull/326) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update crazy-max/ghaction-import-gpg action to v5.2.0](https://github.com/cowboysysop/charts/pull/325) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.1810.0](https://github.com/cowboysysop/charts/pull/324) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update crazy-max/ghaction-import-gpg action to v5.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/62) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update renovatebot/github-action action to v32.238.4](https://github.com/cowboysysop/docker-pytest/pull/214) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency grpcio_health_checking to v1.50.0](https://github.com/cowboysysop/docker-pytest/pull/221) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.50.0](https://github.com/cowboysysop/docker-pytest/pull/220) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v32.241.10](https://github.com/cowboysysop/docker-pytest/pull/219) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v2.8.1](https://github.com/cowboysysop/docker-pytest/pull/218) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/metadata-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/217) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
