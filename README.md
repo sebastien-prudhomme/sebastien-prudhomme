@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update kindest/node docker tag to v1.25.3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/64) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v33](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/63) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
 - [ci: update renovatebot/github-action action to v33](https://github.com/cowboysysop/docker-pytest/pull/223) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v33](https://github.com/cowboysysop/charts/pull/327) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update renovatebot/github-action action to v32.241.11](https://github.com/cowboysysop/docker-pytest/pull/222) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio_health_checking to v1.50.0](https://github.com/cowboysysop/docker-pytest/pull/221) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
