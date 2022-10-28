@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!(lighthouse-ci): update helm release postgresql to v12](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/69) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update azure/setup-helm action to v3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/68) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v34](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/67) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [ci: update kindest/node docker tag to v1.24.7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/66) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [ci: update kindest/node docker tag to v1.23.13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/65) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [ci: update kindest/node docker tag to v1.25.3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/64) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
-- [ci: update renovatebot/github-action action to v33 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/63) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
 
 #### 📜 My recent blog posts
 
