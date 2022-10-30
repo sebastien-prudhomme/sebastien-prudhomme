@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 weeks ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (1 month ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update helm release postgresql to v12](https://github.com/cowboysysop/charts/pull/335) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v34](https://github.com/cowboysysop/charts/pull/334) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update helm release mongodb to v13.3.0](https://github.com/cowboysysop/charts/pull/333) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency python to v3.11.0](https://github.com/cowboysysop/charts/pull/332) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update azure/setup-helm action to v3.4](https://github.com/cowboysysop/charts/pull/331) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v34](https://github.com/cowboysysop/docker-pytest/pull/228) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [test: update dependency pytest to v7.2.0](https://github.com/cowboysysop/docker-pytest/pull/227) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency python to v3.11.0](https://github.com/cowboysysop/docker-pytest/pull/226) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.12.0](https://github.com/cowboysysop/docker-pytest/pull/225) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency psycopg2 to v2.9.5](https://github.com/cowboysysop/docker-pytest/pull/224) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
