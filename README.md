@@ -31,7 +31,7 @@
 - [ci: update renovatebot/github-action action to v34.19.0](https://github.com/cowboysysop/docker-pytest/pull/230) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update cycjimmy/semantic-release-action action to v3.2.0](https://github.com/cowboysysop/docker-pytest/pull/229) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update helm release postgresql to v12.1.0](https://github.com/cowboysysop/charts/pull/338) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v34.19.0](https://github.com/cowboysysop/charts/pull/337) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v34.19.3](https://github.com/cowboysysop/charts/pull/337) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release mariadb to v11.3.4](https://github.com/cowboysysop/charts/pull/336) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
