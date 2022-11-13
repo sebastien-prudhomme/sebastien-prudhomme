@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v34.23.2](https://github.com/cowboysysop/docker-pytest/pull/234) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.23.1](https://github.com/cowboysysop/docker-pytest/pull/233) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18.12.1](https://github.com/cowboysysop/docker-pytest/pull/232) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update helm release mariadb to v11.3.5](https://github.com/cowboysysop/charts/pull/340) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v34.19.3](https://github.com/cowboysysop/docker-pytest/pull/231) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v34.19.0](https://github.com/cowboysysop/docker-pytest/pull/230) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
