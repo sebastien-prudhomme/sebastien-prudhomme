@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kroki): update yuzutech/kroki to v0.18.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/70) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v34.24.0](https://github.com/cowboysysop/docker-pytest/pull/235) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update renovatebot/github-action action to v34.23.2](https://github.com/cowboysysop/docker-pytest/pull/234) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update renovatebot/github-action action to v34.23.1](https://github.com/cowboysysop/docker-pytest/pull/233) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update dependency node to v18.12.1](https://github.com/cowboysysop/docker-pytest/pull/232) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [fix: update helm release mariadb to v11.3.5](https://github.com/cowboysysop/charts/pull/340) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
