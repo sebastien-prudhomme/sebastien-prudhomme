@@ -30,7 +30,7 @@
 
 - [ci: update renovatebot/github-action action to v34.28.0](https://github.com/cowboysysop/docker-pytest/pull/236) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update helm release mariadb to v11.4.0](https://github.com/cowboysysop/charts/pull/344) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v34.28.0](https://github.com/cowboysysop/charts/pull/343) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v34.28.1](https://github.com/cowboysysop/charts/pull/343) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.1877.0](https://github.com/cowboysysop/charts/pull/342) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki): update yuzutech/kroki to v0.18.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/70) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
 
