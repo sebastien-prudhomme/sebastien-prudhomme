@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.9.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.0), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.0), 3 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.33](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.33), 3 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 2 months ago) - 
@@ -31,7 +31,7 @@
 - [ci: update renovatebot/github-action action to v34.28.0](https://github.com/cowboysysop/docker-pytest/pull/236) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update helm release mariadb to v11.4.0](https://github.com/cowboysysop/charts/pull/344) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v34.28.0](https://github.com/cowboysysop/charts/pull/343) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.1876.0](https://github.com/cowboysysop/charts/pull/342) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.1877.0](https://github.com/cowboysysop/charts/pull/342) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki): update yuzutech/kroki to v0.18.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/70) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
 
 #### 📜 My recent blog posts
