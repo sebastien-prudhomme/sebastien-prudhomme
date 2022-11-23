@@ -24,7 +24,7 @@
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.0), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.33](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.33), 3 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 2 months ago) - 
-- [sebastien-prudhomme/github-actions-for-packages](https://github.com/sebastien-prudhomme/github-actions-for-packages) ([1.2.432](https://github.com/sebastien-prudhomme/github-actions-for-packages/releases/tag/1.2.432), 2 months ago) - 
+- [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 8 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
