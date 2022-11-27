@@ -32,7 +32,7 @@
 - [ci: update renovatebot/github-action action to v34.28.1](https://github.com/cowboysysop/docker-pytest/pull/237) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v34.28.0](https://github.com/cowboysysop/docker-pytest/pull/236) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [feat: update helm release mariadb to v11.4.0](https://github.com/cowboysysop/charts/pull/344) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update renovatebot/github-action action to v34.39.0](https://github.com/cowboysysop/charts/pull/343) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update renovatebot/github-action action to v34.39.3](https://github.com/cowboysysop/charts/pull/343) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
