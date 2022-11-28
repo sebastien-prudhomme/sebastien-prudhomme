@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.7.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-18.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.0), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.0), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.33](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.33), 4 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 2 months ago) - 
