@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v34.48.3](https://github.com/cowboysysop/docker-pytest/pull/245) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest-testinfra to v7](https://github.com/cowboysysop/docker-pytest/pull/244) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.51.1](https://github.com/cowboysysop/docker-pytest/pull/243) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.51.1](https://github.com/cowboysysop/docker-pytest/pull/242) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.48.0](https://github.com/cowboysysop/docker-pytest/pull/241) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update helm release postgresql to v12.1.3](https://github.com/cowboysysop/charts/pull/346) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
