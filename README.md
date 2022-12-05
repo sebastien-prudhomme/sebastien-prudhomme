@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.1), today) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.35), 1 day ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.1](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.1), 1 day ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 2 months ago) - 
