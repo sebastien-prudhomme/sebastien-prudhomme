@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [FIX #23019 Impossible to add task times to an existing draft invoice](https://github.com/Dolibarr/dolibarr/pull/23219) on [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) (today)
 - [ci: update renovatebot/github-action action to v34.54.2](https://github.com/cowboysysop/docker-pytest/pull/248) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v34.54.1](https://github.com/cowboysysop/docker-pytest/pull/247) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update actions/setup-python action to v4.3.1](https://github.com/cowboysysop/docker-pytest/pull/246) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update dependency python to v3.11.1](https://github.com/cowboysysop/charts/pull/348) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update actions/setup-python action to v4.3.1](https://github.com/cowboysysop/charts/pull/347) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
