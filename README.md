@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (2 months ago)
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) -  (3 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-6.0.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-6.0.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.1.0), today) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.35), 1 week ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.1](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.1), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 3 months ago) - 
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 9 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add Kubernetes v1.26](https://github.com/cowboysysop/charts/pull/350) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix(vertical-pod-autoscaler): fix Kubernetes minimum version](https://github.com/cowboysysop/charts/pull/349) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [FIX #23019 Impossible to add task times to an existing draft invoice](https://github.com/Dolibarr/dolibarr/pull/23219) on [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) (1 day ago)
 - [ci: update renovatebot/github-action action to v34.54.2](https://github.com/cowboysysop/docker-pytest/pull/248) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [ci: update renovatebot/github-action action to v34.54.1](https://github.com/cowboysysop/docker-pytest/pull/247) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update actions/setup-python action to v4.3.1](https://github.com/cowboysysop/docker-pytest/pull/246) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency python to v3.11.1](https://github.com/cowboysysop/charts/pull/348) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
