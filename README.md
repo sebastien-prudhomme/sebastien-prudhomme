@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [tuxgasy/docker-dolibarr](https://github.com/tuxgasy/docker-dolibarr) - Docker image for Dolibarr with auto installer on first boot (2 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-4.1.3](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-4.1.3), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0), 2 days ago) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.7.1](https://github.com/cowboysysop/charts/releases/tag/whoami-2.7.1), 3 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.35), 2 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 3 months ago) - 
 - [sebastien-prudhomme/roue-emotions](https://github.com/sebastien-prudhomme/roue-emotions) ([1.4.1](https://github.com/sebastien-prudhomme/roue-emotions/releases/tag/1.4.1), 9 months ago) - Une roue pour identifier ses émotions, ses besoins et les solutions pour aller mieux
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v34.62.1](https://github.com/cowboysysop/docker-pytest/pull/250) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/checkout action to v3.2.0](https://github.com/cowboysysop/docker-pytest/pull/249) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update helm/kind-action action to v1.5.0](https://github.com/cowboysysop/charts/pull/354) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update azure/setup-helm action to v3.5](https://github.com/cowboysysop/charts/pull/353) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/checkout action to v3.2.0](https://github.com/cowboysysop/charts/pull/352) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update helm release postgresql to v12.1.5](https://github.com/cowboysysop/charts/pull/351) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: add Kubernetes v1.26](https://github.com/cowboysysop/charts/pull/350) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
