@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v34.63.1](https://github.com/cowboysysop/docker-pytest/pull/252) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.63.0](https://github.com/cowboysysop/docker-pytest/pull/251) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.62.1](https://github.com/cowboysysop/docker-pytest/pull/250) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3.2.0](https://github.com/cowboysysop/docker-pytest/pull/249) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update helm/kind-action action to v1.5.0](https://github.com/cowboysysop/charts/pull/354) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update azure/setup-helm action to v3.5](https://github.com/cowboysysop/charts/pull/353) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
