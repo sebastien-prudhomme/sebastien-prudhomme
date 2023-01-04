@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-2.8.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-2.8.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kubeview-2.7.0](https://github.com/cowboysysop/charts/releases/tag/kubeview-2.7.0), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1), 6 days ago) - Prometheus community Helm charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.35), 1 month ago) - Docker Image for Pytest
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.3), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kubeview): update application version to 0.1.31](https://github.com/cowboysysop/charts/pull/360) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v34.77.1](https://github.com/cowboysysop/docker-pytest/pull/257) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v34.77.0](https://github.com/cowboysysop/docker-pytest/pull/256) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update renovatebot/github-action action to v34.73.1](https://github.com/cowboysysop/docker-pytest/pull/255) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v34.73.0](https://github.com/cowboysysop/docker-pytest/pull/254) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-python action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/253) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
