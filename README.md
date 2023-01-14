@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.25.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.0.0), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-2.7.2](https://github.com/cowboysysop/charts/releases/tag/whoami-2.7.2), 4 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.35), 1 month ago) - Docker Image for Pytest
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.3), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
