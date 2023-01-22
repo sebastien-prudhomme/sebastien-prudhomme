@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v34.108.5](https://github.com/cowboysysop/docker-pytest/pull/274) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.108.4](https://github.com/cowboysysop/docker-pytest/pull/273) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update github/super-linter action to v4.10.1](https://github.com/cowboysysop/docker-pytest/pull/272) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update yuzutech/kroki to v0.19.0](https://github.com/cowboysysop/charts/pull/376) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release mongodb to v13.6.4](https://github.com/cowboysysop/charts/pull/375) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update helm release mariadb to v11.4.4](https://github.com/cowboysysop/charts/pull/374) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
