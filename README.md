@@ -30,7 +30,7 @@
 
 - [ci: update renovatebot/github-action action to v34.109.1](https://github.com/cowboysysop/docker-pytest/pull/275) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.109.1](https://github.com/cowboysysop/charts/pull/380) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2077.0](https://github.com/cowboysysop/charts/pull/379) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2078.0](https://github.com/cowboysysop/charts/pull/379) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release postgresql to v12.1.11](https://github.com/cowboysysop/charts/pull/378) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release mongodb to v13.6.6](https://github.com/cowboysysop/charts/pull/377) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
