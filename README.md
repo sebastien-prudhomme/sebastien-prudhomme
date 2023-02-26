@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update helm release mongodb to v13.8.1](https://github.com/cowboysysop/charts/pull/392) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update helm release mariadb to v11.5.0](https://github.com/cowboysysop/charts/pull/391) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v34.146.0](https://github.com/cowboysysop/docker-pytest/pull/285) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v34.145.1](https://github.com/cowboysysop/docker-pytest/pull/284) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v18.14.1](https://github.com/cowboysysop/docker-pytest/pull/283) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update dependency cosign to v2](https://github.com/cowboysysop/docker-pytest/pull/290) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v34.152.4](https://github.com/cowboysysop/docker-pytest/pull/289) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio_health_checking to v1.51.3](https://github.com/cowboysysop/docker-pytest/pull/288) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.51.3](https://github.com/cowboysysop/docker-pytest/pull/287) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v18.14.2](https://github.com/cowboysysop/docker-pytest/pull/286) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
