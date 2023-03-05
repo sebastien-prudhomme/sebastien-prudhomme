@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update sigstore/cosign-installer action to v3](https://github.com/cowboysysop/docker-pytest/pull/294) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v34.157.0](https://github.com/cowboysysop/docker-pytest/pull/293) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [test: update dependency pytest to v7.2.2](https://github.com/cowboysysop/docker-pytest/pull/292) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v34.152.5](https://github.com/cowboysysop/docker-pytest/pull/291) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update dependency cosign to v2](https://github.com/cowboysysop/docker-pytest/pull/290) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v34.152.4](https://github.com/cowboysysop/docker-pytest/pull/289) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio_health_checking to v1.51.3](https://github.com/cowboysysop/docker-pytest/pull/288) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio to v1.51.3](https://github.com/cowboysysop/docker-pytest/pull/287) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
