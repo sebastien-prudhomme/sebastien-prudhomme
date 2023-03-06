@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!(dolibarr): update tuxgasy/dolibarr docker tag to v17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/72) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat!: update tuxgasy/dolibarr docker tag to v17](https://github.com/cowboysysop/charts/pull/393) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update sigstore/cosign-installer action to v3](https://github.com/cowboysysop/docker-pytest/pull/294) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update renovatebot/github-action action to v34.157.0](https://github.com/cowboysysop/docker-pytest/pull/293) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [test: update dependency pytest to v7.2.2](https://github.com/cowboysysop/docker-pytest/pull/292) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update renovatebot/github-action action to v34.152.5](https://github.com/cowboysysop/docker-pytest/pull/291) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
