@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v35](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/73) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat(vertical-pod-autoscaler)!: refactor image management](https://github.com/cowboysysop/charts/pull/395) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat!(dolibarr): update tuxgasy/dolibarr docker tag to v17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/72) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
 - [feat!: update tuxgasy/dolibarr docker tag to v17](https://github.com/cowboysysop/charts/pull/393) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [ci: update sigstore/cosign-installer action to v3](https://github.com/cowboysysop/docker-pytest/pull/294) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update renovatebot/github-action action to v34.157.0](https://github.com/cowboysysop/docker-pytest/pull/293) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 
 #### 📜 My recent blog posts
 
