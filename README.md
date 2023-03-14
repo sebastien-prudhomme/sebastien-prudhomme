@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v36](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/74) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v35](https://github.com/cowboysysop/docker-pytest/pull/298) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update renovatebot/github-action action to v34.159.2](https://github.com/cowboysysop/docker-pytest/pull/297) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update dependency node to v18.15.0](https://github.com/cowboysysop/docker-pytest/pull/296) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update cycjimmy/semantic-release-action action to v3.3.0](https://github.com/cowboysysop/docker-pytest/pull/295) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update renovatebot/github-action action to v35](https://github.com/cowboysysop/charts/pull/401) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
