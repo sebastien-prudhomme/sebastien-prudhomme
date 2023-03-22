@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update helm release mariadb to v11.5.5](https://github.com/cowboysysop/charts/pull/412) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/charts/pull/411) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/docker-pytest/pull/302) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: refactor image management](https://github.com/cowboysysop/charts/pull/410) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: move some not maintained charts to archives](https://github.com/cowboysysop/charts/pull/409) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v36](https://github.com/cowboysysop/docker-pytest/pull/301) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update cycjimmy/semantic-release-action action to v3.4.0](https://github.com/cowboysysop/docker-pytest/pull/300) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
