@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-3.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-3.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-7.0.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-7.0.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), today) - Prometheus community Helm charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 2 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 weeks ago) - Docker Image for Pytest
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(whoami): update docker.io/traefik/whoami docker tag to v1.9.0](https://github.com/cowboysysop/charts/pull/414) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release mariadb to v11.5.5](https://github.com/cowboysysop/charts/pull/412) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/charts/pull/411) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/docker-pytest/pull/302) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: refactor image management](https://github.com/cowboysysop/charts/pull/410) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
