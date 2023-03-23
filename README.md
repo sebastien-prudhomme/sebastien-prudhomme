@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 days ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 months ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-7.0.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-7.0.1), today) - Cowboy Sysop Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), today) - Prometheus community Helm charts
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 2 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-7.0.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-7.0.1), 1 day ago) - Cowboy Sysop Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), 1 day ago) - Prometheus community Helm charts
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 3 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(whoami): update docker.io/traefik/whoami docker tag to v1.9.0](https://github.com/cowboysysop/charts/pull/414) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update helm release mariadb to v11.5.5](https://github.com/cowboysysop/charts/pull/412) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/charts/pull/411) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/docker-pytest/pull/302) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [feat(whoami): update docker.io/traefik/whoami docker tag to v1.9.0](https://github.com/cowboysysop/charts/pull/414) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update helm release mariadb to v11.5.5](https://github.com/cowboysysop/charts/pull/412) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/charts/pull/411) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/docker-pytest/pull/302) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
