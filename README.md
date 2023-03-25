@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update helm/chart-testing-action action to v2.4.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/75) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat(whoami): update docker.io/traefik/whoami docker tag to v1.9.0](https://github.com/cowboysysop/charts/pull/414) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update helm release mariadb to v11.5.5](https://github.com/cowboysysop/charts/pull/412) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/charts/pull/411) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: allow manual launch of Renovate workflow](https://github.com/cowboysysop/docker-pytest/pull/302) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
