@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update helm/chart-testing-action action to v2.4.0](https://github.com/cowboysysop/charts/pull/417) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/304) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v36.0.2](https://github.com/cowboysysop/docker-pytest/pull/303) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3.5.0](https://github.com/cowboysysop/charts/pull/416) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v36.0.2](https://github.com/cowboysysop/charts/pull/415) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update helm/chart-testing-action action to v2.4.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/75) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [feat(whoami): update docker.io/traefik/whoami docker tag to v1.9.0](https://github.com/cowboysysop/charts/pull/414) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.11.0](https://github.com/cowboysysop/charts/pull/413) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
