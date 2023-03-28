@@ -60,6 +60,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ZAX6](https://github.com/ZAX6)
 - [Vatoth](https://github.com/Vatoth)
 - [zhouqiang-cl](https://github.com/zhouqiang-cl)
 - [MaKyOtOx](https://github.com/MaKyOtOx)
