@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: fix deprecated set-output command](https://github.com/cowboysysop/charts/pull/418) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update dependency semantic-release to v21](https://github.com/cowboysysop/docker-pytest/pull/305) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update helm/chart-testing-action action to v2.4.0](https://github.com/cowboysysop/charts/pull/417) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update actions/checkout action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/304) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update renovatebot/github-action action to v36.0.2](https://github.com/cowboysysop/docker-pytest/pull/303) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [feat!: update docker.io/tuxgasy/dolibarr docker tag to v17](https://github.com/cowboysysop/charts/pull/426) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/yuzutech/kroki to v0.20.0](https://github.com/cowboysysop/charts/pull/425) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.26.3](https://github.com/cowboysysop/charts/pull/424) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.25.8](https://github.com/cowboysysop/charts/pull/423) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.24.12](https://github.com/cowboysysop/charts/pull/422) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
