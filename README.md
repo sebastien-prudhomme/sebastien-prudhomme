@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update kindest/node docker tag to v1.25.8](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/79) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update kindest/node docker tag to v1.24.12](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/78) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update kindest/node docker tag to v1.23.17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/77) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update kindest/node docker tag to v1.22.17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/76) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat!: update docker.io/tuxgasy/dolibarr docker tag to v17](https://github.com/cowboysysop/charts/pull/426) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: update docker.io/yuzutech/kroki to v0.20.0](https://github.com/cowboysysop/charts/pull/425) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update kindest/node docker tag to v1.26.3](https://github.com/cowboysysop/charts/pull/424) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update kindest/node docker tag to v1.25.8](https://github.com/cowboysysop/charts/pull/423) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update kindest/node docker tag to v1.24.12](https://github.com/cowboysysop/charts/pull/422) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
