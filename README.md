@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 weeks ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (3 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v7.3.0](https://github.com/cowboysysop/docker-pytest/pull/311) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency psycopg2 to v2.9.6](https://github.com/cowboysysop/docker-pytest/pull/310) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency python to v3.11.3](https://github.com/cowboysysop/charts/pull/430) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(mpi-operator): update mpioperator/mpi-operator docker tag to v0.4.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/80) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 - [fix: update helm release mariadb to v11.5.6](https://github.com/cowboysysop/charts/pull/429) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update dependency grpcio_health_checking to v1.53.0](https://github.com/cowboysysop/docker-pytest/pull/309) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio to v1.53.0](https://github.com/cowboysysop/docker-pytest/pull/308) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
