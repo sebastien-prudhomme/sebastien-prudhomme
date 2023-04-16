@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [ci: update github/super-linter action to v5](https://github.com/cowboysysop/docker-pytest/pull/316) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2275.0](https://github.com/cowboysysop/charts/pull/435) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2276.0](https://github.com/cowboysysop/charts/pull/435) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency node to v18.16.0](https://github.com/cowboysysop/docker-pytest/pull/315) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.3.1](https://github.com/cowboysysop/docker-pytest/pull/314) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update helm release postgresql to v12.2.8](https://github.com/cowboysysop/charts/pull/434) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
