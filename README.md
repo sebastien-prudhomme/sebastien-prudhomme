@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.3](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.3), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.4](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.4), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 3 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 1 month ago) - Docker Image for Pytest
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update github/super-linter action to v5](https://github.com/cowboysysop/docker-pytest/pull/316) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2270.0](https://github.com/cowboysysop/charts/pull/435) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency node to v18.16.0](https://github.com/cowboysysop/docker-pytest/pull/315) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.3.1](https://github.com/cowboysysop/docker-pytest/pull/314) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update helm release postgresql to v12.2.8](https://github.com/cowboysysop/charts/pull/434) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update helm release mariadb to v11.5.7](https://github.com/cowboysysop/charts/pull/433) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
