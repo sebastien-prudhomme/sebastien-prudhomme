@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (4 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update helm release postgresql to v12.2.8](https://github.com/cowboysysop/charts/pull/434) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update helm release mariadb to v11.5.7](https://github.com/cowboysysop/charts/pull/433) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update github/super-linter action to v4.10.2](https://github.com/cowboysysop/docker-pytest/pull/313) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/checkout action to v3.5.2](https://github.com/cowboysysop/docker-pytest/pull/312) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/bitnami/kubectl docker tag to v1.26.4](https://github.com/cowboysysop/charts/pull/432) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/checkout action to v3.5.2](https://github.com/cowboysysop/charts/pull/431) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [test: update dependency pytest to v7.3.0](https://github.com/cowboysysop/docker-pytest/pull/311) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency psycopg2 to v2.9.6](https://github.com/cowboysysop/docker-pytest/pull/310) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency python to v3.11.3](https://github.com/cowboysysop/charts/pull/430) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
