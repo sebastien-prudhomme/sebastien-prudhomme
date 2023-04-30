@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.2), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.4](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.4), 2 weeks ago) - Cowboy Sysop Charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 2 months ago) - Docker Image for Pytest
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency requests to v2.29.0](https://github.com/cowboysysop/docker-pytest/pull/323) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v20](https://github.com/cowboysysop/docker-pytest/pull/322) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency grpcio_health_checking to v1.54.0](https://github.com/cowboysysop/docker-pytest/pull/321) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency grpcio to v1.54.0](https://github.com/cowboysysop/docker-pytest/pull/320) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update docker/metadata-action action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/319) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [feat: update helm release postgresql to v12.4.2](https://github.com/cowboysysop/charts/pull/438) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
