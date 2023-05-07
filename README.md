@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency requests to v2.30.0](https://github.com/cowboysysop/docker-pytest/pull/325) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v36.1.1](https://github.com/cowboysysop/docker-pytest/pull/324) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency requests to v2.29.0](https://github.com/cowboysysop/docker-pytest/pull/323) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update dependency node to v20](https://github.com/cowboysysop/docker-pytest/pull/322) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 - [fix: update dependency grpcio_health_checking to v1.54.0](https://github.com/cowboysysop/docker-pytest/pull/321) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [fix: update dependency grpcio to v1.54.0](https://github.com/cowboysysop/docker-pytest/pull/320) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [ci: update docker/metadata-action action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/319) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
