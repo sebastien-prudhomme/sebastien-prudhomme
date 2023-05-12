@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.8.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.4](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.4), 3 weeks ago) - Cowboy Sysop Charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([16.0.5](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 2 months ago) - Docker Image for Pytest
