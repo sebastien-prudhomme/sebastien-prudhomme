@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v37](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/82) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix: update dependency requests to v2.30.0](https://github.com/cowboysysop/docker-pytest/pull/325) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update renovatebot/github-action action to v36.1.1](https://github.com/cowboysysop/docker-pytest/pull/324) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [fix: update dependency requests to v2.29.0](https://github.com/cowboysysop/docker-pytest/pull/323) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update dependency node to v20](https://github.com/cowboysysop/docker-pytest/pull/322) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [fix: update dependency grpcio_health_checking to v1.54.0](https://github.com/cowboysysop/docker-pytest/pull/321) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
