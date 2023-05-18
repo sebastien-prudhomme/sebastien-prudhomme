@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add an environment variable to manage rebuild in Docker image](https://github.com/go-skynet/LocalAI/pull/290) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (today)
 - [ci: update kindest/node docker tag to v1.25.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/84) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [ci: update kindest/node docker tag to v1.24.13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/83) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [ci: update renovatebot/github-action action to v37](https://github.com/cowboysysop/docker-pytest/pull/328) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [fix: update dependency grpcio_health_checking to v1.54.2](https://github.com/cowboysysop/docker-pytest/pull/327) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency grpcio to v1.54.2](https://github.com/cowboysysop/docker-pytest/pull/326) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
