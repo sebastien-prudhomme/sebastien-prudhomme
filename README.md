@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest-testinfra to v8](https://github.com/cowboysysop/docker-pytest/pull/329) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/yuzutech/kroki to v0.21.2](https://github.com/cowboysysop/charts/pull/440) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: add an environment variable to manage rebuild in Docker image](https://github.com/go-skynet/LocalAI/pull/290) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (3 days ago)
 - [ci: update kindest/node docker tag to v1.25.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/84) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
 - [ci: update kindest/node docker tag to v1.24.13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/83) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update renovatebot/github-action action to v37](https://github.com/cowboysysop/docker-pytest/pull/328) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
