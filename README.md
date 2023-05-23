@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (4 days ago)
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (5 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (5 months ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.31.0), today) - Prometheus community Helm charts
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 6 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.31.0), 1 day ago) - Prometheus community Helm charts
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 week ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.4](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.4), 1 month ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) ([v1.0.1](https://github.com/sebastien-prudhomme/docker-pytest2/releases/tag/v1.0.1), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [test: update dependency pytest-testinfra to v8](https://github.com/cowboysysop/docker-pytest/pull/329) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [feat: update docker.io/yuzutech/kroki to v0.21.2](https://github.com/cowboysysop/charts/pull/440) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: add an environment variable to manage rebuild in Docker image](https://github.com/go-skynet/LocalAI/pull/290) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (4 days ago)
-- [ci: update kindest/node docker tag to v1.25.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/84) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [ci: update kindest/node docker tag to v1.24.13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/83) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [test: update dependency pytest-testinfra to v8](https://github.com/cowboysysop/docker-pytest/pull/329) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.21.2](https://github.com/cowboysysop/charts/pull/440) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat: add an environment variable to manage rebuild in Docker image](https://github.com/go-skynet/LocalAI/pull/290) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (5 days ago)
+- [ci: update kindest/node docker tag to v1.25.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/84) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
+- [ci: update kindest/node docker tag to v1.24.13](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/83) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (3 days ago)
+- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (4 days ago)
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. (1 month ago)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 month ago)
 - [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - DevSecOps for Air Gap &amp; Limited-Connection Systems. https://zarf.dev/ (1 month ago)
