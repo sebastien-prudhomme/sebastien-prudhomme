@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), today) - Prometheus community Helm charts
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.15.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.15.0), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), 1 day ago) - Prometheus community Helm charts
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.15.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.15.0), 4 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 week ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.1.4](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.1.4), 1 month ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 2 months ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v38](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/85) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [test: update dependency pytest-testinfra to v8](https://github.com/cowboysysop/docker-pytest/pull/329) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [feat: update docker.io/yuzutech/kroki to v0.21.2](https://github.com/cowboysysop/charts/pull/440) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update renovatebot/github-action action to v38](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/85) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [test: update dependency pytest-testinfra to v8](https://github.com/cowboysysop/docker-pytest/pull/329) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.21.2](https://github.com/cowboysysop/charts/pull/440) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [feat: add an environment variable to manage rebuild in Docker image](https://github.com/go-skynet/LocalAI/pull/290) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 week ago)
 - [ci: update kindest/node docker tag to v1.25.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/84) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 
