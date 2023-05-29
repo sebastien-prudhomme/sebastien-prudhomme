@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix typo in variable name](https://github.com/go-skynet/LocalAI/pull/424) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (today)
 - [feat: add CuBLAS support in Docker images](https://github.com/go-skynet/LocalAI/pull/403) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 day ago)
 - [ci: update renovatebot/github-action action to v38](https://github.com/cowboysysop/docker-pytest/pull/332) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [fix: update dependency requests to v2.31.0](https://github.com/cowboysysop/docker-pytest/pull/331) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update actions/setup-python action to v4.6.1](https://github.com/cowboysysop/docker-pytest/pull/330) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update renovatebot/github-action action to v38](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/85) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 
 #### 📜 My recent blog posts
 
