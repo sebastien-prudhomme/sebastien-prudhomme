@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: build Docker image variants](https://github.com/go-skynet/LocalAI/pull/456) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (today)
 - [Docker ci](https://github.com/sebastien-prudhomme/LocalAI/pull/1) on [sebastien-prudhomme/LocalAI](https://github.com/sebastien-prudhomme/LocalAI) (today)
 - [ci: fix typo in variable name](https://github.com/go-skynet/LocalAI/pull/424) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (2 days ago)
 - [feat: add CuBLAS support in Docker images](https://github.com/go-skynet/LocalAI/pull/403) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (3 days ago)
-- [ci: update renovatebot/github-action action to v38](https://github.com/cowboysysop/docker-pytest/pull/332) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency requests to v2.31.0](https://github.com/cowboysysop/docker-pytest/pull/331) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
