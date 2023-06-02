@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others! (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (5 months ago)
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.2.0), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-4.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-4.0.0), 1 day ago) - Cowboy Sysop Charts
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.17.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.17.1), 2 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.2.0), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-4.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-4.0.0), 2 days ago) - Cowboy Sysop Charts
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.17.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.17.1), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required. LocalAI is a RESTful API to run ggml compatible models: llama.cpp, alpaca.cpp, gpt4all.cpp, rwkv.cpp, whisper.cpp, vicuna, koala, gpt4all-j, cerebras and many others!
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 2 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: build Docker image variants](https://github.com/go-skynet/LocalAI/pull/456) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 day ago)
-- [Docker ci](https://github.com/sebastien-prudhomme/LocalAI/pull/1) on [sebastien-prudhomme/LocalAI](https://github.com/sebastien-prudhomme/LocalAI) (1 day ago)
-- [ci: fix typo in variable name](https://github.com/go-skynet/LocalAI/pull/424) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (3 days ago)
-- [feat: add CuBLAS support in Docker images](https://github.com/go-skynet/LocalAI/pull/403) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (4 days ago)
+- [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: build Docker image variants](https://github.com/go-skynet/LocalAI/pull/456) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (2 days ago)
+- [Docker ci](https://github.com/sebastien-prudhomme/LocalAI/pull/1) on [sebastien-prudhomme/LocalAI](https://github.com/sebastien-prudhomme/LocalAI) (2 days ago)
+- [ci: fix typo in variable name](https://github.com/go-skynet/LocalAI/pull/424) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (4 days ago)
+- [feat: add CuBLAS support in Docker images](https://github.com/go-skynet/LocalAI/pull/403) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow using LangchainJS (2 days ago)
-- [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui (5 days ago)
-- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (1 week ago)
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow using LangchainJS (3 days ago)
+- [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui (6 days ago)
+- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (2 weeks ago)
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. (1 month ago)
-- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (1 month ago)
+- [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
