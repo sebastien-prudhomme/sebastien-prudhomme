@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (today)
 - [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: build Docker image variants](https://github.com/go-skynet/LocalAI/pull/456) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (3 days ago)
 - [Docker ci](https://github.com/sebastien-prudhomme/LocalAI/pull/1) on [sebastien-prudhomme/LocalAI](https://github.com/sebastien-prudhomme/LocalAI) (3 days ago)
 - [ci: fix typo in variable name](https://github.com/go-skynet/LocalAI/pull/424) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (5 days ago)
-- [feat: add CuBLAS support in Docker images](https://github.com/go-skynet/LocalAI/pull/403) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (6 days ago)
 
 #### 📜 My recent blog posts
 
