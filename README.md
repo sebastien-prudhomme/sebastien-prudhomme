@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2373.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2375.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(local-ai): first version of the chart](https://github.com/cowboysysop/charts/pull/444) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 day ago)
 - [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
