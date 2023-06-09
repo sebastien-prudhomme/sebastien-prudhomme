@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (6 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (5 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0), today) - Prometheus community Helm charts
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.18.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.18.0), 2 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([local-ai-1.1.0](https://github.com/cowboysysop/charts/releases/tag/local-ai-1.1.0), 3 days ago) - Cowboy Sysop Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0), 1 day ago) - Prometheus community Helm charts
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.18.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.18.0), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([local-ai-1.1.0](https://github.com/cowboysysop/charts/releases/tag/local-ai-1.1.0), 4 days ago) - Cowboy Sysop Charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 3 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(local-ai): allow to preload models](https://github.com/cowboysysop/charts/pull/446) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2375.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(local-ai): first version of the chart](https://github.com/cowboysysop/charts/pull/444) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (5 days ago)
+- [feat(local-ai): allow to preload models](https://github.com/cowboysysop/charts/pull/446) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2375.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [feat(local-ai): first version of the chart](https://github.com/cowboysysop/charts/pull/444) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (6 days ago)
 - [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -54,7 +54,7 @@
 
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow using LangchainJS (1 week ago)
 - [ParisNeo/gpt4all-ui](https://github.com/ParisNeo/gpt4all-ui) - gpt4all chatbot ui (1 week ago)
-- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (2 weeks ago)
+- [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (3 weeks ago)
 - [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. (2 months ago)
 - [getporter/porter](https://github.com/getporter/porter) - Porter enables you to package your application artifact, client tools, configuration and deployment logic together as an installer that you can distribute, and install with a single command. (2 months ago)
 
