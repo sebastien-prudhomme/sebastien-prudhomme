@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (1 week ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media. (5 months ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v7.3.2](https://github.com/cowboysysop/docker-pytest/pull/334) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3.5.3](https://github.com/cowboysysop/docker-pytest/pull/333) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat(local-ai): allow to preload models](https://github.com/cowboysysop/charts/pull/446) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2384.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat(local-ai): first version of the chart](https://github.com/cowboysysop/charts/pull/444) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 week ago)
 
 #### 📜 My recent blog posts
 
