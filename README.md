@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency conventional-changelog-conventionalcommits to v6](https://github.com/cowboysysop/docker-pytest/pull/338) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/metadata-action action to v4.5.0](https://github.com/cowboysysop/docker-pytest/pull/337) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/login-action action to v2.2.0](https://github.com/cowboysysop/docker-pytest/pull/336) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/335) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.3.2](https://github.com/cowboysysop/docker-pytest/pull/334) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/checkout action to v3.5.3](https://github.com/cowboysysop/docker-pytest/pull/333) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
