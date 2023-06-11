@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/checkout action to v3.5.3](https://github.com/cowboysysop/docker-pytest/pull/333) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat(local-ai): allow to preload models](https://github.com/cowboysysop/charts/pull/446) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2384.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat(local-ai): first version of the chart](https://github.com/cowboysysop/charts/pull/444) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [fix: display help with correct default values](https://github.com/go-skynet/LocalAI/pull/481) on [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) (1 week ago)
-- [feat(whoami): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/443) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
