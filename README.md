@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/login-action action to v2.2.0](https://github.com/cowboysysop/docker-pytest/pull/336) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/335) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.3.2](https://github.com/cowboysysop/docker-pytest/pull/334) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3.5.3](https://github.com/cowboysysop/docker-pytest/pull/333) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat(local-ai): allow to preload models](https://github.com/cowboysysop/charts/pull/446) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2384.0](https://github.com/cowboysysop/charts/pull/445) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
