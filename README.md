@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
+- [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (today)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (2 days ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow using LangchainJS (2 weeks ago)
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui (2 weeks ago)
 - [bofenghuang/vigogne](https://github.com/bofenghuang/vigogne) - French instruction-following and chat models (3 weeks ago)
-- [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
