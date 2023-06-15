@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update kindest/node docker tag to v1.25.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/87) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update kindest/node docker tag to v1.24.15](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/86) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat!: update helm release mariadb to v12](https://github.com/cowboysysop/charts/pull/460) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update renovatebot/github-action action to v38](https://github.com/cowboysysop/charts/pull/459) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.18.0](https://github.com/cowboysysop/charts/pull/458) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update helm release mongodb to v13.15.1](https://github.com/cowboysysop/charts/pull/457) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update helm release common to v2.4.0](https://github.com/cowboysysop/charts/pull/456) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
