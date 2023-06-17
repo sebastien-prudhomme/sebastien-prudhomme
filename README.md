@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
-- [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (5 days ago)
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (6 days ago)
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (2 weeks ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.1), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.2.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.2.0), today) - Cowboy Sysop Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.1), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.2.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.2.0), 1 day ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.18.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.18.0), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 3 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(qdrant): first version of the chart](https://github.com/cowboysysop/charts/pull/461) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update kindest/node docker tag to v1.25.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/87) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [ci: update kindest/node docker tag to v1.24.15](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/86) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
-- [feat!: update helm release mariadb to v12](https://github.com/cowboysysop/charts/pull/460) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update renovatebot/github-action action to v38](https://github.com/cowboysysop/charts/pull/459) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat(qdrant): first version of the chart](https://github.com/cowboysysop/charts/pull/461) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update kindest/node docker tag to v1.25.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/87) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
+- [ci: update kindest/node docker tag to v1.24.15](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/86) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
+- [feat!: update helm release mariadb to v12](https://github.com/cowboysysop/charts/pull/460) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update renovatebot/github-action action to v38](https://github.com/cowboysysop/charts/pull/459) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (today)
-- [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (2 days ago)
-- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (4 days ago)
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (1 day ago)
+- [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (3 days ago)
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (5 days ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow using LangchainJS (2 weeks ago)
-- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui (2 weeks ago)
+- [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
