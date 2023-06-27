@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 weeks ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (3 weeks ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.2.1](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.2.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.1), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-7.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-7.1.0), 3 days ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.19.2](https://github.com/go-skynet/LocalAI/releases/tag/v1.19.2), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v38.1.8](https://github.com/cowboysysop/charts/pull/465) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update kindest/node docker tag to v1.26.6](https://github.com/cowboysysop/charts/pull/464) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
