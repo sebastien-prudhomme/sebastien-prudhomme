@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v38.1.8](https://github.com/cowboysysop/charts/pull/465) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update kindest/node docker tag to v1.26.6](https://github.com/cowboysysop/charts/pull/464) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update kindest/node docker tag to v1.24.15](https://github.com/cowboysysop/charts/pull/463) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v0.14.0](https://github.com/cowboysysop/charts/pull/462) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat(qdrant): first version of the chart](https://github.com/cowboysysop/charts/pull/461) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
