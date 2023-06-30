@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(local-ai): update quay.io/go-skynet/local-ai docker tag to v1.20.1-ffmpeg](https://github.com/cowboysysop/charts/pull/469) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update renovatebot/github-action action to v38.1.8](https://github.com/cowboysysop/charts/pull/465) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [ci: update kindest/node docker tag to v1.26.6](https://github.com/cowboysysop/charts/pull/464) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update kindest/node docker tag to v1.24.15](https://github.com/cowboysysop/charts/pull/463) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
