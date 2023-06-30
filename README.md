@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 weeks ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (3 weeks ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), today) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 1 day ago) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.2.1](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.2.1), 2 days ago) - Cowboy Sysop Charts
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 1 day ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 2 days ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-5.2.1](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-5.2.1), 3 days ago) - Cowboy Sysop Charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v38.1.8](https://github.com/cowboysysop/charts/pull/465) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update kindest/node docker tag to v1.26.6](https://github.com/cowboysysop/charts/pull/464) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update kindest/node docker tag to v1.24.15](https://github.com/cowboysysop/charts/pull/463) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update renovatebot/github-action action to v38.1.8](https://github.com/cowboysysop/charts/pull/465) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update kindest/node docker tag to v1.26.6](https://github.com/cowboysysop/charts/pull/464) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update kindest/node docker tag to v1.24.15](https://github.com/cowboysysop/charts/pull/463) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (1 week ago)
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (2 weeks ago)
 - [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (2 weeks ago)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (2 weeks ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (1 month ago)
