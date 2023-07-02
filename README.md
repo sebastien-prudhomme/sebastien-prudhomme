@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.6.0), today) - Prometheus community Helm charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), today) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-3.2.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-3.2.1), 1 day ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 4 days ago) - Prometheus community Helm charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/92) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/91) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/90) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/89) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/88) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts/pull/2) on [sebastien-prudhomme/cowboysysop-charts](https://github.com/sebastien-prudhomme/cowboysysop-charts) (today)
-- [feat: update helm release postgresql to v12.6.0](https://github.com/cowboysysop/charts/pull/471) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
