@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update bridgecrewio/checkov-action action to v12.2408.0](https://github.com/cowboysysop/charts/pull/472) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/92) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/91) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/90) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/89) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/88) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 
 #### 📜 My recent blog posts
 
