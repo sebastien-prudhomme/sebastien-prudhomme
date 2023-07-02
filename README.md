@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (3 weeks ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (4 weeks ago)
-- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/90) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/89) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/88) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts/pull/2) on [sebastien-prudhomme/cowboysysop-charts](https://github.com/sebastien-prudhomme/cowboysysop-charts) (today)
 - [feat: update helm release postgresql to v12.6.0](https://github.com/cowboysysop/charts/pull/471) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update helm release mongodb to v13.15.4](https://github.com/cowboysysop/charts/pull/470) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(local-ai): update quay.io/go-skynet/local-ai docker tag to v1.20.1-ffmpeg](https://github.com/cowboysysop/charts/pull/469) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.0](https://github.com/cowboysysop/charts/pull/467) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: update helm release postgresql to v12.5.8](https://github.com/cowboysysop/charts/pull/466) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
