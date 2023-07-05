@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-1.0.0](https://github.com/cowboysysop/charts/releases/tag/flowise-1.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kubebox-4.0.0](https://github.com/cowboysysop/charts/releases/tag/kubebox-4.0.0), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0), 1 day ago) - Prometheus community Helm charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 3 days ago) - 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 6 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kubebox)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/475) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(flowise): first version of the chart](https://github.com/cowboysysop/charts/pull/474) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(dolibarr): refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/473) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2408.0](https://github.com/cowboysysop/charts/pull/472) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/92) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
-- [Testlock](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/91) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 
 #### 📜 My recent blog posts
 
