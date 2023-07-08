@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (3 weeks ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([quickchart-3.0.0](https://github.com/cowboysysop/charts/releases/tag/quickchart-3.0.0), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.8.2), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-6.0.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-6.0.0), 2 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 days ago) - 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(quickchart)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/479) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(lighthouse-ci)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/478) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.12.14](https://github.com/cowboysysop/charts/pull/477) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(kubeview)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/476) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(kubebox)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/475) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat(flowise): first version of the chart](https://github.com/cowboysysop/charts/pull/474) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
