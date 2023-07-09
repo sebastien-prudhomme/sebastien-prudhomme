@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update helm release common to v2.6.0](https://github.com/cowboysysop/charts/pull/482) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2412.0](https://github.com/cowboysysop/charts/pull/481) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/qdrant/qdrant docker tag to v1.3.1](https://github.com/cowboysysop/charts/pull/480) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(quickchart)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/479) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(lighthouse-ci)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/478) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.12.14](https://github.com/cowboysysop/charts/pull/477) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
