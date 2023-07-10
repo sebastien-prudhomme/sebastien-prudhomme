@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mongo-express)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/484) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/483) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: update helm release common to v2.6.0](https://github.com/cowboysysop/charts/pull/482) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2414.0](https://github.com/cowboysysop/charts/pull/481) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.1](https://github.com/cowboysysop/charts/pull/480) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(quickchart)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/479) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
