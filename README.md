@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.19.0), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-4.0.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-4.0.0), 2 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 week ago) - 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.12.15](https://github.com/cowboysysop/charts/pull/485) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(mongo-express)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/484) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat(kroki)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/483) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat: update helm release common to v2.6.0](https://github.com/cowboysysop/charts/pull/482) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2414.0](https://github.com/cowboysysop/charts/pull/481) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix(qdrant): update docker.io/qdrant/qdrant docker tag to v1.3.1](https://github.com/cowboysysop/charts/pull/480) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
