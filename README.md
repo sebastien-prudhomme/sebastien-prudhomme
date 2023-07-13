@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v39](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/93) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.12.15](https://github.com/cowboysysop/charts/pull/485) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(mongo-express)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/484) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(kroki)!: refactor port management and allow configuring container ports](https://github.com/cowboysysop/charts/pull/483) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [feat: update helm release common to v2.6.0](https://github.com/cowboysysop/charts/pull/482) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2414.0](https://github.com/cowboysysop/charts/pull/481) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
