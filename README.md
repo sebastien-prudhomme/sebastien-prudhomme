@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.56.0](https://github.com/cowboysysop/docker-pytest/pull/345) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.56.0](https://github.com/cowboysysop/docker-pytest/pull/344) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/metadata-action action to v4.6.0](https://github.com/cowboysysop/docker-pytest/pull/343) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v4.7.0](https://github.com/cowboysysop/docker-pytest/pull/342) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/341) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/build-push-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/340) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
