@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/341) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/340) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18.16.1](https://github.com/cowboysysop/docker-pytest/pull/339) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2420.0](https://github.com/cowboysysop/charts/pull/487) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/qdrant/qdrant docker tag to v1.3.2](https://github.com/cowboysysop/charts/pull/486) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v39](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/93) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 
 #### 📜 My recent blog posts
 
