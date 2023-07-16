@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/metadata-action action to v4.6.0](https://github.com/cowboysysop/docker-pytest/pull/343) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v4.7.0](https://github.com/cowboysysop/docker-pytest/pull/342) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/341) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/340) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18.16.1](https://github.com/cowboysysop/docker-pytest/pull/339) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2420.0](https://github.com/cowboysysop/charts/pull/487) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
