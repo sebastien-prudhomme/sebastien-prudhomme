@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-8.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-8.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-4.0.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-4.0.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0), today) - Prometheus community Helm charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 2 weeks ago) - 
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.20.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.20.1), 2 weeks ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
