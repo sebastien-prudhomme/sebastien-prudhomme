@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-3.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-3.2.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-1.1.1](https://github.com/cowboysysop/charts/releases/tag/flowise-1.1.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.9.0), today) - Prometheus community Helm charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.21.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.21.0), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 2 weeks ago) - 
@@ -30,7 +30,7 @@
 
 - [feat: update helm release mongodb to v13.16.0](https://github.com/cowboysysop/charts/pull/501) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2427.0](https://github.com/cowboysysop/charts/pull/500) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/flowiseai/flowise docker tag to v1.2.16](https://github.com/cowboysysop/charts/pull/499) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.2.16](https://github.com/cowboysysop/charts/pull/499) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(local-ai): update quay.io/go-skynet/local-ai docker tag to v1.21.0-ffmpeg](https://github.com/cowboysysop/charts/pull/498) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(vertical-pod-autoscaler): allow resources for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/497) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
