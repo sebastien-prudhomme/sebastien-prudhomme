@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.7.0), today) - Prometheus community Helm charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.22.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.22.0), today) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-3.2.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-3.2.0), 2 days ago) - Cowboy Sysop Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.20.1), 2 days ago) - Prometheus community Helm charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 3 weeks ago) - 
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 2 months ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2433.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2434.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update helm release mongodb to v13.16.0](https://github.com/cowboysysop/charts/pull/501) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2427.0](https://github.com/cowboysysop/charts/pull/500) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.2.16](https://github.com/cowboysysop/charts/pull/499) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
