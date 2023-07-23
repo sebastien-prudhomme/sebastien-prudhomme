@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2431.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2433.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update helm release mongodb to v13.16.0](https://github.com/cowboysysop/charts/pull/501) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2427.0](https://github.com/cowboysysop/charts/pull/500) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.2.16](https://github.com/cowboysysop/charts/pull/499) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
