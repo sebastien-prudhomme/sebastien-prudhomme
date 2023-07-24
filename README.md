@@ -5,8 +5,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (1 month ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other (1 month ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix renovate](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/94) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update quay.io/go-skynet/local-ai docker tag to v1.22.0](https://github.com/cowboysysop/charts/pull/504) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2436.0](https://github.com/cowboysysop/charts/pull/503) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2434.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: update helm release mongodb to v13.16.0](https://github.com/cowboysysop/charts/pull/501) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2427.0](https://github.com/cowboysysop/charts/pull/500) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.2.16](https://github.com/cowboysysop/charts/pull/499) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [feat(local-ai): update quay.io/go-skynet/local-ai docker tag to v1.21.0-ffmpeg](https://github.com/cowboysysop/charts/pull/498) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
