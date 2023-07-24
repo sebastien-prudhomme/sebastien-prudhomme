@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: update helm release mariadb to v12](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/98) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update helm release common to v2.6.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/97) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update docker.io/bitnami/kubectl docker tag to v1.27.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/96) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [fix: update helm release postgresql to v12.6.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/95) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [Fix renovate](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/94) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [feat: update quay.io/go-skynet/local-ai docker tag to v1.22.0](https://github.com/cowboysysop/charts/pull/504) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2436.0](https://github.com/cowboysysop/charts/pull/503) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2434.0](https://github.com/cowboysysop/charts/pull/502) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: update helm release mongodb to v13.16.0](https://github.com/cowboysysop/charts/pull/501) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
