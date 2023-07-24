@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update quay.io/go-skynet/local-ai docker tag to v1.22.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/101) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update docker.io/traefik/whoami docker tag to v1.10.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/100) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/99) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat!: update helm release mariadb to v12](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/98) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat: update helm release common to v2.6.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/97) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [feat: update docker.io/bitnami/kubectl docker tag to v1.27.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/96) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [fix: update helm release postgresql to v12.6.9](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/95) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [Fix renovate](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/94) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 
 #### 📜 My recent blog posts
 
