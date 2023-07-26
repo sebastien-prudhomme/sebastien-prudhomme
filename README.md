@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update Kubernetes and Helm prerequisites](https://github.com/cowboysysop/charts/pull/506) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: fix Renovate configuration](https://github.com/cowboysysop/charts/pull/505) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.23.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/102) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.22.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/101) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
 - [feat: update docker.io/traefik/whoami docker tag to v1.10.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/100) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
-- [feat: update docker.io/patrickhulce/lhci-server docker tag to v0.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/99) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
 
 #### 📜 My recent blog posts
 
