@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update docker.io/flowiseai/flowise docker tag to v1.3.2](https://github.com/cowboysysop/charts/pull/510) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.23.0](https://github.com/cowboysysop/charts/pull/509) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(flowise): allow application configuration and SQL database](https://github.com/cowboysysop/charts/pull/508) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2443.0](https://github.com/cowboysysop/charts/pull/507) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat!: update Kubernetes and Helm prerequisites](https://github.com/cowboysysop/charts/pull/506) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: fix Renovate configuration](https://github.com/cowboysysop/charts/pull/505) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
