@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.23.2](https://github.com/go-skynet/LocalAI/releases/tag/v1.23.2), today) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.2), today) - Prometheus community Helm charts
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.23.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.23.1), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-2.1.0](https://github.com/cowboysysop/charts/releases/tag/flowise-2.1.0), 6 days ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 month ago) - 
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1), 2 months ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 
 #### 🔨 My recent Pull Requests
 
+- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.4.0](https://github.com/cowboysysop/charts/pull/512) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v1.3.2](https://github.com/cowboysysop/charts/pull/510) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.23.0](https://github.com/cowboysysop/charts/pull/509) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [feat(flowise): allow application configuration and SQL database](https://github.com/cowboysysop/charts/pull/508) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2443.0](https://github.com/cowboysysop/charts/pull/507) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat!: update Kubernetes and Helm prerequisites](https://github.com/cowboysysop/charts/pull/506) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
