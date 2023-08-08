@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.39.0](https://github.com/cowboysysop/charts/pull/518) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2455.0](https://github.com/cowboysysop/charts/pull/517) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat!: update helm release mariadb to v13](https://github.com/cowboysysop/charts/pull/516) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.34.0](https://github.com/cowboysysop/charts/pull/515) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2453.0](https://github.com/cowboysysop/charts/pull/514) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update helm release mongodb to v13.16.2](https://github.com/cowboysysop/charts/pull/513) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(qdrant): update docker.io/qdrant/qdrant docker tag to v1.4.0](https://github.com/cowboysysop/charts/pull/512) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
