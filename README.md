@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 weeks ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others (2 months ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.5.0), today) - Prometheus community Helm charts
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.24.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.24.1), 2 days ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 6 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.5.0), 1 day ago) - Prometheus community Helm charts
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.24.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.24.1), 3 days ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 1 week ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-5.0.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-5.0.1), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/tuxgasy/dolibarr docker tag to v17.0.3](https://github.com/cowboysysop/charts/pull/520) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/qdrant/qdrant docker tag to v1.4.1](https://github.com/cowboysysop/charts/pull/519) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix: update docker.io/tuxgasy/dolibarr docker tag to v17.0.3](https://github.com/cowboysysop/charts/pull/520) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix: update docker.io/qdrant/qdrant docker tag to v1.4.1](https://github.com/cowboysysop/charts/pull/519) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.42.4](https://github.com/cowboysysop/charts/pull/518) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2459.0](https://github.com/cowboysysop/charts/pull/517) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat!: update helm release mariadb to v13](https://github.com/cowboysysop/charts/pull/516) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
