@@ -31,7 +31,7 @@
 - [fix: update docker.io/tuxgasy/dolibarr docker tag to v17.0.3](https://github.com/cowboysysop/charts/pull/520) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [fix: update docker.io/qdrant/qdrant docker tag to v1.4.1](https://github.com/cowboysysop/charts/pull/519) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.52.2](https://github.com/cowboysysop/charts/pull/518) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2464.0](https://github.com/cowboysysop/charts/pull/517) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2465.0](https://github.com/cowboysysop/charts/pull/517) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat!: update helm release mariadb to v13](https://github.com/cowboysysop/charts/pull/516) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
