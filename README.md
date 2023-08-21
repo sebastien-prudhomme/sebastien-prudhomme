@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.24.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.24.1), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many others
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 1 week ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). It is open source software (written in PHP) and designed for small and medium businesses, foundations and freelancers. You can freely install, use and distribute it as a standalone application or as a web application to use it from every internet access and media.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-5.0.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-5.0.1), 2 weeks ago) - Cowboy Sysop Charts
@@ -36,7 +36,7 @@
 
 #### 📜 My recent blog posts
 
-- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (2 years ago)
+- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (3 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (3 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (4 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 1)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-1/) (4 years ago)
