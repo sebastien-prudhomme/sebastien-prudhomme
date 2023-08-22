@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.0), today) - Prometheus community Helm charts
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([qdrant-2.1.1](https://github.com/cowboysysop/charts/releases/tag/qdrant-2.1.1), 1 day ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.24.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.24.1), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 1 week ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
