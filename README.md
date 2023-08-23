@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: remove no more used applications](https://github.com/cowboysysop/charts/pull/528) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(vertical-pod-autoscaler): allow pod labels for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/527) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.24.1](https://github.com/cowboysysop/charts/pull/525) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat: update docker.io/yuzutech/kroki to v0.22.0](https://github.com/cowboysysop/charts/pull/524) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [fix: update helm release postgresql to v12.8.4](https://github.com/cowboysysop/charts/pull/523) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update helm release mongodb to v13.16.4](https://github.com/cowboysysop/charts/pull/522) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
