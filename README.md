@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-2.2.1](https://github.com/cowboysysop/charts/releases/tag/flowise-2.2.1), today) - Cowboy Sysop Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.4.0), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.1.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.1.0), 2 days ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.24.1](https://github.com/go-skynet/LocalAI/releases/tag/v1.24.1), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 2 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update bridgecrewio/checkov-action action to v12.2472.0](https://github.com/cowboysysop/charts/pull/529) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: remove no more used applications](https://github.com/cowboysysop/charts/pull/528) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(vertical-pod-autoscaler): allow pod labels for the job that is managing CRDs](https://github.com/cowboysysop/charts/pull/527) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.24.1](https://github.com/cowboysysop/charts/pull/525) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat: update docker.io/yuzutech/kroki to v0.22.0](https://github.com/cowboysysop/charts/pull/524) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update helm release postgresql to v12.8.4](https://github.com/cowboysysop/charts/pull/523) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
