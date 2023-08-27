@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency psycopg2 to v2.9.7](https://github.com/cowboysysop/docker-pytest/pull/348) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update quay.io/go-skynet/local-ai docker tag to v1.25.0](https://github.com/cowboysysop/charts/pull/534) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.64.4](https://github.com/cowboysysop/charts/pull/533) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.64.6](https://github.com/cowboysysop/charts/pull/533) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.64.3](https://github.com/cowboysysop/charts/pull/532) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update actions/checkout action to v3.6.0](https://github.com/cowboysysop/charts/pull/531) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2472.0](https://github.com/cowboysysop/charts/pull/529) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
