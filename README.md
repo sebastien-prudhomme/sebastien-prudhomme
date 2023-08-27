@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v18.17.1](https://github.com/cowboysysop/docker-pytest/pull/351) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/350) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v3.6.0](https://github.com/cowboysysop/docker-pytest/pull/349) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v39.0.2](https://github.com/cowboysysop/charts/pull/535) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency psycopg2 to v2.9.7](https://github.com/cowboysysop/docker-pytest/pull/348) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat: update quay.io/go-skynet/local-ai docker tag to v1.25.0](https://github.com/cowboysysop/charts/pull/534) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
