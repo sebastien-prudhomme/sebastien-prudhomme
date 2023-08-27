@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.57.0](https://github.com/cowboysysop/docker-pytest/pull/353) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2473.0](https://github.com/cowboysysop/charts/pull/536) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency grpcio to v1.57.0](https://github.com/cowboysysop/docker-pytest/pull/352) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v18.17.1](https://github.com/cowboysysop/docker-pytest/pull/351) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/350) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/checkout action to v3.6.0](https://github.com/cowboysysop/docker-pytest/pull/349) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
