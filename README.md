@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency conventional-changelog-conventionalcommits to v7](https://github.com/cowboysysop/docker-pytest/pull/355) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest-testinfra to v9](https://github.com/cowboysysop/docker-pytest/pull/354) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.57.0](https://github.com/cowboysysop/docker-pytest/pull/353) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2474.0](https://github.com/cowboysysop/charts/pull/536) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2476.0](https://github.com/cowboysysop/charts/pull/536) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency grpcio to v1.57.0](https://github.com/cowboysysop/docker-pytest/pull/352) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency node to v18.17.1](https://github.com/cowboysysop/docker-pytest/pull/351) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
