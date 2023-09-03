@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.78.8](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update helm release common to v2.9.2](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [test: update dependency pytest to v7.4.1](https://github.com/cowboysysop/docker-pytest/pull/356) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v39.0.5](https://github.com/cowboysysop/charts/pull/539) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.11.5](https://github.com/cowboysysop/charts/pull/538) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2483.0](https://github.com/cowboysysop/charts/pull/537) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update dependency conventional-changelog-conventionalcommits to v7](https://github.com/cowboysysop/docker-pytest/pull/355) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [test: update dependency pytest-testinfra to v9](https://github.com/cowboysysop/docker-pytest/pull/354) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
