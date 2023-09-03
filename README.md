@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (2 months ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (3 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-50.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-50.0.0), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-7.3.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-7.3.0), 1 day ago) - Cowboy Sysop Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-50.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-50.0.0), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-7.3.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-7.3.0), 2 days ago) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.25.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.25.0), 1 week ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([17.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3), 3 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2483.0](https://github.com/cowboysysop/charts/pull/537) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update dependency conventional-changelog-conventionalcommits to v7](https://github.com/cowboysysop/docker-pytest/pull/355) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [test: update dependency pytest-testinfra to v9](https://github.com/cowboysysop/docker-pytest/pull/354) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency grpcio_health_checking to v1.57.0](https://github.com/cowboysysop/docker-pytest/pull/353) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2476.0](https://github.com/cowboysysop/charts/pull/536) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update renovatebot/github-action action to v39.0.5](https://github.com/cowboysysop/charts/pull/539) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency python to v3.11.5](https://github.com/cowboysysop/charts/pull/538) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2483.0](https://github.com/cowboysysop/charts/pull/537) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update dependency conventional-changelog-conventionalcommits to v7](https://github.com/cowboysysop/docker-pytest/pull/355) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [test: update dependency pytest-testinfra to v9](https://github.com/cowboysysop/docker-pytest/pull/354) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
