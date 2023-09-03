@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2485.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2486.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update cycjimmy/semantic-release-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/357) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v36.78.8](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release common to v2.9.2](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
