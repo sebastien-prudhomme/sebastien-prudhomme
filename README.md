@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (3 months ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (3 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), today) - Prometheus community Helm charts
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.3.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.3.0), 3 days ago) - Cowboy Sysop Charts
-- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([18.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/18.0.1), 4 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), 1 day ago) - Prometheus community Helm charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.3.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.3.0), 4 days ago) - Cowboy Sysop Charts
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([18.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/18.0.1), 5 days ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.25.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.25.0), 2 weeks ago) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2486.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update cycjimmy/semantic-release-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/357) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.78.8](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update helm release common to v2.9.2](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [test: update dependency pytest to v7.4.1](https://github.com/cowboysysop/docker-pytest/pull/356) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2491.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update cycjimmy/semantic-release-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/357) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.89.0](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update helm release common to v2.10.1](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [test: update dependency pytest to v7.4.1](https://github.com/cowboysysop/docker-pytest/pull/356) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -55,7 +55,7 @@
 - [jouve/charts](https://github.com/jouve/charts) -  (1 month ago)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (2 months ago)
 - [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (2 months ago)
-- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (2 months ago)
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (3 months ago)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow (3 months ago)
 
 #### 👯 Check out some of my recent followers
