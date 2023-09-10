@@ -30,7 +30,7 @@
 
 - [ci: update bridgecrewio/checkov-action action to v12.2491.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update cycjimmy/semantic-release-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/357) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.89.0](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.91.0](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update helm release common to v2.10.1](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [test: update dependency pytest to v7.4.1](https://github.com/cowboysysop/docker-pytest/pull/356) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
