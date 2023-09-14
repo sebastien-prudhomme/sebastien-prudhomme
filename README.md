@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2493.0](https://github.com/cowboysysop/charts/pull/542) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update cycjimmy/semantic-release-action action to v4](https://github.com/cowboysysop/docker-pytest/pull/357) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v36.91.0](https://github.com/cowboysysop/charts/pull/541) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update helm release common to v2.10.1](https://github.com/cowboysysop/charts/pull/540) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [test: update dependency pytest to v7.4.1](https://github.com/cowboysysop/docker-pytest/pull/356) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [feat!: update docker.io/tuxgasy/dolibarr docker tag to v18](https://github.com/cowboysysop/charts/pull/548) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update crazy-max/ghaction-import-gpg action to v6](https://github.com/cowboysysop/charts/pull/547) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v4](https://github.com/cowboysysop/charts/pull/546) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update helm release postgresql to v12.11.1](https://github.com/cowboysysop/charts/pull/545) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/qdrant/qdrant docker tag to v1.5.1](https://github.com/cowboysysop/charts/pull/544) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
