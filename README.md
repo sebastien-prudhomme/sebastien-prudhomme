@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (3 months ago)
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (3 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/build-push-action action to v4.2.1](https://github.com/cowboysysop/docker-pytest/pull/359) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.4.2](https://github.com/cowboysysop/docker-pytest/pull/358) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/tuxgasy/dolibarr docker tag to v18](https://github.com/cowboysysop/charts/pull/548) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update crazy-max/ghaction-import-gpg action to v6](https://github.com/cowboysysop/charts/pull/547) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update actions/checkout action to v4](https://github.com/cowboysysop/charts/pull/546) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update helm release postgresql to v12.11.1](https://github.com/cowboysysop/charts/pull/545) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
