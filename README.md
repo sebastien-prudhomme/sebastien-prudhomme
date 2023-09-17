@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v7.4.2](https://github.com/cowboysysop/docker-pytest/pull/358) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/tuxgasy/dolibarr docker tag to v18](https://github.com/cowboysysop/charts/pull/548) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update crazy-max/ghaction-import-gpg action to v6](https://github.com/cowboysysop/charts/pull/547) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update actions/checkout action to v4](https://github.com/cowboysysop/charts/pull/546) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat: update helm release postgresql to v12.11.1](https://github.com/cowboysysop/charts/pull/545) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update docker.io/qdrant/qdrant docker tag to v1.5.1](https://github.com/cowboysysop/charts/pull/544) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
