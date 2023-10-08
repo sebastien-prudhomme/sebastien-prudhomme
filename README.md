@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [cowboysysop/docker-qdrant](https://github.com/cowboysysop/docker-qdrant) -  (3 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([local-ai-3.0.0](https://github.com/cowboysysop/charts/releases/tag/local-ai-3.0.0), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-5.2.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-5.2.1), today) - Cowboy Sysop Charts
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) ([v1.30.0](https://github.com/go-skynet/LocalAI/releases/tag/v1.30.0), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([18.0.1](https://github.com/Dolibarr/dolibarr/releases/tag/18.0.1), 1 month ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 3 months ago) - 
