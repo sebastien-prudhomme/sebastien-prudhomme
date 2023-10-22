@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.0.0](https://github.com/cowboysysop/charts/pull/559) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat!: update helm release postgresql to v13](https://github.com/cowboysysop/charts/pull/558) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat(mongo-express): update helm release mongodb to v14.0.5](https://github.com/cowboysysop/charts/pull/557) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37](https://github.com/cowboysysop/charts/pull/556) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update helm release postgresql to v12.12.10](https://github.com/cowboysysop/charts/pull/555) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.0.0](https://github.com/cowboysysop/charts/pull/559) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat!: update helm release postgresql to v13](https://github.com/cowboysysop/charts/pull/558) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat(mongo-express): update helm release mongodb to v14.0.5](https://github.com/cowboysysop/charts/pull/557) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37](https://github.com/cowboysysop/charts/pull/556) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat: update helm release postgresql to v12.12.10](https://github.com/cowboysysop/charts/pull/555) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
