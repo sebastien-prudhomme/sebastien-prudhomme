@@ -8,7 +8,7 @@
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (5 months ago)
-- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (7 months ago)
+- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update helm release mariadb to v14](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update helm release mongodb to v14.1.0](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update renovatebot/github-action action to v39.1.1](https://github.com/cowboysysop/charts/pull/570) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [feat!: update helm release mariadb to v14](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update helm release mongodb to v14.2.5](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update renovatebot/github-action action to v39.1.1](https://github.com/cowboysysop/charts/pull/570) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
