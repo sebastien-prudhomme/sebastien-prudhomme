@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.0.0](https://github.com/mudler/LocalAI/releases/tag/v2.0.0), today) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.0.0](https://github.com/mudler/LocalAI/releases/tag/v2.0.0), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.5.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.5.0), 1 week ago) - Cowboy Sysop Charts
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) ([18.0.3](https://github.com/Dolibarr/dolibarr/releases/tag/18.0.3), 3 weeks ago) - Dolibarr ERP CRM is a modern software package to manage your company or foundation&#39;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#39;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 5 months ago) - 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update helm release mariadb to v14](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
-- [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
-- [feat: update helm release mongodb to v14.3.2](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
-- [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
-- [ci: update renovatebot/github-action action to v39.1.1](https://github.com/cowboysysop/charts/pull/570) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
+- [feat!: update helm release mariadb to v14](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [feat: update helm release mongodb to v14.3.2](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [ci: update renovatebot/github-action action to v39.1.1](https://github.com/cowboysysop/charts/pull/570) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 
 #### 📜 My recent blog posts
 
