@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use port names in Helm chart](https://github.com/DefectDojo/django-DefectDojo/pull/9190) on [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) (today)
 - [feat!: update helm release mariadb to v14](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat: update helm release mongodb to v14.4.2](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
-- [ci: update renovatebot/github-action action to v39.1.1](https://github.com/cowboysysop/charts/pull/570) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 
 #### 📜 My recent blog posts
 
