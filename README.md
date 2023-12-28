@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.2.0](https://github.com/mudler/LocalAI/releases/tag/v2.2.0), 6 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.2.0](https://github.com/mudler/LocalAI/releases/tag/v2.2.0), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.5.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.5.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 5 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
