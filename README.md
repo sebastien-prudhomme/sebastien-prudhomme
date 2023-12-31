@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.3.1](https://github.com/mudler/LocalAI/releases/tag/v2.3.1), today) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.3.1](https://github.com/mudler/LocalAI/releases/tag/v2.3.1), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.5.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.5.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
@@ -30,7 +30,7 @@
 - [Use port names in Helm chart](https://github.com/DefectDojo/django-DefectDojo/pull/9190) on [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) (1 week ago)
 - [feat!: update helm release mariadb to v14 - autoclosed](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
-- [feat: update helm release mongodb to v14.4.6](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [feat: update helm release mongodb to v14.4.9](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 
 #### 📜 My recent blog posts
