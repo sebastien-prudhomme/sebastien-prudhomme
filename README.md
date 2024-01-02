@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.0), today) - ASPM, DevSecOps, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 2 days ago) - Cowboy Sysop Charts
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.3.1](https://github.com/mudler/LocalAI/releases/tag/v2.3.1), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.29.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.29.4), 1 week ago) - ASPM, DevSecOps, Vulnerability Management. All on one platform.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
 
