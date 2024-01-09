@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.1), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.5.0](https://github.com/mudler/LocalAI/releases/tag/v2.5.0), today) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.1), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.5.0](https://github.com/mudler/LocalAI/releases/tag/v2.5.0), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [Use port names in Helm chart](https://github.com/DefectDojo/django-DefectDojo/pull/9190) on [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) (2 weeks ago)
+- [Use port names in Helm chart](https://github.com/DefectDojo/django-DefectDojo/pull/9190) on [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) (3 weeks ago)
 - [feat!: update helm release mariadb to v14 - autoclosed](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
 - [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
 - [feat: update helm release mongodb to v14.4.9](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
