@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (2 weeks ago)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (7 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.5.1](https://github.com/mudler/LocalAI/releases/tag/v2.5.1), 2 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.1), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.5.1](https://github.com/mudler/LocalAI/releases/tag/v2.5.1), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.1), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
@@ -54,7 +54,7 @@
 
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (2 months ago)
 - [jouve/charts](https://github.com/jouve/charts) -  (5 months ago)
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (6 months ago)
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (7 months ago)
 - [datreeio/admission-webhook-datree](https://github.com/datreeio/admission-webhook-datree) - Datree offers cluster integration that allows you to validate your resources against your configured policy upon pushing them into a cluster, by using an admission webhook. (7 months ago)
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) - An awesome &amp; curated list of best LLMOps tools for developers (7 months ago)
 
