@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (4 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 weeks ago)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (7 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.6.0](https://github.com/mudler/LocalAI/releases/tag/v2.6.0), today) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.2), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 2 weeks ago) - Cowboy Sysop Charts
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.6.0](https://github.com/mudler/LocalAI/releases/tag/v2.6.0), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.2), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 3 weeks ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 10 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [Use port names in Helm chart](https://github.com/DefectDojo/django-DefectDojo/pull/9190) on [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) (1 month ago)
-- [feat!: update helm release mariadb to v14 - autoclosed](https://github.com/cowboysysop/charts/pull/574) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
-- [feat!: update docker.io/mongo-express docker tag to v1](https://github.com/cowboysysop/charts/pull/573) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
-- [feat: update helm release mongodb to v14.4.9](https://github.com/cowboysysop/charts/pull/572) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
-- [feat: update docker.io/ianw/quickchart docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/571) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 months ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/setup-python action to v5](https://github.com/cowboysysop/charts/pull/588) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update helm release mongodb to v14.6.1](https://github.com/cowboysysop/charts/pull/587) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/yuzutech/kroki to v0.24.1](https://github.com/cowboysysop/charts/pull/586) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
@@ -52,8 +52,8 @@
 
 #### ⭐ Recent Stars
 
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (2 days ago)
-- [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (5 days ago)
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (3 days ago)
+- [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (6 days ago)
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (2 months ago)
 - [jouve/charts](https://github.com/jouve/charts) -  (6 months ago)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (7 months ago)
