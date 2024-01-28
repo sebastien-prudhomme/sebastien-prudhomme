@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.6.1](https://github.com/mudler/LocalAI/releases/tag/v2.6.1), 4 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.3), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 3 weeks ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 6 months ago) - 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.6.1](https://github.com/mudler/LocalAI/releases/tag/v2.6.1), 5 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.3), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 4 weeks ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 7 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 11 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update actions/setup-python action to v5](https://github.com/cowboysysop/charts/pull/588) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update helm release mongodb to v14.6.1](https://github.com/cowboysysop/charts/pull/587) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update docker.io/yuzutech/kroki to v0.24.1](https://github.com/cowboysysop/charts/pull/586) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update actions/setup-python action to v5](https://github.com/cowboysysop/charts/pull/588) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update helm release mongodb to v14.7.0](https://github.com/cowboysysop/charts/pull/587) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update docker.io/yuzutech/kroki to v0.24.1](https://github.com/cowboysysop/charts/pull/586) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
