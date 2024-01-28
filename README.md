@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v7.4.4](https://github.com/cowboysysop/docker-pytest/pull/366) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.9](https://github.com/cowboysysop/docker-pytest/pull/365) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v1.13.2](https://github.com/cowboysysop/docker-pytest/pull/364) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/363) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
