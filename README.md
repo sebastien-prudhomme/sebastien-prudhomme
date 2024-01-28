@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (1 month ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others (7 months ago)
 
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency cosign to v1.13.2](https://github.com/cowboysysop/docker-pytest/pull/364) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/363) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update actions/setup-python action to v5](https://github.com/cowboysysop/charts/pull/588) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update helm release mongodb to v14.7.0](https://github.com/cowboysysop/charts/pull/587) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
