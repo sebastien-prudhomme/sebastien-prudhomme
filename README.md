@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v18.19.0](https://github.com/cowboysysop/docker-pytest/pull/368) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v4.8.0](https://github.com/cowboysysop/docker-pytest/pull/367) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v7.4.4](https://github.com/cowboysysop/docker-pytest/pull/366) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.9](https://github.com/cowboysysop/docker-pytest/pull/365) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v1.13.2](https://github.com/cowboysysop/docker-pytest/pull/364) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/setup-node action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/363) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
