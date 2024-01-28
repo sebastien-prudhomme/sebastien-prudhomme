@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/363) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v2](https://github.com/cowboysysop/charts/pull/590) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat!: update helm release mariadb to v15](https://github.com/cowboysysop/charts/pull/589) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update actions/setup-python action to v5](https://github.com/cowboysysop/charts/pull/588) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update helm release mongodb to v14.7.0](https://github.com/cowboysysop/charts/pull/587) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update docker.io/yuzutech/kroki to v0.24.1](https://github.com/cowboysysop/charts/pull/586) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
