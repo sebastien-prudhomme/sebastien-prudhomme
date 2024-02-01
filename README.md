@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.4), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.7.0](https://github.com/mudler/LocalAI/releases/tag/v2.7.0), 2 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.30.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.30.4), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.7.0](https://github.com/mudler/LocalAI/releases/tag/v2.7.0), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.1.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.1.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 7 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 11 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-node action to v4](https://github.com/cowboysysop/docker-pytest/pull/371) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio_health_checking to v1.60.0](https://github.com/cowboysysop/docker-pytest/pull/370) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio to v1.60.0](https://github.com/cowboysysop/docker-pytest/pull/369) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency node to v18.19.0](https://github.com/cowboysysop/docker-pytest/pull/368) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update actions/setup-python action to v4.8.0](https://github.com/cowboysysop/docker-pytest/pull/367) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update actions/setup-node action to v4](https://github.com/cowboysysop/docker-pytest/pull/371) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency grpcio_health_checking to v1.60.0](https://github.com/cowboysysop/docker-pytest/pull/370) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency grpcio to v1.60.0](https://github.com/cowboysysop/docker-pytest/pull/369) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update dependency node to v18.19.0](https://github.com/cowboysysop/docker-pytest/pull/368) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update actions/setup-python action to v4.8.0](https://github.com/cowboysysop/docker-pytest/pull/367) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (1 week ago)
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (2 weeks ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (2 weeks ago)
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (2 months ago)
 - [jouve/charts](https://github.com/jouve/charts) -  (6 months ago)
