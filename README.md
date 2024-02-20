@@ -52,11 +52,11 @@
 
 #### ⭐ Recent Stars
 
+- [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (today)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (1 month ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (1 month ago)
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (3 months ago)
 - [jouve/charts](https://github.com/jouve/charts) -  (7 months ago)
-- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
