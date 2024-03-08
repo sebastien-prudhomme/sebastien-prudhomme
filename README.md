@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (2 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (7 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-2.6.0](https://github.com/cowboysysop/charts/releases/tag/flowise-2.6.0), 2 days ago) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.0), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-2.6.0](https://github.com/cowboysysop/charts/releases/tag/flowise-2.6.0), 3 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.0), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.9.0](https://github.com/mudler/LocalAI/releases/tag/v2.9.0), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 8 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 1 year ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update helm release postgresql to v14](https://github.com/cowboysysop/charts/pull/605) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat!: update helm release mariadb to v16](https://github.com/cowboysysop/charts/pull/604) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat!: update docker.io/tuxgasy/dolibarr docker tag to v19](https://github.com/cowboysysop/charts/pull/603) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v40](https://github.com/cowboysysop/charts/pull/602) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat: update docker.io/atkrad/wait4x docker tag to v2.14.0](https://github.com/cowboysysop/charts/pull/601) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat!: update helm release postgresql to v14](https://github.com/cowboysysop/charts/pull/605) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat!: update helm release mariadb to v16](https://github.com/cowboysysop/charts/pull/604) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat!: update docker.io/tuxgasy/dolibarr docker tag to v19](https://github.com/cowboysysop/charts/pull/603) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update renovatebot/github-action action to v40](https://github.com/cowboysysop/charts/pull/602) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat: update docker.io/atkrad/wait4x docker tag to v2.14.0](https://github.com/cowboysysop/charts/pull/601) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
