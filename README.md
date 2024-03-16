@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.1), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.1), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-2.6.0](https://github.com/cowboysysop/charts/releases/tag/flowise-2.6.0), 1 week ago) - Cowboy Sysop Charts
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.9.0](https://github.com/mudler/LocalAI/releases/tag/v2.9.0), 2 weeks ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.9.0](https://github.com/mudler/LocalAI/releases/tag/v2.9.0), 3 weeks ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 8 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.38](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.38), 1 year ago) - Docker Image for Pytest
 
@@ -56,7 +56,7 @@
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (1 month ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (2 months ago)
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (4 months ago)
-- [jouve/charts](https://github.com/jouve/charts) -  (7 months ago)
+- [jouve/charts](https://github.com/jouve/charts) -  (8 months ago)
 
 #### 👯 Check out some of my recent followers
 
