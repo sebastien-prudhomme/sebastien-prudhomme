@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.40](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.40), today) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-8.0.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-8.0.0), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.2), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.10.1](https://github.com/mudler/LocalAI/releases/tag/v2.10.1), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add missing permissions for semantic-release](https://github.com/cowboysysop/docker-pytest/pull/386) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update super-linter/super-linter action to v6](https://github.com/cowboysysop/docker-pytest/pull/385) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: skip cosign confirmation prompts](https://github.com/cowboysysop/docker-pytest/pull/384) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest-testinfra to v10](https://github.com/cowboysysop/docker-pytest/pull/383) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [test: update dependency pytest to v8](https://github.com/cowboysysop/docker-pytest/pull/382) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v40](https://github.com/cowboysysop/docker-pytest/pull/381) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/metadata-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/380) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/login-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/379) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
