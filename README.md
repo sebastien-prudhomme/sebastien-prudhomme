@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (2 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (7 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (9 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.39](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.39), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.3.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.3.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.40](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.40), today) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-8.0.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-8.0.0), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.2), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.10.1](https://github.com/mudler/LocalAI/releases/tag/v2.10.1), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update MariaDB and PostgreSQL subcharts](https://github.com/cowboysysop/charts/pull/611) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: update helm release mongodb to v14.13.0](https://github.com/cowboysysop/charts/pull/610) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2691.0](https://github.com/cowboysysop/charts/pull/609) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v1.6.1](https://github.com/cowboysysop/charts/pull/608) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v40.1.5](https://github.com/cowboysysop/charts/pull/607) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [test: update dependency pytest-testinfra to v10](https://github.com/cowboysysop/docker-pytest/pull/383) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [test: update dependency pytest to v8](https://github.com/cowboysysop/docker-pytest/pull/382) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v40](https://github.com/cowboysysop/docker-pytest/pull/381) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/metadata-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/380) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/login-action action to v3](https://github.com/cowboysysop/docker-pytest/pull/379) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
