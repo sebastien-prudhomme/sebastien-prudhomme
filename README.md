@@ -29,7 +29,7 @@
 #### 🔨 My recent Pull Requests
 
 - [feat!: update helm release mongodb to v15](https://github.com/cowboysysop/charts/pull/616) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update helm release postgresql to v15.1.0](https://github.com/cowboysysop/charts/pull/615) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat: update helm release postgresql to v15.1.2](https://github.com/cowboysysop/charts/pull/615) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2694.0](https://github.com/cowboysysop/charts/pull/614) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update helm release mariadb to v17.0.1](https://github.com/cowboysysop/charts/pull/613) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: bump chart version when chart values are updated](https://github.com/cowboysysop/charts/pull/612) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
