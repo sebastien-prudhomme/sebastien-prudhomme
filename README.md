@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (8 months ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (9 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.1.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.1.0), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 days ago) - Docker Image for Pytest
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.2), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.10.1](https://github.com/mudler/LocalAI/releases/tag/v2.10.1), 5 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.1.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.1.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 5 days ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.2), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.10.1](https://github.com/mudler/LocalAI/releases/tag/v2.10.1), 6 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update helm release mongodb to v15](https://github.com/cowboysysop/charts/pull/616) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat: update helm release postgresql to v15.1.2](https://github.com/cowboysysop/charts/pull/615) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2694.0](https://github.com/cowboysysop/charts/pull/614) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update helm release mariadb to v17.0.1](https://github.com/cowboysysop/charts/pull/613) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: bump chart version when chart values are updated](https://github.com/cowboysysop/charts/pull/612) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat!: update helm release mongodb to v15](https://github.com/cowboysysop/charts/pull/616) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat: update helm release postgresql to v15.1.2](https://github.com/cowboysysop/charts/pull/615) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2694.0](https://github.com/cowboysysop/charts/pull/614) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [fix: update helm release mariadb to v17.0.1](https://github.com/cowboysysop/charts/pull/613) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: bump chart version when chart values are updated](https://github.com/cowboysysop/charts/pull/612) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (3 days ago)
+- [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (4 days ago)
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (1 month ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (2 months ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (2 months ago)
