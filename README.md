@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (8 months ago)
@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency semantic-release to v23.0.6](https://github.com/cowboysysop/docker-pytest/pull/387) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [feat!: update helm release mongodb to v15](https://github.com/cowboysysop/charts/pull/616) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update helm release postgresql to v15.1.2](https://github.com/cowboysysop/charts/pull/615) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2694.0](https://github.com/cowboysysop/charts/pull/614) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update helm release mariadb to v17.0.1](https://github.com/cowboysysop/charts/pull/613) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.1.0](https://github.com/cowboysysop/charts/pull/625) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/setup-python action to v5.1.0](https://github.com/cowboysysop/charts/pull/624) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.1](https://github.com/cowboysysop/charts/pull/623) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.1.30](https://github.com/cowboysysop/charts/pull/622) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v40.1.7](https://github.com/cowboysysop/charts/pull/621) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
