@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([lighthouse-ci-8.1.0](https://github.com/cowboysysop/charts/releases/tag/lighthouse-ci-8.1.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.1.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.1.1), today) - Cowboy Sysop Charts
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.11.0](https://github.com/mudler/LocalAI/releases/tag/v2.11.0), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.3), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 week ago) - Docker Image for Pytest
