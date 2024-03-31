@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (8 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.1.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.1.1), 1 day ago) - Cowboy Sysop Charts
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.11.0](https://github.com/mudler/LocalAI/releases/tag/v2.11.0), 4 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.3), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.1.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.1.1), 2 days ago) - Cowboy Sysop Charts
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.11.0](https://github.com/mudler/LocalAI/releases/tag/v2.11.0), 5 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.32.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.32.3), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 9 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.1.0](https://github.com/cowboysysop/charts/pull/625) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update actions/setup-python action to v5.1.0](https://github.com/cowboysysop/charts/pull/624) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(dolibarr): update docker.io/tuxgasy/dolibarr docker tag to v19.0.1 and wait for database](https://github.com/cowboysysop/charts/pull/623) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.30](https://github.com/cowboysysop/charts/pull/622) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v40.1.7](https://github.com/cowboysysop/charts/pull/621) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.278.0](https://github.com/cowboysysop/charts/pull/626) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.1.0](https://github.com/cowboysysop/charts/pull/625) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update actions/setup-python action to v5.1.0](https://github.com/cowboysysop/charts/pull/624) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat(dolibarr): update docker.io/tuxgasy/dolibarr docker tag to v19.0.1 and wait for database](https://github.com/cowboysysop/charts/pull/623) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.30](https://github.com/cowboysysop/charts/pull/622) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
