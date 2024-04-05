@@ -28,7 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/yuzutech/kroki to v0.25.0](https://github.com/cowboysysop/charts/pull/629) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat(kroki): update docker.io/yuzutech/kroki to v0.25.0](https://github.com/cowboysysop/charts/pull/629) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2705.0](https://github.com/cowboysysop/charts/pull/628) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix(flowise): update docker.io/flowiseai/flowise docker tag to v1.6.3](https://github.com/cowboysysop/charts/pull/627) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update dependency node to v20.12.0](https://github.com/cowboysysop/docker-pytest/pull/390) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
