@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update super-linter/super-linter action to v6.3.1](https://github.com/cowboysysop/docker-pytest/pull/391) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.280.0](https://github.com/cowboysysop/charts/pull/632) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update helm release mongodb to v15.1.3](https://github.com/cowboysysop/charts/pull/631) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.1.31](https://github.com/cowboysysop/charts/pull/630) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki): update docker.io/yuzutech/kroki to v0.25.0](https://github.com/cowboysysop/charts/pull/629) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2705.0](https://github.com/cowboysysop/charts/pull/628) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
