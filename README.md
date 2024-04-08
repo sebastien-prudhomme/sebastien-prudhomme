@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.0.2](https://github.com/cowboysysop/charts/releases/tag/ollama-1.0.2), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.1), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.4.2](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.4.2), 1 day ago) - Cowboy Sysop Charts
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.11.0](https://github.com/mudler/LocalAI/releases/tag/v2.11.0), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 2 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 9 months ago) - 
@@ -31,7 +31,7 @@
 - [ci: update super-linter/super-linter action to v6.3.1](https://github.com/cowboysysop/docker-pytest/pull/391) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.280.0](https://github.com/cowboysysop/charts/pull/632) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update helm release mongodb to v15.1.3](https://github.com/cowboysysop/charts/pull/631) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.1.31](https://github.com/cowboysysop/charts/pull/630) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.31](https://github.com/cowboysysop/charts/pull/630) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(kroki): update docker.io/yuzutech/kroki to v0.25.0](https://github.com/cowboysysop/charts/pull/629) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
