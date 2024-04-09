@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mongo-express): allow deployment annotations and remove basic authentication from probes](https://github.com/cowboysysop/charts/pull/634) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(vertical-pod-autoscaler): allow using host network for the admission controller](https://github.com/cowboysysop/charts/pull/633) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update super-linter/super-linter action to v6.3.1](https://github.com/cowboysysop/docker-pytest/pull/391) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.280.0](https://github.com/cowboysysop/charts/pull/632) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [fix: update helm release mongodb to v15.1.3](https://github.com/cowboysysop/charts/pull/631) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.31](https://github.com/cowboysysop/charts/pull/630) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
