@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: update helm release mariadb to v18](https://github.com/cowboysysop/charts/pull/638) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update helm release postgresql to v15.2.5](https://github.com/cowboysysop/charts/pull/637) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.282.1](https://github.com/cowboysysop/charts/pull/636) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v1.6.4](https://github.com/cowboysysop/charts/pull/635) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(mongo-express): allow deployment annotations and remove basic authentication from probes](https://github.com/cowboysysop/charts/pull/634) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(vertical-pod-autoscaler): allow using host network for the admission controller](https://github.com/cowboysysop/charts/pull/633) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update super-linter/super-linter action to v6.3.1](https://github.com/cowboysysop/docker-pytest/pull/391) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.280.0](https://github.com/cowboysysop/charts/pull/632) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update helm release mongodb to v15.1.3](https://github.com/cowboysysop/charts/pull/631) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
