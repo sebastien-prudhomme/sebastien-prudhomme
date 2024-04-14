@@ -32,7 +32,7 @@
 - [ci: update sigstore/cosign-installer action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/394) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency python to v3.12.3](https://github.com/cowboysysop/docker-pytest/pull/393) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.2.4](https://github.com/cowboysysop/docker-pytest/pull/392) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2712.0](https://github.com/cowboysysop/charts/pull/642) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2713.0](https://github.com/cowboysysop/charts/pull/642) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
