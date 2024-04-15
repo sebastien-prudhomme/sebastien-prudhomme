@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (3 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (8 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.5.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.5.1), today) - Cowboy Sysop Charts
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.12.4](https://github.com/mudler/LocalAI/releases/tag/v2.12.4), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.1), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.5.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.5.1), 1 day ago) - Cowboy Sysop Charts
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.12.4](https://github.com/mudler/LocalAI/releases/tag/v2.12.4), 4 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.1), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 9 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/flowiseai/flowise docker tag to v1.6.5](https://github.com/cowboysysop/charts/pull/643) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update sigstore/cosign-installer action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/394) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency python to v3.12.3](https://github.com/cowboysysop/docker-pytest/pull/393) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency cosign to v2.2.4](https://github.com/cowboysysop/docker-pytest/pull/392) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2715.0](https://github.com/cowboysysop/charts/pull/642) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v1.6.5](https://github.com/cowboysysop/charts/pull/643) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update sigstore/cosign-installer action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/394) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency python to v3.12.3](https://github.com/cowboysysop/docker-pytest/pull/393) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency cosign to v2.2.4](https://github.com/cowboysysop/docker-pytest/pull/392) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2715.0](https://github.com/cowboysysop/charts/pull/642) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
