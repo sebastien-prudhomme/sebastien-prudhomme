@@ -28,11 +28,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.311.0](https://github.com/cowboysysop/charts/pull/646) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v1.6.5](https://github.com/cowboysysop/charts/pull/643) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [ci: update sigstore/cosign-installer action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/394) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update dependency python to v3.12.3](https://github.com/cowboysysop/docker-pytest/pull/393) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [ci: update dependency cosign to v2.2.4](https://github.com/cowboysysop/docker-pytest/pull/392) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2715.0](https://github.com/cowboysysop/charts/pull/642) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
