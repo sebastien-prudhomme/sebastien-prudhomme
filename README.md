@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (4 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (9 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.5), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.5), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-6.5.1](https://github.com/cowboysysop/charts/releases/tag/mongo-express-6.5.1), 1 week ago) - Cowboy Sysop Charts
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.12.4](https://github.com/mudler/LocalAI/releases/tag/v2.12.4), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 month ago) - Docker Image for Pytest
@@ -28,9 +28,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency grpcio_health_checking to v1.62.2](https://github.com/cowboysysop/docker-pytest/pull/396) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency grpcio to v1.62.2](https://github.com/cowboysysop/docker-pytest/pull/395) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.315.1](https://github.com/cowboysysop/charts/pull/646) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix: update dependency grpcio_health_checking to v1.62.2](https://github.com/cowboysysop/docker-pytest/pull/396) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [fix: update dependency grpcio to v1.62.2](https://github.com/cowboysysop/docker-pytest/pull/395) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.315.1](https://github.com/cowboysysop/charts/pull/646) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update docker.io/flowiseai/flowise docker tag to v1.6.5](https://github.com/cowboysysop/charts/pull/643) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update sigstore/cosign-installer action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/394) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
