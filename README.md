@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (4 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (9 months ago)
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (10 months ago)
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities. (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.8.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.8.1), 1 day ago) - Cowboy Sysop Charts
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.13.0](https://github.com/mudler/LocalAI/releases/tag/v2.13.0), 2 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.5), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.8.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.8.1), 2 days ago) - Cowboy Sysop Charts
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.13.0](https://github.com/mudler/LocalAI/releases/tag/v2.13.0), 3 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.33.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.33.5), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update helm/kind-action action to v1.10.0](https://github.com/cowboysysop/charts/pull/654) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.325.1](https://github.com/cowboysysop/charts/pull/653) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2726.0](https://github.com/cowboysysop/charts/pull/652) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.1.1](https://github.com/cowboysysop/charts/pull/651) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update helm release mongodb to v15.1.5](https://github.com/cowboysysop/charts/pull/650) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update helm/kind-action action to v1.10.0](https://github.com/cowboysysop/charts/pull/654) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.325.1](https://github.com/cowboysysop/charts/pull/653) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2726.0](https://github.com/cowboysysop/charts/pull/652) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.1.1](https://github.com/cowboysysop/charts/pull/651) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix: update helm release mongodb to v15.1.5](https://github.com/cowboysysop/charts/pull/650) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
