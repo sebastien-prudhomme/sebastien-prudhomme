@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (1 week ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (4 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.15.0](https://github.com/mudler/LocalAI/releases/tag/v2.15.0), today) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.2), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.3.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.3.0), 4 days ago) - Cowboy Sysop Charts
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.15.0](https://github.com/mudler/LocalAI/releases/tag/v2.15.0), 1 day ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.2), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.3.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.3.0), 5 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update helm/kind-action action to v1.10.0](https://github.com/cowboysysop/charts/pull/654) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.325.1](https://github.com/cowboysysop/charts/pull/653) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2726.0](https://github.com/cowboysysop/charts/pull/652) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.1.1](https://github.com/cowboysysop/charts/pull/651) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update helm release mongodb to v15.1.5](https://github.com/cowboysysop/charts/pull/650) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update helm/kind-action action to v1.10.0](https://github.com/cowboysysop/charts/pull/654) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.325.1](https://github.com/cowboysysop/charts/pull/653) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2726.0](https://github.com/cowboysysop/charts/pull/652) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [fix(vertical-pod-autoscaler): update registry.k8s.io/autoscaling/vpa to v1.1.1](https://github.com/cowboysysop/charts/pull/651) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [fix: update helm release mongodb to v15.1.5](https://github.com/cowboysysop/charts/pull/650) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (2 months ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (3 months ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (3 months ago)
-- [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (5 months ago)
+- [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
