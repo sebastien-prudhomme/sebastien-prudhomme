@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.3), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.15.0](https://github.com/mudler/LocalAI/releases/tag/v2.15.0), 4 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.3), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.15.0](https://github.com/mudler/LocalAI/releases/tag/v2.15.0), 5 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.3.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.3.0), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 10 months ago) - 
@@ -55,7 +55,7 @@
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (1 month ago)
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (2 months ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (3 months ago)
-- [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (3 months ago)
+- [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (4 months ago)
 - [mmohamed/velero-dashboard](https://github.com/mmohamed/velero-dashboard) - Very simplified Velero dashboard for backup, restore and schedule management inside a K8S cluster. (6 months ago)
 
 #### 👯 Check out some of my recent followers
