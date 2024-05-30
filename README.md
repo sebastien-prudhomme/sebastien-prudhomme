@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
-- [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (3 weeks ago)
+- [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (4 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (5 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (10 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.5), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.16.0](https://github.com/mudler/LocalAI/releases/tag/v2.16.0), 5 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.5), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.16.0](https://github.com/mudler/LocalAI/releases/tag/v2.16.0), 6 days ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.8.2](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.8.2), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update docker.io/flowiseai/flowise docker tag to v1.8.0](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.381.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2762.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.2](https://github.com/cowboysysop/charts/pull/664) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat: update docker.io/flowiseai/flowise docker tag to v1.8.0](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.381.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2762.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.2](https://github.com/cowboysysop/charts/pull/664) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 
 #### ⭐ Recent Stars
 
-- [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (1 week ago)
+- [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (2 weeks ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (2 months ago)
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (3 months ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (4 months ago)
