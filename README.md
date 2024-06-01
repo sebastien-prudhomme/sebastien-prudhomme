@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (4 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (5 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (10 months ago)
@@ -20,19 +20,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.0.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.0.3), 1 day ago) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.5), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.0.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.0.3), 2 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.34.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.34.5), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) ([v2.16.0](https://github.com/mudler/LocalAI/releases/tag/v2.16.0), 1 week ago) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat: update docker.io/flowiseai/flowise docker tag to v1.8.0](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.381.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2762.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.2](https://github.com/cowboysysop/charts/pull/664) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat: update docker.io/flowiseai/flowise docker tag to v1.8.0](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.381.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2762.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.2](https://github.com/cowboysysop/charts/pull/664) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
