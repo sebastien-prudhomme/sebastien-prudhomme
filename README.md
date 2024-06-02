@@ -31,7 +31,7 @@
 - [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [feat: update docker.io/flowiseai/flowise docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.385.0](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2766.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2767.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix: update docker.io/tuxgasy/dolibarr docker tag to v19.0.2](https://github.com/cowboysysop/charts/pull/664) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
