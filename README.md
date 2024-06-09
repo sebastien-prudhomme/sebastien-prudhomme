@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (5 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.0.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.0.4), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.1), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.0.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.0.4), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.1), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.42](https://github.com/cowboysysop/charts/pull/670) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update helm release mongodb to v15.6.1](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.42](https://github.com/cowboysysop/charts/pull/670) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat: update helm release mongodb to v15.6.5](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update docker.io/flowiseai/flowise docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.385.0](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2768.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.399.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2772.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
