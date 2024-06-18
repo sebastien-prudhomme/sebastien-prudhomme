@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.2](https://github.com/cowboysysop/charts/pull/672) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.42](https://github.com/cowboysysop/charts/pull/670) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update helm release mongodb to v15.6.6](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 - [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.399.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2774.0](https://github.com/cowboysysop/charts/pull/665) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
