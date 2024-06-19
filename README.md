@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 months ago)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (5 months ago)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (10 months ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.5.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.5.0), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.3), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.5.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.5.0), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.3), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.2](https://github.com/cowboysysop/charts/pull/672) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.2](https://github.com/cowboysysop/charts/pull/672) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.42](https://github.com/cowboysysop/charts/pull/670) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update helm release mongodb to v15.6.6](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.399.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat: update helm release mongodb to v15.6.6](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
+- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.1](https://github.com/cowboysysop/charts/pull/667) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.399.8](https://github.com/cowboysysop/charts/pull/666) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -53,7 +53,7 @@
 
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (1 month ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (3 months ago)
-- [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (3 months ago)
+- [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (4 months ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (5 months ago)
 - [zifeo/terraform-openstack-rke2](https://github.com/zifeo/terraform-openstack-rke2) - Easily deploy a high-availability RKE2 Kubernetes cluster on OpenStack providers like Infomaniak. (5 months ago)
 
