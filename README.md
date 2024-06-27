@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.3](https://github.com/cowboysysop/charts/pull/677) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(kroki): add horizontal pod autoscaling](https://github.com/cowboysysop/charts/pull/676) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v1.8.2](https://github.com/cowboysysop/charts/pull/672) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix(ollama): update docker.io/ollama/ollama docker tag to v0.1.42](https://github.com/cowboysysop/charts/pull/670) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [feat: update helm release mongodb to v15.6.9](https://github.com/cowboysysop/charts/pull/668) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 weeks ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.420.1](https://github.com/cowboysysop/charts/pull/684) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2793.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.1.47](https://github.com/cowboysysop/charts/pull/682) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/atkrad/wait4x docker tag to v2.14.1](https://github.com/cowboysysop/charts/pull/681) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v40.1.12](https://github.com/cowboysysop/charts/pull/680) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
