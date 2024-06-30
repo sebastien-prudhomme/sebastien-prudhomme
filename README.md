@@ -28,7 +28,7 @@
 #### 🔨 My recent Pull Requests
 
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.421.0](https://github.com/cowboysysop/charts/pull/684) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2796.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2798.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.1.48](https://github.com/cowboysysop/charts/pull/682) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [fix: update docker.io/atkrad/wait4x docker tag to v2.14.1](https://github.com/cowboysysop/charts/pull/681) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update renovatebot/github-action action to v40.1.12](https://github.com/cowboysysop/charts/pull/680) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
