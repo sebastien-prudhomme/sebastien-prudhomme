@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.1.0](https://github.com/cowboysysop/charts/releases/tag/ollama-1.1.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.1.1](https://github.com/cowboysysop/charts/releases/tag/whoami-5.1.1), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.4), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: simplify allowed command regular expression](https://github.com/cowboysysop/charts/pull/686) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: trying to fix chart version bump](https://github.com/cowboysysop/charts/pull/685) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.421.2](https://github.com/cowboysysop/charts/pull/684) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2798.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(ollama): update docker.io/ollama/ollama docker tag to v0.1.48](https://github.com/cowboysysop/charts/pull/682) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update docker.io/atkrad/wait4x docker tag to v2.14.1](https://github.com/cowboysysop/charts/pull/681) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
