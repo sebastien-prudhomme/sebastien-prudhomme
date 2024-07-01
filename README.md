@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.1.1](https://github.com/cowboysysop/charts/releases/tag/whoami-5.1.1), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.2.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.2.1), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.35.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.35.4), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
