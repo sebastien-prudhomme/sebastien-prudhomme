@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 months ago)
@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.0), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.2.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.2.1), 5 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.0), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.2.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.2.1), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: simplify allowed command regular expression](https://github.com/cowboysysop/charts/pull/686) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: trying to fix chart version bump](https://github.com/cowboysysop/charts/pull/685) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: simplify allowed command regular expression](https://github.com/cowboysysop/charts/pull/686) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: trying to fix chart version bump](https://github.com/cowboysysop/charts/pull/685) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.421.2](https://github.com/cowboysysop/charts/pull/684) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2798.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat(ollama): update docker.io/ollama/ollama docker tag to v0.1.48](https://github.com/cowboysysop/charts/pull/682) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
