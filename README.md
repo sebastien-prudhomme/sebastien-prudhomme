@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.8.3](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.8.3), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.1), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.8.3](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.8.3), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.1), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
 
