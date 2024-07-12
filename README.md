@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v40.2.2](https://github.com/cowboysysop/charts/pull/692) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.431.0](https://github.com/cowboysysop/charts/pull/691) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2821.0](https://github.com/cowboysysop/charts/pull/690) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(ollama): update docker.io/ollama/ollama docker tag to v0.2.1](https://github.com/cowboysysop/charts/pull/688) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: simplify allowed command regular expression](https://github.com/cowboysysop/charts/pull/686) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: trying to fix chart version bump](https://github.com/cowboysysop/charts/pull/685) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.421.2](https://github.com/cowboysysop/charts/pull/684) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2798.0](https://github.com/cowboysysop/charts/pull/683) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
