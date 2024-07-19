@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (6 months ago)
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (7 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (11 months ago)
 
 #### 🌱 My latest projects
@@ -20,23 +20,23 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.3), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.1), 4 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.3), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.1), 5 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.433.1](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update bridgecrewio/checkov-action action to v12.2826.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.2.5](https://github.com/cowboysysop/charts/pull/694) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update actions/setup-python action to v5.1.1](https://github.com/cowboysysop/charts/pull/693) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.433.1](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2826.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.2.5](https://github.com/cowboysysop/charts/pull/694) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update actions/setup-python action to v5.1.1](https://github.com/cowboysysop/charts/pull/693) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
 - [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (3 years ago)
-- [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (3 years ago)
+- [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (4 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (5 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 1)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-1/) (5 years ago)
 - [À propos](https://www.cowboysysop.com/page/a-propos/) (a long while ago)
@@ -51,10 +51,10 @@
 
 #### ⭐ Recent Stars
 
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (2 weeks ago)
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (3 weeks ago)
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (2 months ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (4 months ago)
-- [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (4 months ago)
+- [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (5 months ago)
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker (6 months ago)
 
 #### 👯 Check out some of my recent followers
