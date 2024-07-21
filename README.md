@@ -27,7 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.438.0](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.438.2](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2827.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.2.5](https://github.com/cowboysysop/charts/pull/694) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
