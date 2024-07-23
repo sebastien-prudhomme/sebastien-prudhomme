@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.4), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.4), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.1), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([dolibarr-2.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/dolibarr-2.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.438.2](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2827.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.438.2](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2827.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.2.5](https://github.com/cowboysysop/charts/pull/694) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update actions/setup-python action to v5.1.1](https://github.com/cowboysysop/charts/pull/693) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
