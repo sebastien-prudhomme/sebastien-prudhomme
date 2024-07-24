@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (7 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.438.2](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2827.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.2.8](https://github.com/cowboysysop/charts/pull/699) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v1.8.4](https://github.com/cowboysysop/charts/pull/698) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v37.440.6](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2832.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.2.5](https://github.com/cowboysysop/charts/pull/694) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update actions/setup-python action to v5.1.1](https://github.com/cowboysysop/charts/pull/693) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
