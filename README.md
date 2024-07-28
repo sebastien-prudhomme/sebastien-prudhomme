@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (7 months ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.5), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.1), 1 week ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.36.5](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.36.5), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.1), 2 weeks ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/ollama/ollama docker tag to v0.2.8](https://github.com/cowboysysop/charts/pull/699) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v1.8.4](https://github.com/cowboysysop/charts/pull/698) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat: update docker.io/ollama/ollama docker tag to v0.3.0](https://github.com/cowboysysop/charts/pull/699) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [fix: update docker.io/flowiseai/flowise docker tag to v1.8.4](https://github.com/cowboysysop/charts/pull/698) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v37.440.6](https://github.com/cowboysysop/charts/pull/697) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2832.0](https://github.com/cowboysysop/charts/pull/696) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat!: update helm release mariadb to v19](https://github.com/cowboysysop/charts/pull/695) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (4 weeks ago)
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 month ago)
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (2 months ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (4 months ago)
 - [bflorat/modele-da](https://github.com/bflorat/modele-da) - Modèle de Dossier d&#39;Architecture (5 months ago)
