@@ -8,7 +8,6 @@
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (2 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (7 months ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 year ago)
 
 #### 🌱 My latest projects
 
