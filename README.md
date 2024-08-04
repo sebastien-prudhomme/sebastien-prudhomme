@@ -57,11 +57,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [rmdes](https://github.com/rmdes)
 - [n1ngu](https://github.com/n1ngu)
 - [ZAX6](https://github.com/ZAX6)
 - [Vatoth](https://github.com/Vatoth)
-- [zhouqiang-cl](https://github.com/zhouqiang-cl)
 
 #### 💬 Feedback
 
