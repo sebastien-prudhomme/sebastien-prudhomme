@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.7.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.7.0), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.0), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.6.2](https://github.com/cowboysysop/charts/releases/tag/flowise-3.6.2), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update docker.io/flowiseai/flowise docker tag to v2](https://github.com/cowboysysop/charts/pull/707) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: fix some Renovate warnings](https://github.com/cowboysysop/charts/pull/708) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v2.0.2](https://github.com/cowboysysop/charts/pull/707) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v38](https://github.com/cowboysysop/charts/pull/706) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: update registry.k8s.io/autoscaling/vpa to v1.2.0](https://github.com/cowboysysop/charts/pull/705) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2845.0](https://github.com/cowboysysop/charts/pull/704) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v40.2.5](https://github.com/cowboysysop/charts/pull/703) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
