@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 weeks ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (3 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.0](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.0), 3 days ago) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.0), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.0](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.0), 4 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.0), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: fix some Renovate warnings](https://github.com/cowboysysop/charts/pull/708) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v2.0.2](https://github.com/cowboysysop/charts/pull/707) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38](https://github.com/cowboysysop/charts/pull/706) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.2.0](https://github.com/cowboysysop/charts/pull/705) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2845.0](https://github.com/cowboysysop/charts/pull/704) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.24.1](https://github.com/cowboysysop/charts/pull/710) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.4](https://github.com/cowboysysop/charts/pull/709) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: fix some Renovate warnings](https://github.com/cowboysysop/charts/pull/708) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [feat(flowise): update docker.io/flowiseai/flowise docker tag to v2.0.2](https://github.com/cowboysysop/charts/pull/707) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38](https://github.com/cowboysysop/charts/pull/706) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 day ago)
+- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (2 days ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 month ago)
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (2 months ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (4 months ago)
