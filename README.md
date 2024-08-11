@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.25.0](https://github.com/cowboysysop/charts/pull/711) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v38.24.1](https://github.com/cowboysysop/charts/pull/710) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.0.4](https://github.com/cowboysysop/charts/pull/709) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: fix some Renovate warnings](https://github.com/cowboysysop/charts/pull/708) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [feat(flowise): update docker.io/flowiseai/flowise docker tag to v2.0.2](https://github.com/cowboysysop/charts/pull/707) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38](https://github.com/cowboysysop/charts/pull/706) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
