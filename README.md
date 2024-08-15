@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 weeks ago)
 - [sebastien-prudhomme/nextjs-dashboard](https://github.com/sebastien-prudhomme/nextjs-dashboard) -  (3 months ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (7 months ago)
@@ -20,21 +20,21 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.1), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.1](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.1), 3 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.1), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.1](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.1), 4 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 4 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.5](https://github.com/cowboysysop/charts/pull/712) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.25.0](https://github.com/cowboysysop/charts/pull/711) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.24.1](https://github.com/cowboysysop/charts/pull/710) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.4](https://github.com/cowboysysop/charts/pull/709) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.3.5](https://github.com/cowboysysop/charts/pull/712) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.25.0](https://github.com/cowboysysop/charts/pull/711) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.24.1](https://github.com/cowboysysop/charts/pull/710) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.4](https://github.com/cowboysysop/charts/pull/709) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: fix some Renovate warnings](https://github.com/cowboysysop/charts/pull/708) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (3 years ago)
+- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (4 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (4 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (5 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 1)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-1/) (5 years ago)
@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (1 day ago)
-- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (5 days ago)
+- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (2 days ago)
+- [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (6 days ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (1 month ago)
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (3 months ago)
 - [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (4 months ago)
