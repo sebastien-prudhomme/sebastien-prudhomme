@@ -20,15 +20,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.8.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.8.0), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.3), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.1.2](https://github.com/cowboysysop/charts/releases/tag/whoami-5.1.2), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 5 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
 - [ci: update actions/setup-python action to v5.2.0](https://github.com/cowboysysop/charts/pull/726) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.3.8](https://github.com/cowboysysop/charts/pull/725) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.7](https://github.com/cowboysysop/charts/pull/724) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(flowise): allow pod host aliases and update docker.io/flowiseai/flowise docker tag to v2.0.7](https://github.com/cowboysysop/charts/pull/724) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v40.2.7](https://github.com/cowboysysop/charts/pull/723) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/traefik/whoami docker tag to v1.10.3](https://github.com/cowboysysop/charts/pull/721) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
