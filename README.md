@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-python action to v5.2.0](https://github.com/cowboysysop/charts/pull/726) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.3.8](https://github.com/cowboysysop/charts/pull/725) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.7](https://github.com/cowboysysop/charts/pull/724) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v40.2.7](https://github.com/cowboysysop/charts/pull/723) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/traefik/whoami docker tag to v1.10.3](https://github.com/cowboysysop/charts/pull/721) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2857.0](https://github.com/cowboysysop/charts/pull/720) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.6](https://github.com/cowboysysop/charts/pull/719) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.0.5](https://github.com/cowboysysop/charts/pull/718) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update renovatebot/github-action action to v40.2.6](https://github.com/cowboysysop/charts/pull/717) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [eust-w](https://github.com/eust-w)
 - [rmdes](https://github.com/rmdes)
 - [n1ngu](https://github.com/n1ngu)
 - [ZAX6](https://github.com/ZAX6)
 - [Vatoth](https://github.com/Vatoth)
-- [zhouqiang-cl](https://github.com/zhouqiang-cl)
 
 #### 💬 Feedback
 
