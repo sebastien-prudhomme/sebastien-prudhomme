@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.3), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.9.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.9.0), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.37.3](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.37.3), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 5 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update bridgecrewio/checkov-action action to v12.2861.0](https://github.com/cowboysysop/charts/pull/728) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v38.59.2](https://github.com/cowboysysop/charts/pull/727) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/setup-python action to v5.2.0](https://github.com/cowboysysop/charts/pull/726) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.3.9](https://github.com/cowboysysop/charts/pull/725) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(flowise): allow pod host aliases and update docker.io/flowiseai/flowise docker tag to v2.0.7](https://github.com/cowboysysop/charts/pull/724) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v40.2.7](https://github.com/cowboysysop/charts/pull/723) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
