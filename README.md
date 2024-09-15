@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 week ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 months ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (8 months ago)
 
 #### 🌱 My latest projects
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.1), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.4), 6 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 5 months ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.1), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.4), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.41), 6 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.10](https://github.com/cowboysysop/charts/pull/730) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.72.1](https://github.com/cowboysysop/charts/pull/729) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2867.0](https://github.com/cowboysysop/charts/pull/728) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.59.2](https://github.com/cowboysysop/charts/pull/727) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update actions/setup-python action to v5.2.0](https://github.com/cowboysysop/charts/pull/726) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update renovatebot/github-action action to v40.2.8](https://github.com/cowboysysop/charts/pull/732) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency python to v3.12.6](https://github.com/cowboysysop/charts/pull/731) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.3.10](https://github.com/cowboysysop/charts/pull/730) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.79.0](https://github.com/cowboysysop/charts/pull/729) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2871.0](https://github.com/cowboysysop/charts/pull/728) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
