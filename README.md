@@ -28,7 +28,7 @@
 - [ci: update renovatebot/github-action action to v40.2.8](https://github.com/cowboysysop/charts/pull/732) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.12.6](https://github.com/cowboysysop/charts/pull/731) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.3.10](https://github.com/cowboysysop/charts/pull/730) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.79.0](https://github.com/cowboysysop/charts/pull/729) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.80.0](https://github.com/cowboysysop/charts/pull/729) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2871.0](https://github.com/cowboysysop/charts/pull/728) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
