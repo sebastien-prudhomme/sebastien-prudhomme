@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: correct problems detected by Checkov linter](https://github.com/cowboysysop/docker-pytest/pull/409) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update super-linter/super-linter action to v7](https://github.com/cowboysysop/docker-pytest/pull/408) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/407) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24](https://github.com/cowboysysop/docker-pytest/pull/406) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22](https://github.com/cowboysysop/docker-pytest/pull/405) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency conventional-changelog-conventionalcommits to v8](https://github.com/cowboysysop/docker-pytest/pull/404) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
