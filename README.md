@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v40.2.8](https://github.com/cowboysysop/charts/pull/732) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update dependency python to v3.12.6](https://github.com/cowboysysop/charts/pull/731) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.10](https://github.com/cowboysysop/charts/pull/730) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.80.0](https://github.com/cowboysysop/charts/pull/729) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2872.0](https://github.com/cowboysysop/charts/pull/728) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update super-linter/super-linter action to v7](https://github.com/cowboysysop/docker-pytest/pull/408) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/build-push-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/407) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency semantic-release to v24](https://github.com/cowboysysop/docker-pytest/pull/406) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v22](https://github.com/cowboysysop/docker-pytest/pull/405) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency conventional-changelog-conventionalcommits to v8](https://github.com/cowboysysop/docker-pytest/pull/404) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
