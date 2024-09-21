@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.43), 3 days ago) - Docker Image for Pytest
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.2), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.43), 4 days ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.2), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.4), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
-- [fix: correct problems detected by Checkov linter](https://github.com/cowboysysop/docker-pytest/pull/409) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update super-linter/super-linter action to v7](https://github.com/cowboysysop/docker-pytest/pull/408) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update docker/build-push-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/407) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency semantic-release to v24](https://github.com/cowboysysop/docker-pytest/pull/406) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency node to v22](https://github.com/cowboysysop/docker-pytest/pull/405) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [fix: correct problems detected by Checkov linter](https://github.com/cowboysysop/docker-pytest/pull/409) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update super-linter/super-linter action to v7](https://github.com/cowboysysop/docker-pytest/pull/408) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update docker/build-push-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/407) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update dependency semantic-release to v24](https://github.com/cowboysysop/docker-pytest/pull/406) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update dependency node to v22](https://github.com/cowboysysop/docker-pytest/pull/405) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
