@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v22.9.0](https://github.com/cowboysysop/docker-pytest/pull/411) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-node action to v4.0.4](https://github.com/cowboysysop/docker-pytest/pull/410) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/flowiseai/flowise docker tag to v2.1.1](https://github.com/cowboysysop/charts/pull/735) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.3.11](https://github.com/cowboysysop/charts/pull/734) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v40.2.10](https://github.com/cowboysysop/charts/pull/733) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: correct problems detected by Checkov linter](https://github.com/cowboysysop/docker-pytest/pull/409) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update super-linter/super-linter action to v7](https://github.com/cowboysysop/docker-pytest/pull/408) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 
 #### 📜 My recent blog posts
 
