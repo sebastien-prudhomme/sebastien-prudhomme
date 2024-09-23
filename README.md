@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
 #### 🌱 My latest projects
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.45](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.45), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.5](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.5), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.2), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.45](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.45), 1 day ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.5](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.5), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.2), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency node to v22.9.0](https://github.com/cowboysysop/docker-pytest/pull/411) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/setup-node action to v4.0.4](https://github.com/cowboysysop/docker-pytest/pull/410) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat: update docker.io/flowiseai/flowise docker tag to v2.1.1](https://github.com/cowboysysop/charts/pull/735) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.11](https://github.com/cowboysysop/charts/pull/734) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v40.2.10](https://github.com/cowboysysop/charts/pull/733) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency node to v22.9.0](https://github.com/cowboysysop/docker-pytest/pull/411) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update actions/setup-node action to v4.0.4](https://github.com/cowboysysop/docker-pytest/pull/410) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [feat: update docker.io/flowiseai/flowise docker tag to v2.1.1](https://github.com/cowboysysop/charts/pull/735) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.3.11](https://github.com/cowboysysop/charts/pull/734) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v40.2.10](https://github.com/cowboysysop/charts/pull/733) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
