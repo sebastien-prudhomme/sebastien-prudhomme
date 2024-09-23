@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
+- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (today)
 - [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (1 month ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 month ago)
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (2 months ago)
 - [etnbrd/awesome-freelance-fr](https://github.com/etnbrd/awesome-freelance-fr) - :sunglasses: Curated list of awesome tools to build your freelance career (in france) (4 months ago)
-- [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) - A tool for generating files and folders (&#34;boilerplate&#34;) from a set of templates (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
