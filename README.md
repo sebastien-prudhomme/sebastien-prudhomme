@@ -13,9 +13,9 @@
 
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) - 
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) - 
-- [sebastien-prudhomme/docker-pytest2](https://github.com/sebastien-prudhomme/docker-pytest2) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
 - [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
+- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 
 #### 🔭 Latest releases I've contributed to
 
