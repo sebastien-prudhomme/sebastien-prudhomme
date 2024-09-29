@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/415) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/414) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.1.2](https://github.com/cowboysysop/docker-pytest/pull/413) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update cycjimmy/semantic-release-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/412) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/charts/pull/737) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.12](https://github.com/cowboysysop/charts/pull/736) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency node to v22.9.0](https://github.com/cowboysysop/docker-pytest/pull/411) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
