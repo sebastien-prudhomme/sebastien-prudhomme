@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/build-push-action action to v6.8.0](https://github.com/cowboysysop/docker-pytest/pull/417) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/416) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/415) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/414) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.1.2](https://github.com/cowboysysop/docker-pytest/pull/413) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update cycjimmy/semantic-release-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/412) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/charts/pull/737) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
