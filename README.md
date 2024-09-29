@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 weeks ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.6), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.4), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.45](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.45), 1 week ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.5](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.5), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency semantic-release to v24.1.2](https://github.com/cowboysysop/docker-pytest/pull/413) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v4.1.1](https://github.com/cowboysysop/docker-pytest/pull/412) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/charts/pull/737) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.3.12](https://github.com/cowboysysop/charts/pull/736) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency node to v22.9.0](https://github.com/cowboysysop/docker-pytest/pull/411) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-node action to v4.0.4](https://github.com/cowboysysop/docker-pytest/pull/410) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [feat: update docker.io/flowiseai/flowise docker tag to v2.1.1](https://github.com/cowboysysop/charts/pull/735) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
