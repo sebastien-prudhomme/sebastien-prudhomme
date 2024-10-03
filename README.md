@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (today)
 - [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (1 week ago)
 - [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (1 week ago)
 - [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (1 month ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (1 month ago)
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
