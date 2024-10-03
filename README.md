@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.2.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.2.2), 3 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 3 days ago) - Docker Image for Pytest
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.4), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-5.2.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-5.2.2), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 4 days ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.38.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.38.4), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v20](https://github.com/cowboysysop/charts/pull/739) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [fix(dolibarr): switch to official Docker image](https://github.com/cowboysysop/charts/pull/738) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update docker/build-push-action action to v6.8.0](https://github.com/cowboysysop/docker-pytest/pull/417) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/416) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency grpcio_health_checking to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/415) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v20](https://github.com/cowboysysop/charts/pull/739) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [fix(dolibarr): switch to official Docker image](https://github.com/cowboysysop/charts/pull/738) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update docker/build-push-action action to v6.8.0](https://github.com/cowboysysop/docker-pytest/pull/417) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update actions/checkout action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/416) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency grpcio_health_checking to v1.66.2](https://github.com/cowboysysop/docker-pytest/pull/415) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
