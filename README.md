@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.0), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.0), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.0), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.0), 4 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update sigstore/cosign-installer action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/421) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update docker/build-push-action action to v6.9.0](https://github.com/cowboysysop/docker-pytest/pull/420) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency python to v3.12.7](https://github.com/cowboysysop/docker-pytest/pull/419) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency cosign to v2.4.1](https://github.com/cowboysysop/docker-pytest/pull/418) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [feat!: update helm release postgresql to v16](https://github.com/cowboysysop/charts/pull/744) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update sigstore/cosign-installer action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/421) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update docker/build-push-action action to v6.9.0](https://github.com/cowboysysop/docker-pytest/pull/420) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update dependency python to v3.12.7](https://github.com/cowboysysop/docker-pytest/pull/419) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update dependency cosign to v2.4.1](https://github.com/cowboysysop/docker-pytest/pull/418) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [feat!: update helm release postgresql to v16](https://github.com/cowboysysop/charts/pull/744) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
