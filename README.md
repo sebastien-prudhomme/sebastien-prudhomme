@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.0), 2 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.1), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.0), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 1 week ago) - Docker Image for Pytest
 
