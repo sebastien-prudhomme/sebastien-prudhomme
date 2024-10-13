@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (9 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.1), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.0), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.9.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.9.1), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.0), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat!: update helm release mongodb to v16](https://github.com/cowboysysop/charts/pull/751) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.119.0](https://github.com/cowboysysop/charts/pull/750) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/charts/pull/749) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.3.13](https://github.com/cowboysysop/charts/pull/748) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.0](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat!: update helm release mongodb to v16](https://github.com/cowboysysop/charts/pull/751) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.119.0](https://github.com/cowboysysop/charts/pull/750) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/charts/pull/749) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
