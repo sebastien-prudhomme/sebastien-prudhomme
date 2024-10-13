@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update bridgecrewio/checkov-action action to v12.2876.0](https://github.com/cowboysysop/charts/pull/754) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/docker-pytest/pull/422) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.0](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.1](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat!: update helm release mongodb to v16](https://github.com/cowboysysop/charts/pull/751) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.119.0](https://github.com/cowboysysop/charts/pull/750) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
