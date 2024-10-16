@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Allow removing default values for ServiceMonitor](https://github.com/cert-manager/cert-manager/pull/7374) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2876.0](https://github.com/cowboysysop/charts/pull/754) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/docker-pytest/pull/422) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.1](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat!: update helm release mongodb to v16](https://github.com/cowboysysop/charts/pull/751) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
