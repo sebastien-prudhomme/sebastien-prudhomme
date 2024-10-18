@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.1), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.7](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.7), 4 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.1), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.7](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.7), 5 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [Allow removing default values for ServiceMonitor](https://github.com/cert-manager/cert-manager/pull/7374) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2876.0](https://github.com/cowboysysop/charts/pull/754) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/docker-pytest/pull/422) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.1](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [Allow removing default values for ServiceMonitor](https://github.com/cert-manager/cert-manager/pull/7374) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2876.0](https://github.com/cowboysysop/charts/pull/754) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update dependency python to v3.13.0](https://github.com/cowboysysop/docker-pytest/pull/422) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.120.1](https://github.com/cowboysysop/charts/pull/753) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: move allowed command in global configuration](https://github.com/cowboysysop/charts/pull/752) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
