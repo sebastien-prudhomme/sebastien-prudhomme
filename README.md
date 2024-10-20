@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
 
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/426) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v22.10.0](https://github.com/cowboysysop/docker-pytest/pull/425) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.10](https://github.com/cowboysysop/docker-pytest/pull/424) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.1.3](https://github.com/cowboysysop/docker-pytest/pull/423) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v40.3.4](https://github.com/cowboysysop/charts/pull/756) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [Allow removing default values for ServiceMonitor](https://github.com/cert-manager/cert-manager/pull/7374) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2882.0](https://github.com/cowboysysop/charts/pull/754) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
