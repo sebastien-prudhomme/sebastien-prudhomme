@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.48](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.48), today) - Docker Image for Pytest
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.1), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.7](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.7), 1 week ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.47), 3 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/427) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/426) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22.10.0](https://github.com/cowboysysop/docker-pytest/pull/425) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.10](https://github.com/cowboysysop/docker-pytest/pull/424) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.1.3](https://github.com/cowboysysop/docker-pytest/pull/423) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v40.3.4](https://github.com/cowboysysop/charts/pull/756) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
