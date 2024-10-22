@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(whoami): use latest best practices](https://github.com/cowboysysop/charts/pull/757) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency grpcio_health_checking to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/427) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [fix: update dependency grpcio to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/426) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update dependency node to v22.10.0](https://github.com/cowboysysop/docker-pytest/pull/425) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [fix: update dependency psycopg2 to v2.9.10](https://github.com/cowboysysop/docker-pytest/pull/424) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update dependency semantic-release to v24.1.3](https://github.com/cowboysysop/docker-pytest/pull/423) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
