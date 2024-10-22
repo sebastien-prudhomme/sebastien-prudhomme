@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.2), today) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.50](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.50), 1 day ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.2), 1 day ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.50](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.50), 2 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.7](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.7), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency grpcio_health_checking to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/427) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency grpcio to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/426) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency node to v22.10.0](https://github.com/cowboysysop/docker-pytest/pull/425) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency psycopg2 to v2.9.10](https://github.com/cowboysysop/docker-pytest/pull/424) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency semantic-release to v24.1.3](https://github.com/cowboysysop/docker-pytest/pull/423) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update dependency grpcio_health_checking to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/427) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [fix: update dependency grpcio to v1.67.0](https://github.com/cowboysysop/docker-pytest/pull/426) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update dependency node to v22.10.0](https://github.com/cowboysysop/docker-pytest/pull/425) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [fix: update dependency psycopg2 to v2.9.10](https://github.com/cowboysysop/docker-pytest/pull/424) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update dependency semantic-release to v24.1.3](https://github.com/cowboysysop/docker-pytest/pull/423) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
