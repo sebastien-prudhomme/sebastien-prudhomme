@@ -28,7 +28,7 @@
 - [ci: update dependency semantic-release to v24.2.0](https://github.com/cowboysysop/docker-pytest/pull/430) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v5.3.0](https://github.com/cowboysysop/docker-pytest/pull/429) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-node action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/428) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.132.1](https://github.com/cowboysysop/charts/pull/765) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.132.3](https://github.com/cowboysysop/charts/pull/765) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update crazy-max/ghaction-import-gpg action to v6.2.0](https://github.com/cowboysysop/charts/pull/764) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
