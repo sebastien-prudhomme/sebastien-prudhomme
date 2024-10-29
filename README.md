@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.135.0](https://github.com/cowboysysop/charts/pull/767) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2886.0](https://github.com/cowboysysop/charts/pull/766) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency semantic-release to v24.2.0](https://github.com/cowboysysop/docker-pytest/pull/430) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update actions/setup-python action to v5.3.0](https://github.com/cowboysysop/docker-pytest/pull/429) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update actions/setup-node action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/428) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.132.3](https://github.com/cowboysysop/charts/pull/765) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update crazy-max/ghaction-import-gpg action to v6.2.0](https://github.com/cowboysysop/charts/pull/764) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
