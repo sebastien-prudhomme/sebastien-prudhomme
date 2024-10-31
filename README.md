@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (1 month ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.4), 2 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.8), 3 days ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.39.4](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.39.4), 3 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.3.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.3.8), 4 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.50](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.50), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.135.0](https://github.com/cowboysysop/charts/pull/767) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2886.0](https://github.com/cowboysysop/charts/pull/766) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update dependency semantic-release to v24.2.0](https://github.com/cowboysysop/docker-pytest/pull/430) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update actions/setup-python action to v5.3.0](https://github.com/cowboysysop/docker-pytest/pull/429) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update actions/setup-node action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/428) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.135.0](https://github.com/cowboysysop/charts/pull/767) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2886.0](https://github.com/cowboysysop/charts/pull/766) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update dependency semantic-release to v24.2.0](https://github.com/cowboysysop/docker-pytest/pull/430) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update actions/setup-python action to v5.3.0](https://github.com/cowboysysop/docker-pytest/pull/429) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update actions/setup-node action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/428) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (3 weeks ago)
+- [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (4 weeks ago)
 - [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (1 month ago)
 - [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (1 month ago)
 - [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (2 months ago)
