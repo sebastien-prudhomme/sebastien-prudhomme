@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.67.1](https://github.com/cowboysysop/docker-pytest/pull/432) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.67.1](https://github.com/cowboysysop/docker-pytest/pull/431) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v38.142.3](https://github.com/cowboysysop/charts/pull/767) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [ci: update bridgecrewio/checkov-action action to v12.2889.0](https://github.com/cowboysysop/charts/pull/766) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [ci: update dependency semantic-release to v24.2.0](https://github.com/cowboysysop/docker-pytest/pull/430) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-python action to v5.3.0](https://github.com/cowboysysop/docker-pytest/pull/429) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-node action to v4.1.0](https://github.com/cowboysysop/docker-pytest/pull/428) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
