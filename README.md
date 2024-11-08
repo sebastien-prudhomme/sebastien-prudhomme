@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39](https://github.com/cowboysysop/charts/pull/771) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/ollama/ollama docker tag to v0.4.0](https://github.com/cowboysysop/charts/pull/770) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v40.3.5](https://github.com/cowboysysop/charts/pull/769) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency node to v22.11.0](https://github.com/cowboysysop/docker-pytest/pull/433) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [fix: update dependency grpcio_health_checking to v1.67.1](https://github.com/cowboysysop/docker-pytest/pull/432) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [fix: update dependency grpcio to v1.67.1](https://github.com/cowboysysop/docker-pytest/pull/431) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v38.142.5](https://github.com/cowboysysop/charts/pull/767) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2890.0](https://github.com/cowboysysop/charts/pull/766) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
