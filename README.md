@@ -29,7 +29,7 @@
 - [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.9.0](https://github.com/cowboysysop/charts/pull/775) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update bridgecrewio/checkov-action action to v12.2895.0](https://github.com/cowboysysop/charts/pull/774) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2896.0](https://github.com/cowboysysop/charts/pull/774) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
