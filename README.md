@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.4.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.4.0), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.40.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.40.0), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.4.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.4.0), 1 day ago) - Cowboy Sysop Charts
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.40.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.40.0), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.52](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.52), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/yuzutech/kroki to v0.26.0](https://github.com/cowboysysop/charts/pull/778) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/docker-pytest/pull/434) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.9.1](https://github.com/cowboysysop/charts/pull/775) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat: update docker.io/yuzutech/kroki docker tag to v0.26.0](https://github.com/cowboysysop/charts/pull/779) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [feat: update docker.io/yuzutech/kroki to v0.26.0](https://github.com/cowboysysop/charts/pull/778) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/docker-pytest/pull/434) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (1 month ago)
 - [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (1 month ago)
 - [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (1 month ago)
-- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (2 months ago)
+- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (3 months ago)
 - [hcloud-talos/terraform-hcloud-talos](https://github.com/hcloud-talos/terraform-hcloud-talos) - This repository contains a Terraform module for creating a Kubernetes cluster with Talos in the Hetzner Cloud. (3 months ago)
 
 #### 👯 Check out some of my recent followers
