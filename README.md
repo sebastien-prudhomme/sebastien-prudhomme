@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (2 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (10 months ago)
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.5.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.5.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.5.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.5.0), 1 day ago) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.40.0](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.40.0), 1 week ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.52](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.52), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/yuzutech/kroki docker tag to v0.26.0](https://github.com/cowboysysop/charts/pull/779) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: update docker.io/yuzutech/kroki to v0.26.0](https://github.com/cowboysysop/charts/pull/778) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/docker-pytest/pull/434) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat: update docker.io/yuzutech/kroki docker tag to v0.26.0](https://github.com/cowboysysop/charts/pull/779) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.26.0](https://github.com/cowboysysop/charts/pull/778) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/docker-pytest/pull/434) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
