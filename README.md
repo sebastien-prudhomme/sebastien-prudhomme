@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(vertical-pod-autoscaler): allow configuration of container lifecycle hooks](https://github.com/cowboysysop/charts/pull/780) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/yuzutech/kroki docker tag to v0.26.0](https://github.com/cowboysysop/charts/pull/779) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat: update docker.io/yuzutech/kroki to v0.26.0](https://github.com/cowboysysop/charts/pull/778) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/docker-pytest/pull/434) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [feat!: update helm release mariadb to v20](https://github.com/cowboysysop/charts/pull/777) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update renovatebot/github-action action to v41](https://github.com/cowboysysop/charts/pull/776) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
