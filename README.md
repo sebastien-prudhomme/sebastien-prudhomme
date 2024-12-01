@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: update dependency pytest to v8.3.4](https://github.com/cowboysysop/docker-pytest/pull/441) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v6.10.0](https://github.com/cowboysysop/docker-pytest/pull/440) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/flowiseai/flowise docker tag to v2.2.1](https://github.com/cowboysysop/charts/pull/790) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.4.7](https://github.com/cowboysysop/charts/pull/789) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.5](https://github.com/cowboysysop/charts/pull/788) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update super-linter/super-linter action to v7.2.0](https://github.com/cowboysysop/docker-pytest/pull/439) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
