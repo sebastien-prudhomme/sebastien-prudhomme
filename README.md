@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update docker.io/ollama/ollama docker tag to v0.5.0](https://github.com/cowboysysop/charts/pull/792) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.13.1](https://github.com/cowboysysop/charts/pull/791) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [test: update dependency pytest to v8.3.4](https://github.com/cowboysysop/docker-pytest/pull/441) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [ci: update docker/build-push-action action to v6.10.0](https://github.com/cowboysysop/docker-pytest/pull/440) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 - [feat: update docker.io/flowiseai/flowise docker tag to v2.2.1](https://github.com/cowboysysop/charts/pull/790) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.4.7](https://github.com/cowboysysop/charts/pull/789) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
