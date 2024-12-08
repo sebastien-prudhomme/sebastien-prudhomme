@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (11 months ago)
@@ -25,11 +25,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.68.1](https://github.com/cowboysysop/docker-pytest/pull/443) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.68.1](https://github.com/cowboysysop/docker-pytest/pull/442) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.1](https://github.com/cowboysysop/charts/pull/793) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/ollama/ollama docker tag to v0.5.0](https://github.com/cowboysysop/charts/pull/792) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update dependency python to v3.13.1](https://github.com/cowboysysop/charts/pull/791) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [test: update dependency pytest to v8.3.4](https://github.com/cowboysysop/docker-pytest/pull/441) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/build-push-action action to v6.10.0](https://github.com/cowboysysop/docker-pytest/pull/440) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
