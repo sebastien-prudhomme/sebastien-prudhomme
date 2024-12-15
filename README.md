@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (11 months ago)
 
@@ -19,9 +19,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.10.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.10.1), today) - Cowboy Sysop Charts
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.41.1](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.41.1), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.58](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.58), 1 week ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.1](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.1), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
