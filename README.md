@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (5 days ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (2 months ago)
 - [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (2 months ago)
 - [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (2 months ago)
-- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub) - Universal Metrics Collection for OpenTelemetry (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
