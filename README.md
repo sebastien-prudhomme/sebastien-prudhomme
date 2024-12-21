@@ -57,11 +57,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Sams-20](https://github.com/Sams-20)
 - [bilred](https://github.com/bilred)
 - [rmdes](https://github.com/rmdes)
 - [n1ngu](https://github.com/n1ngu)
-- [ZAX6](https://github.com/ZAX6)
 
 #### 💬 Feedback
 
