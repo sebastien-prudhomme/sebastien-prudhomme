@@ -20,7 +20,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.3), today) - Cowboy Sysop Charts
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.41.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.41.2), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.58](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.58), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
