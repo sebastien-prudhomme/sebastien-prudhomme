@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 months ago)
 - [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) -  DevSecOps, ASPM, Vulnerability Management. All on one platform. (1 year ago)
 
@@ -19,17 +19,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.41.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.41.2), 5 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.2](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.2), 6 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.58](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.58), 1 week ago) - Docker Image for Pytest
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([2.41.2](https://github.com/DefectDojo/django-DefectDojo/releases/tag/2.41.2), 6 days ago) -  DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.2](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.2), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.58](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.58), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update super-linter/super-linter action to v7.2.1](https://github.com/cowboysysop/docker-pytest/pull/446) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.2](https://github.com/cowboysysop/charts/pull/797) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.2](https://github.com/cowboysysop/charts/pull/796) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update renovatebot/github-action action to v41.0.6](https://github.com/cowboysysop/charts/pull/795) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update dependency node to v22.12.0](https://github.com/cowboysysop/docker-pytest/pull/445) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update helm/kind-action action to v1.11.0](https://github.com/cowboysysop/charts/pull/799) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.4](https://github.com/cowboysysop/charts/pull/798) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update super-linter/super-linter action to v7.2.1](https://github.com/cowboysysop/docker-pytest/pull/446) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.2](https://github.com/cowboysysop/charts/pull/797) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.2](https://github.com/cowboysysop/charts/pull/796) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -49,11 +49,11 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 days ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (5 days ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 week ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (2 months ago)
 - [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (2 months ago)
-- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (2 months ago)
+- [secureCodeBox/secureCodeBox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box  (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
