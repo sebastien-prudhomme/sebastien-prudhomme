@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (3 months ago)
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update helm/kind-action action to v1.12.0](https://github.com/cowboysysop/charts/pull/802) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.3](https://github.com/cowboysysop/charts/pull/801) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v41.0.7](https://github.com/cowboysysop/charts/pull/800) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/kind-action action to v1.11.0](https://github.com/cowboysysop/charts/pull/799) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.4](https://github.com/cowboysysop/charts/pull/798) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update super-linter/super-linter action to v7.2.1](https://github.com/cowboysysop/docker-pytest/pull/446) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.2](https://github.com/cowboysysop/charts/pull/797) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.2](https://github.com/cowboysysop/charts/pull/796) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
