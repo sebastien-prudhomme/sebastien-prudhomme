@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.59](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.59), today) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.10.2](https://github.com/cowboysysop/charts/releases/tag/flowise-3.10.2), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
