@@ -26,7 +26,7 @@
 - [fix: update dependency grpcio_health_checking to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/449) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/448) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.1](https://github.com/cowboysysop/docker-pytest/pull/447) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.90.5](https://github.com/cowboysysop/charts/pull/804) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.91.0](https://github.com/cowboysysop/charts/pull/804) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/kind-action action to v1.12.0](https://github.com/cowboysysop/charts/pull/802) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
