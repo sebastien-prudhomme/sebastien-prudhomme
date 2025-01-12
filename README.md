@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/build-push-action action to v6.11.0](https://github.com/cowboysysop/docker-pytest/pull/451) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v22.13.0](https://github.com/cowboysysop/docker-pytest/pull/450) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.5](https://github.com/cowboysysop/charts/pull/806) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.8](https://github.com/cowboysysop/charts/pull/805) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency grpcio_health_checking to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/449) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/448) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency semantic-release to v24.2.1](https://github.com/cowboysysop/docker-pytest/pull/447) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
