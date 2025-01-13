@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), 1 day ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/build-push-action action to v6.11.0](https://github.com/cowboysysop/docker-pytest/pull/451) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency node to v22.13.0](https://github.com/cowboysysop/docker-pytest/pull/450) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.5](https://github.com/cowboysysop/charts/pull/806) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.8](https://github.com/cowboysysop/charts/pull/805) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update docker/build-push-action action to v6.11.0](https://github.com/cowboysysop/docker-pytest/pull/451) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency node to v22.13.0](https://github.com/cowboysysop/docker-pytest/pull/450) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.5](https://github.com/cowboysysop/charts/pull/806) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v41.0.8](https://github.com/cowboysysop/charts/pull/805) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update dependency grpcio_health_checking to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/449) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
