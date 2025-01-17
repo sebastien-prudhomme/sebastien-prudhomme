@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (today)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (1 day ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (3 months ago)
-- [YounitedCredit/younited-genaibots](https://github.com/YounitedCredit/younited-genaibots) - GenaiBots is an open-source framework that simplifies building intelligent and adaptable conversational agents using generative AI and a powerful plugin system. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
