@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,15 +18,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), 5 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), 6 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/build-push-action action to v6.11.0](https://github.com/cowboysysop/docker-pytest/pull/451) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update dependency node to v22.13.0](https://github.com/cowboysysop/docker-pytest/pull/450) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.5](https://github.com/cowboysysop/charts/pull/806) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v41.0.8](https://github.com/cowboysysop/charts/pull/805) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update docker/build-push-action action to v6.11.0](https://github.com/cowboysysop/docker-pytest/pull/451) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update dependency node to v22.13.0](https://github.com/cowboysysop/docker-pytest/pull/450) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.5](https://github.com/cowboysysop/charts/pull/806) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update renovatebot/github-action action to v41.0.8](https://github.com/cowboysysop/charts/pull/805) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [fix: update dependency grpcio_health_checking to v1.69.0](https://github.com/cowboysysop/docker-pytest/pull/449) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (today)
-- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (1 day ago)
+- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 day ago)
+- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (2 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (3 months ago)
