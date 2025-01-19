@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), 6 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.4), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.116.0](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.4](https://github.com/cowboysysop/charts/pull/810) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.9](https://github.com/cowboysysop/charts/pull/809) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.116.0](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.4](https://github.com/cowboysysop/charts/pull/810) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v41.0.9](https://github.com/cowboysysop/charts/pull/809) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 day ago)
-- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (2 days ago)
+- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (2 days ago)
+- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (3 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (3 months ago)
