@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.5](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.5), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-9.9.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-9.9.1), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
