@@ -24,7 +24,7 @@
 #### 🔨 My recent Pull Requests
 
 - [ci: update docker/build-push-action action to v6.12.0](https://github.com/cowboysysop/docker-pytest/pull/452) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.116.0](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.116.1](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.2.4](https://github.com/cowboysysop/charts/pull/810) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
