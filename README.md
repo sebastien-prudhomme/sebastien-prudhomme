@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(flowise): align with other charts and fix PostgreSQL existing Secret](https://github.com/cowboysysop/charts/pull/816) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update docker/build-push-action action to v6.12.0](https://github.com/cowboysysop/docker-pytest/pull/452) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.117.2](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.4](https://github.com/cowboysysop/charts/pull/810) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
