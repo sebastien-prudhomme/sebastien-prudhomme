@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.0), 2 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(flowise): align with other charts and fix PostgreSQL existing Secret](https://github.com/cowboysysop/charts/pull/816) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update docker/build-push-action action to v6.12.0](https://github.com/cowboysysop/docker-pytest/pull/452) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.117.2](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [feat(flowise): align with other charts and fix PostgreSQL existing Secret](https://github.com/cowboysysop/charts/pull/816) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update docker/build-push-action action to v6.12.0](https://github.com/cowboysysop/docker-pytest/pull/452) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.117.2](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (6 days ago)
+- [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 week ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (1 week ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
