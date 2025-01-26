@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.0), 3 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 2 weeks ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.0](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.0), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.60](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.60), 3 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(flowise): align with other charts and fix PostgreSQL existing Secret](https://github.com/cowboysysop/charts/pull/816) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update docker/build-push-action action to v6.12.0](https://github.com/cowboysysop/docker-pytest/pull/452) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.117.2](https://github.com/cowboysysop/charts/pull/813) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.2.2](https://github.com/cowboysysop/charts/pull/812) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.7](https://github.com/cowboysysop/charts/pull/811) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update helm/chart-testing-action action to v2.7.0](https://github.com/cowboysysop/charts/pull/820) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update helm/chart-releaser-action action to v1.7.0](https://github.com/cowboysysop/charts/pull/819) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/traefik/whoami docker tag to v1.10.4](https://github.com/cowboysysop/charts/pull/818) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v41.0.10](https://github.com/cowboysysop/charts/pull/817) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
