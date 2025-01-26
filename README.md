@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.61](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.61), today) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.2.1](https://github.com/cowboysysop/charts/releases/tag/whoami-5.2.1), today) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
