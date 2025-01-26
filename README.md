@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/build-push-action action to v6.13.0](https://github.com/cowboysysop/docker-pytest/pull/454) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v22.13.1](https://github.com/cowboysysop/docker-pytest/pull/453) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/chart-testing-action action to v2.7.0](https://github.com/cowboysysop/charts/pull/820) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/chart-releaser-action action to v1.7.0](https://github.com/cowboysysop/charts/pull/819) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/traefik/whoami docker tag to v1.10.4](https://github.com/cowboysysop/charts/pull/818) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.10](https://github.com/cowboysysop/charts/pull/817) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
