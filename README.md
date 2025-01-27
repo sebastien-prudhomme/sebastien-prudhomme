@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.2.1](https://github.com/cowboysysop/charts/releases/tag/whoami-5.2.1), today) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 1 day ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-5.2.1](https://github.com/cowboysysop/charts/releases/tag/whoami-5.2.1), 1 day ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency grpcio to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/455) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/build-push-action action to v6.13.0](https://github.com/cowboysysop/docker-pytest/pull/454) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency node to v22.13.1](https://github.com/cowboysysop/docker-pytest/pull/453) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update dependency grpcio to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/455) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update docker/build-push-action action to v6.13.0](https://github.com/cowboysysop/docker-pytest/pull/454) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency node to v22.13.1](https://github.com/cowboysysop/docker-pytest/pull/453) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
