@@ -27,7 +27,7 @@
 - [fix: update dependency grpcio to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/455) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update docker/build-push-action action to v6.13.0](https://github.com/cowboysysop/docker-pytest/pull/454) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [ci: update dependency node to v22.13.1](https://github.com/cowboysysop/docker-pytest/pull/453) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [feat(vertical-pod-autoscaler)!: update registry.k8s.io/autoscaling/vpa to v1.3.0](https://github.com/cowboysysop/charts/pull/821) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
