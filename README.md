@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.0.0), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 2 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.0.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 3 days ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.11](https://github.com/cowboysysop/charts/pull/823) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update Kubernetes and Helm versions](https://github.com/cowboysysop/charts/pull/822) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v41.0.11](https://github.com/cowboysysop/charts/pull/823) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update Kubernetes and Helm versions](https://github.com/cowboysysop/charts/pull/822) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
 
 #### 📜 My recent blog posts
 
