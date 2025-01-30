@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (4 months ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.0.0), 1 day ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 3 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.0.0), 2 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 4 days ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v41.0.11](https://github.com/cowboysysop/charts/pull/823) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update Kubernetes and Helm versions](https://github.com/cowboysysop/charts/pull/822) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update renovatebot/github-action action to v41.0.11](https://github.com/cowboysysop/charts/pull/823) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update Kubernetes and Helm versions](https://github.com/cowboysysop/charts/pull/822) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix: update dependency grpcio_health_checking to v1.70.0](https://github.com/cowboysysop/docker-pytest/pull/456) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@
 #### ⭐ Recent Stars
 
 - [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 week ago)
-- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (1 week ago)
+- [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports LLMs, embeddings, and speech-to-text. (2 weeks ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 month ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 month ago)
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. (3 months ago)
