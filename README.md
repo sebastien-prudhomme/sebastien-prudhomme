@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/docker-pytest/pull/458) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update actions/setup-node action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/457) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.156.0](https://github.com/cowboysysop/charts/pull/826) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 - [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v41.0.11](https://github.com/cowboysysop/charts/pull/823) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update Kubernetes and Helm versions](https://github.com/cowboysysop/charts/pull/822) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
