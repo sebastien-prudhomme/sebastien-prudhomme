@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -23,9 +23,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/docker-pytest/pull/458) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update actions/setup-node action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/457) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.156.1](https://github.com/cowboysysop/charts/pull/826) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/docker-pytest/pull/458) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update actions/setup-node action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/457) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.156.1](https://github.com/cowboysysop/charts/pull/826) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.140.0](https://github.com/cowboysysop/charts/pull/825) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/charts/pull/824) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
