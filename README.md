@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency semantic-release to v24.2.2](https://github.com/cowboysysop/docker-pytest/pull/462) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update sigstore/cosign-installer action to v3.8.0](https://github.com/cowboysysop/docker-pytest/pull/461) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.13.2](https://github.com/cowboysysop/docker-pytest/pull/460) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.4.2](https://github.com/cowboysysop/docker-pytest/pull/459) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.2.5](https://github.com/cowboysysop/charts/pull/830) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.12](https://github.com/cowboysysop/charts/pull/829) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
