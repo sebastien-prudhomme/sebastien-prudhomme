@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.13.2](https://github.com/cowboysysop/docker-pytest/pull/460) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v2.4.2](https://github.com/cowboysysop/docker-pytest/pull/459) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.2.5](https://github.com/cowboysysop/charts/pull/830) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.12](https://github.com/cowboysysop/charts/pull/829) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.13.2](https://github.com/cowboysysop/charts/pull/828) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/setup-python action to v5.4.0](https://github.com/cowboysysop/docker-pytest/pull/458) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-node action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/457) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
