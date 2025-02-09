@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.0.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.0.0), 1 week ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.62](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.62), 2 weeks ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.1), today) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.63](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.63), today) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
