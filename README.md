@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.1](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.1), 1 week ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
