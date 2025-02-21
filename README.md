@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), 4 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 4 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), 5 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 5 days ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency node to v22.14.0](https://github.com/cowboysysop/docker-pytest/pull/465) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency mariadb to v1.1.12](https://github.com/cowboysysop/docker-pytest/pull/464) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency semantic-release to v24.2.3](https://github.com/cowboysysop/docker-pytest/pull/463) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.11](https://github.com/cowboysysop/charts/pull/837) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update renovatebot/github-action action to v41.0.13](https://github.com/cowboysysop/charts/pull/836) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [ci: update dependency node to v22.14.0](https://github.com/cowboysysop/docker-pytest/pull/465) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [fix: update dependency mariadb to v1.1.12](https://github.com/cowboysysop/docker-pytest/pull/464) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update dependency semantic-release to v24.2.3](https://github.com/cowboysysop/docker-pytest/pull/463) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.11](https://github.com/cowboysysop/charts/pull/837) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update renovatebot/github-action action to v41.0.13](https://github.com/cowboysysop/charts/pull/836) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
