@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), 6 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 6 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency node to v22.14.0](https://github.com/cowboysysop/docker-pytest/pull/465) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency mariadb to v1.1.12](https://github.com/cowboysysop/docker-pytest/pull/464) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update dependency semantic-release to v24.2.3](https://github.com/cowboysysop/docker-pytest/pull/463) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.11](https://github.com/cowboysysop/charts/pull/837) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update renovatebot/github-action action to v41.0.13](https://github.com/cowboysysop/charts/pull/836) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.27.0](https://github.com/cowboysysop/charts/pull/839) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.12](https://github.com/cowboysysop/charts/pull/838) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency node to v22.14.0](https://github.com/cowboysysop/docker-pytest/pull/465) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency mariadb to v1.1.12](https://github.com/cowboysysop/docker-pytest/pull/464) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update dependency semantic-release to v24.2.3](https://github.com/cowboysysop/docker-pytest/pull/463) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 week ago)
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (2 weeks ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (2 weeks ago)
 - [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 month ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (1 month ago)
