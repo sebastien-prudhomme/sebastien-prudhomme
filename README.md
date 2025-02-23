@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.6), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.5.7](https://github.com/cowboysysop/charts/releases/tag/ollama-1.5.7), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update sigstore/cosign-installer action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/467) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v2.4.3](https://github.com/cowboysysop/docker-pytest/pull/466) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/yuzutech/kroki to v0.27.0](https://github.com/cowboysysop/charts/pull/839) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.12](https://github.com/cowboysysop/charts/pull/838) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency node to v22.14.0](https://github.com/cowboysysop/docker-pytest/pull/465) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency mariadb to v1.1.12](https://github.com/cowboysysop/docker-pytest/pull/464) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency semantic-release to v24.2.3](https://github.com/cowboysysop/docker-pytest/pull/463) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
