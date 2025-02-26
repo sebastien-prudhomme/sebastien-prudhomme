@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (5 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.6.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.6.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.6.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.6.0), 2 days ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.64](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.64), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/build-push-action action to v6.14.0](https://github.com/cowboysysop/docker-pytest/pull/468) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update sigstore/cosign-installer action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/467) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update dependency cosign to v2.4.3](https://github.com/cowboysysop/docker-pytest/pull/466) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [feat: update docker.io/yuzutech/kroki to v0.27.0](https://github.com/cowboysysop/charts/pull/839) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.12](https://github.com/cowboysysop/charts/pull/838) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update docker/build-push-action action to v6.14.0](https://github.com/cowboysysop/docker-pytest/pull/468) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update sigstore/cosign-installer action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/467) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [ci: update dependency cosign to v2.4.3](https://github.com/cowboysysop/docker-pytest/pull/466) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.27.0](https://github.com/cowboysysop/charts/pull/839) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.5.12](https://github.com/cowboysysop/charts/pull/838) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
