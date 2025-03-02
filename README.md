@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/metadata-action action to v5.7.0](https://github.com/cowboysysop/docker-pytest/pull/470) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update docker/build-push-action action to v6.15.0](https://github.com/cowboysysop/docker-pytest/pull/469) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/atkrad/wait4x docker tag to v3](https://github.com/cowboysysop/charts/pull/842) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.2.6](https://github.com/cowboysysop/charts/pull/841) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.14](https://github.com/cowboysysop/charts/pull/840) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update docker/build-push-action action to v6.14.0](https://github.com/cowboysysop/docker-pytest/pull/468) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update sigstore/cosign-installer action to v3.8.1](https://github.com/cowboysysop/docker-pytest/pull/467) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
