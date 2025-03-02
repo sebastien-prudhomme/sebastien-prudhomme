@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency pytest to v8.3.5](https://github.com/cowboysysop/docker-pytest/pull/472) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update super-linter/super-linter action to v7.3.0](https://github.com/cowboysysop/docker-pytest/pull/471) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/metadata-action action to v5.7.0](https://github.com/cowboysysop/docker-pytest/pull/470) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v6.15.0](https://github.com/cowboysysop/docker-pytest/pull/469) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/atkrad/wait4x docker tag to v3](https://github.com/cowboysysop/charts/pull/842) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.6](https://github.com/cowboysysop/charts/pull/841) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
