@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.65](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.65), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.2](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.2), today) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.65](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.65), 1 day ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-3.11.2](https://github.com/cowboysysop/charts/releases/tag/flowise-3.11.2), 1 day ago) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency pytest to v8.3.5](https://github.com/cowboysysop/docker-pytest/pull/472) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update super-linter/super-linter action to v7.3.0](https://github.com/cowboysysop/docker-pytest/pull/471) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/metadata-action action to v5.7.0](https://github.com/cowboysysop/docker-pytest/pull/470) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update docker/build-push-action action to v6.15.0](https://github.com/cowboysysop/docker-pytest/pull/469) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: update docker.io/atkrad/wait4x docker tag to v3](https://github.com/cowboysysop/charts/pull/842) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update dependency pytest to v8.3.5](https://github.com/cowboysysop/docker-pytest/pull/472) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update super-linter/super-linter action to v7.3.0](https://github.com/cowboysysop/docker-pytest/pull/471) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update docker/metadata-action action to v5.7.0](https://github.com/cowboysysop/docker-pytest/pull/470) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update docker/build-push-action action to v6.15.0](https://github.com/cowboysysop/docker-pytest/pull/469) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [feat!: update docker.io/atkrad/wait4x docker tag to v3](https://github.com/cowboysysop/charts/pull/842) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
