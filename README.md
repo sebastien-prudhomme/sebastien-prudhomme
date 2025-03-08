@@ -47,11 +47,11 @@
 
 #### ⭐ Recent Stars
 
+- [ShenSeanChen/launch-kit-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-kit-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (today)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (3 weeks ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (4 weeks ago)
 - [reefland/cri-purge](https://github.com/reefland/cri-purge) - CRI Purge - Cleanup of Cached Kubernetes CRI Images (1 month ago)
 - [substratusai/kubeai](https://github.com/substratusai/kubeai) - AI Inference Operator for Kubernetes. The easiest way to serve ML models in production. Supports VLMs, LLMs, embeddings, and speech-to-text. (1 month ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
