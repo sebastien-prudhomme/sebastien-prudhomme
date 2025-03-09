@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.191.1](https://github.com/cowboysysop/charts/pull/845) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.191.2](https://github.com/cowboysysop/charts/pull/845) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.5.13](https://github.com/cowboysysop/charts/pull/844) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v2.2.7](https://github.com/cowboysysop/charts/pull/843) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency pytest to v8.3.5](https://github.com/cowboysysop/docker-pytest/pull/472) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
