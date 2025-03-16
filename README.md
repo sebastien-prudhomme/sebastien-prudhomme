@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-6.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-6.0.1), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.65](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.65), 2 weeks ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.1](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.1), today) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.66](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.66), today) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
