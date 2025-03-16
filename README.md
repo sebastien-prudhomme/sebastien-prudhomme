@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.0](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.0), 2 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.65](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.65), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.0](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.0), 3 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.65](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.65), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/ollama/ollama docker tag to v0.6.0](https://github.com/cowboysysop/charts/pull/846) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.199.0](https://github.com/cowboysysop/charts/pull/845) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.5.13](https://github.com/cowboysysop/charts/pull/844) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.7](https://github.com/cowboysysop/charts/pull/843) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update dependency pytest to v8.3.5](https://github.com/cowboysysop/docker-pytest/pull/472) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [feat: update docker.io/traefik/whoami docker tag to v1.11.0](https://github.com/cowboysysop/charts/pull/851) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.1](https://github.com/cowboysysop/charts/pull/850) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/dolibarr/dolibarr docker tag to v20.0.4](https://github.com/cowboysysop/charts/pull/849) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.32.3](https://github.com/cowboysysop/charts/pull/848) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency helm to v3.17.2](https://github.com/cowboysysop/charts/pull/847) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
