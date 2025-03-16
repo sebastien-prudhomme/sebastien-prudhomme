@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([cert-manager-common-1.0.0](https://github.com/cowboysysop/charts/releases/tag/cert-manager-common-1.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), today) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.1](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.1), today) - Cowboy Sysop Charts
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cert-manager-common): first version of the chart](https://github.com/cowboysysop/charts/pull/852) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency grpcio_health_checking to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/476) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/475) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/login-action action to v3.4.0](https://github.com/cowboysysop/docker-pytest/pull/474) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update cycjimmy/semantic-release-action action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/473) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat: update docker.io/traefik/whoami docker tag to v1.11.0](https://github.com/cowboysysop/charts/pull/851) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
