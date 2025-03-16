@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/login-action action to v3.4.0](https://github.com/cowboysysop/docker-pytest/pull/474) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v4.2.0](https://github.com/cowboysysop/docker-pytest/pull/473) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/traefik/whoami docker tag to v1.11.0](https://github.com/cowboysysop/charts/pull/851) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.1](https://github.com/cowboysysop/charts/pull/850) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v20.0.4](https://github.com/cowboysysop/charts/pull/849) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update kindest/node docker tag to v1.32.3](https://github.com/cowboysysop/charts/pull/848) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency helm to v3.17.2](https://github.com/cowboysysop/charts/pull/847) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
