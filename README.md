@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update cert-manager-mixin project](https://github.com/cert-manager/website/pull/1657) on [cert-manager/website](https://github.com/cert-manager/website) (today)
 - [ci: update renovatebot/github-action action to v41.0.15](https://github.com/cowboysysop/charts/pull/853) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat(cert-manager-common): first version of the chart](https://github.com/cowboysysop/charts/pull/852) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [fix: update dependency grpcio_health_checking to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/476) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 - [fix: update dependency grpcio to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/475) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [ci: update docker/login-action action to v3.4.0](https://github.com/cowboysysop/docker-pytest/pull/474) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
