@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.1](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.2](https://github.com/cowboysysop/charts/pull/855) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.16](https://github.com/cowboysysop/charts/pull/854) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [Update cert-manager-mixin project](https://github.com/cert-manager/website/pull/1657) on [cert-manager/website](https://github.com/cert-manager/website) (5 days ago)
 
 #### 📜 My recent blog posts
 
