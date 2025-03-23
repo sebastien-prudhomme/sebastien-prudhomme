@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([cert-manager-common-1.0.0](https://github.com/cowboysysop/charts/releases/tag/cert-manager-common-1.0.0), 6 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 6 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([cert-manager-common-1.0.0](https://github.com/cowboysysop/charts/releases/tag/cert-manager-common-1.0.0), 1 week ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [Update cert-manager-mixin project](https://github.com/cert-manager/website/pull/1657) on [cert-manager/website](https://github.com/cert-manager/website) (4 days ago)
-- [ci: update renovatebot/github-action action to v41.0.15](https://github.com/cowboysysop/charts/pull/853) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat(cert-manager-common): first version of the chart](https://github.com/cowboysysop/charts/pull/852) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [fix: update dependency grpcio_health_checking to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/476) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency grpcio to v1.71.0](https://github.com/cowboysysop/docker-pytest/pull/475) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.1](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.2](https://github.com/cowboysysop/charts/pull/855) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v41.0.16](https://github.com/cowboysysop/charts/pull/854) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [Update cert-manager-mixin project](https://github.com/cert-manager/website/pull/1657) on [cert-manager/website](https://github.com/cert-manager/website) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (5 days ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (5 days ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (6 days ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
 - [ShenSeanChen/launch-kit-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-kit-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (2 weeks ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 month ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (1 month ago)
