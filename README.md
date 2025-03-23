@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update bridgecrewio/checkov-action action to v12.2981.0](https://github.com/cowboysysop/charts/pull/859) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.4](https://github.com/cowboysysop/charts/pull/858) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat(dolibarr)!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.2](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.6.2](https://github.com/cowboysysop/charts/pull/855) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.16](https://github.com/cowboysysop/charts/pull/854) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
