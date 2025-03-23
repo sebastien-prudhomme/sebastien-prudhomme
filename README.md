@@ -18,13 +18,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.2](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.2), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
 - [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(dolibarr)!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.2](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.2](https://github.com/cowboysysop/charts/pull/855) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.16](https://github.com/cowboysysop/charts/pull/854) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
