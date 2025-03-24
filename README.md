@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([redis-extra-1.0.0](https://github.com/cowboysysop/charts/releases/tag/redis-extra-1.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [feat(redis-extra): first version of the chart](https://github.com/cowboysysop/charts/pull/860) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.2981.0](https://github.com/cowboysysop/charts/pull/859) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.212.0](https://github.com/cowboysysop/charts/pull/858) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [feat(dolibarr)!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.2](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
