@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.0), 1 day ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 1 week ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2981.0](https://github.com/cowboysysop/charts/pull/859) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.212.0](https://github.com/cowboysysop/charts/pull/858) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat(dolibarr)!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.2](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.2981.0](https://github.com/cowboysysop/charts/pull/859) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.212.0](https://github.com/cowboysysop/charts/pull/858) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update actions/setup-node action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/477) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [feat(dolibarr)!: update docker.io/dolibarr/dolibarr docker tag to v21](https://github.com/cowboysysop/charts/pull/857) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.211.2](https://github.com/cowboysysop/charts/pull/856) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (6 days ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (6 days ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 week ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
 - [ShenSeanChen/launch-kit-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-kit-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (2 weeks ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 month ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (1 month ago)
