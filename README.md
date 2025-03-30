@@ -23,7 +23,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.222.0](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.222.1](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.7](https://github.com/cowboysysop/charts/pull/866) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [test: update dependency pytest-testinfra to v10.2.2](https://github.com/cowboysysop/docker-pytest/pull/480) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.6](https://github.com/cowboysysop/charts/pull/865) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
