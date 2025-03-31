@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (6 months ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -18,16 +18,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.3), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.3](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.3), 1 day ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 2 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.222.1](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.7](https://github.com/cowboysysop/charts/pull/866) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [test: update dependency pytest-testinfra to v10.2.2](https://github.com/cowboysysop/docker-pytest/pull/480) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.6](https://github.com/cowboysysop/charts/pull/865) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [test: update dependency pytest-testinfra to v10.2.1](https://github.com/cowboysysop/docker-pytest/pull/479) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.222.1](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.7](https://github.com/cowboysysop/charts/pull/866) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [test: update dependency pytest-testinfra to v10.2.2](https://github.com/cowboysysop/docker-pytest/pull/480) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.6](https://github.com/cowboysysop/charts/pull/865) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [test: update dependency pytest-testinfra to v10.2.1](https://github.com/cowboysysop/docker-pytest/pull/479) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -47,8 +47,8 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 week ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 week ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (2 weeks ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
 - [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (3 weeks ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 month ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (1 month ago)
