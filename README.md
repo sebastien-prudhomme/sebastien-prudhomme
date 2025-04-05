@@ -23,11 +23,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.222.1](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2987.0](https://github.com/cowboysysop/charts/pull/870) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.4](https://github.com/cowboysysop/charts/pull/869) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v41.0.18](https://github.com/cowboysysop/charts/pull/868) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.233.3](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.7](https://github.com/cowboysysop/charts/pull/866) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [test: update dependency pytest-testinfra to v10.2.2](https://github.com/cowboysysop/docker-pytest/pull/480) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.6](https://github.com/cowboysysop/charts/pull/865) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [test: update dependency pytest-testinfra to v10.2.1](https://github.com/cowboysysop/docker-pytest/pull/479) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 
 #### 📜 My recent blog posts
 
