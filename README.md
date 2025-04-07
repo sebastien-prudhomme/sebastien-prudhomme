@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (7 months ago)
 
@@ -18,14 +18,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.4), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.4](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.4), 1 day ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 3 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.2988.0](https://github.com/cowboysysop/charts/pull/870) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.6.4](https://github.com/cowboysysop/charts/pull/869) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update renovatebot/github-action action to v41.0.18](https://github.com/cowboysysop/charts/pull/868) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update bridgecrewio/checkov-action action to v12.2988.0](https://github.com/cowboysysop/charts/pull/870) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.4](https://github.com/cowboysysop/charts/pull/869) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
+- [ci: update renovatebot/github-action action to v41.0.18](https://github.com/cowboysysop/charts/pull/868) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.233.5](https://github.com/cowboysysop/charts/pull/867) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v39.220.7](https://github.com/cowboysysop/charts/pull/866) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (2 weeks ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (2 weeks ago)
-- [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (4 weeks ago)
+- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (3 weeks ago)
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
+- [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (1 month ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (1 month ago)
 - [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (1 month ago)
 
