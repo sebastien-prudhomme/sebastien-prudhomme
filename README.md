@@ -48,11 +48,11 @@
 
 #### ⭐ Recent Stars
 
+- [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (today)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (3 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
 - [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (1 month ago)
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes (2 months ago)
-- [DefGuard/defguard](https://github.com/DefGuard/defguard) - Zero-Trust access management with true WireGuard® 2FA/MFA (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
