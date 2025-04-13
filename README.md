@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 weeks ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 month ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency cosign to v2.5.0](https://github.com/cowboysysop/docker-pytest/pull/482) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency python to v3.13.3](https://github.com/cowboysysop/docker-pytest/pull/481) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.5](https://github.com/cowboysysop/charts/pull/875) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v21.0.1](https://github.com/cowboysysop/charts/pull/874) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update renovatebot/github-action action to v41.0.19](https://github.com/cowboysysop/charts/pull/873) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update dependency python to v3.13.3](https://github.com/cowboysysop/charts/pull/872) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [ci: update dependency helm to v3.17.3](https://github.com/cowboysysop/charts/pull/871) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
