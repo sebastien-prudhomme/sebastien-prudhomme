@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 weeks ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 month ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (7 months ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.1), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 3 weeks ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.1), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 4 weeks ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/ollama/ollama docker tag to v0.6.5](https://github.com/cowboysysop/charts/pull/875) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/dolibarr/dolibarr docker tag to v21.0.1](https://github.com/cowboysysop/charts/pull/874) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v41.0.19](https://github.com/cowboysysop/charts/pull/873) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency python to v3.13.3](https://github.com/cowboysysop/charts/pull/872) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency helm to v3.17.3](https://github.com/cowboysysop/charts/pull/871) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.5](https://github.com/cowboysysop/charts/pull/875) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/dolibarr/dolibarr docker tag to v21.0.1](https://github.com/cowboysysop/charts/pull/874) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update renovatebot/github-action action to v41.0.19](https://github.com/cowboysysop/charts/pull/873) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update dependency python to v3.13.3](https://github.com/cowboysysop/charts/pull/872) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update dependency helm to v3.17.3](https://github.com/cowboysysop/charts/pull/871) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (1 day ago)
+- [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (2 days ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (3 weeks ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (3 weeks ago)
 - [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (1 month ago)
