@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 weeks ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 month ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (7 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.1), 1 day ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.67](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.67), 4 weeks ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
