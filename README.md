@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update docker.io/wait4x/wait4x docker tag to v3.3.0](https://github.com/cowboysysop/charts/pull/877) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v41.0.20](https://github.com/cowboysysop/charts/pull/876) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency cosign to v2.5.0](https://github.com/cowboysysop/docker-pytest/pull/482) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [fix: update dependency python to v3.13.3](https://github.com/cowboysysop/docker-pytest/pull/481) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.5](https://github.com/cowboysysop/charts/pull/875) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [fix: update docker.io/dolibarr/dolibarr docker tag to v21.0.1](https://github.com/cowboysysop/charts/pull/874) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v41.0.19](https://github.com/cowboysysop/charts/pull/873) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
