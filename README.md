@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.6), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 week ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-7.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-7.0.1), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 2 months ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/483) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.6](https://github.com/cowboysysop/charts/pull/878) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/wait4x/wait4x docker tag to v3.3.0](https://github.com/cowboysysop/charts/pull/877) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update renovatebot/github-action action to v41.0.20](https://github.com/cowboysysop/charts/pull/876) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update dependency cosign to v2.5.0](https://github.com/cowboysysop/docker-pytest/pull/482) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency python to v3.13.3](https://github.com/cowboysysop/docker-pytest/pull/481) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
