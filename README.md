@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (1 month ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 month ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-python action to v5.6.0](https://github.com/cowboysysop/docker-pytest/pull/485) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/484) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v5.6.0](https://github.com/cowboysysop/charts/pull/880) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v41.0.21](https://github.com/cowboysysop/charts/pull/879) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/setup-node action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/483) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.6.6](https://github.com/cowboysysop/charts/pull/878) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update docker.io/wait4x/wait4x docker tag to v3.3.0](https://github.com/cowboysysop/charts/pull/877) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
