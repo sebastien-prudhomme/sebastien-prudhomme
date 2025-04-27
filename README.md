@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [Verasl/BoatAttack](https://github.com/Verasl/BoatAttack) - Demo Project using the Universal RP from Unity3D (today)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 day ago)
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (2 weeks ago)
 - [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 month ago)
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
-- [ShenSeanChen/launch-mvp-stripe-nextjs-supabase](https://github.com/ShenSeanChen/launch-mvp-stripe-nextjs-supabase) - Welcome to Sean&#39;s Open Source MVP Boilerplate Template for Production-Ready NextJS&#43;Stripe&#43;Supabase App. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
