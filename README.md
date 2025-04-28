@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game (today)
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (today)
 - [Verasl/BoatAttack](https://github.com/Verasl/BoatAttack) - Demo Project using the Universal RP from Unity3D (1 day ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (2 days ago)
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (2 weeks ago)
-- [cloudflare/pint](https://github.com/cloudflare/pint) - Prometheus rule linter/validator (1 month ago)
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
