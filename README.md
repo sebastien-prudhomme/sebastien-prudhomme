@@ -15,8 +15,8 @@
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) - 
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
-- [sebastien-prudhomme/frontendmentor](https://github.com/sebastien-prudhomme/frontendmentor) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
+- [sebastien-prudhomme/test-actions-docker](https://github.com/sebastien-prudhomme/test-actions-docker) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [flareteam/flare-game](https://github.com/flareteam/flare-game) - Fantasy action RPG using the FLARE engine (today)
+- [flareteam/flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only) (today)
 - [workadventure/workadventure](https://github.com/workadventure/workadventure) - A collaborative web application (virtual office) presented as a 16-bit RPG video game (2 days ago)
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (2 days ago)
 - [Verasl/BoatAttack](https://github.com/Verasl/BoatAttack) - Demo Project using the Universal RP from Unity3D (3 days ago)
-- [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (4 days ago)
-- [speaches-ai/speaches](https://github.com/speaches-ai/speaches) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
