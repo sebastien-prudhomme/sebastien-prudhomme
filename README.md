@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (today)
+- [David20321/FTJ](https://github.com/David20321/FTJ) - This is a game that was created for FTJ 2012 (&#34;F This Jam&#34;) (today)
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (1 day ago)
 - [hellofresh/kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal (1 day ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 days ago)
-- [flareteam/flare-game](https://github.com/flareteam/flare-game) - Fantasy action RPG using the FLARE engine (2 days ago)
-- [flareteam/flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only) (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
