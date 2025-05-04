@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (1 month ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (8 months ago)
@@ -21,16 +21,16 @@
 #### 🔭 Latest releases I've contributed to
 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.17](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.17), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.6), 1 week ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 2 weeks ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.6](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.6), 2 weeks ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 3 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/build-push-action action to v6.16.0](https://github.com/cowboysysop/docker-pytest/pull/487) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update dependency node to v22.15.0](https://github.com/cowboysysop/docker-pytest/pull/486) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update actions/setup-python action to v5.6.0](https://github.com/cowboysysop/docker-pytest/pull/485) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update sigstore/cosign-installer action to v3.8.2](https://github.com/cowboysysop/docker-pytest/pull/484) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update actions/setup-python action to v5.6.0](https://github.com/cowboysysop/charts/pull/880) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update renovatebot/github-action action to v42](https://github.com/cowboysysop/charts/pull/887) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40](https://github.com/cowboysysop/charts/pull/886) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update registry.k8s.io/autoscaling/vpa to v1.3.1](https://github.com/cowboysysop/charts/pull/885) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/ollama/ollama docker tag to v0.6.7](https://github.com/cowboysysop/charts/pull/884) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/flowiseai/flowise docker tag to v2.2.8](https://github.com/cowboysysop/charts/pull/883) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (1 day ago)
-- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (1 day ago)
-- [David20321/FTJ](https://github.com/David20321/FTJ) - This is a game that was created for FTJ 2012 (&#34;F This Jam&#34;) (1 day ago)
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (2 days ago)
-- [hellofresh/kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal (2 days ago)
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (2 days ago)
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (2 days ago)
+- [David20321/FTJ](https://github.com/David20321/FTJ) - This is a game that was created for FTJ 2012 (&#34;F This Jam&#34;) (2 days ago)
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (3 days ago)
+- [hellofresh/kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
