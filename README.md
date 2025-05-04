@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else! (today)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (2 days ago)
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (2 days ago)
 - [David20321/FTJ](https://github.com/David20321/FTJ) - This is a game that was created for FTJ 2012 (&#34;F This Jam&#34;) (2 days ago)
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 (3 days ago)
-- [hellofresh/kangal](https://github.com/hellofresh/kangal) - Run performance tests in Kubernetes cluster with Kangal (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
