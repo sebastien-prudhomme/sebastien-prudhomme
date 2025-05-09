@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (today)
+- [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis (today)
+- [ridedott/release-me-action](https://github.com/ridedott/release-me-action) - A GitHub Action for creating GitHub releases with Semantic Release. (today)
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (3 days ago)
 - [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit) (4 days ago)
-- [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else! (5 days ago)
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (1 week ago)
-- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
