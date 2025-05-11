@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24](https://github.com/cowboysysop/docker-pytest/pull/489) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.6.8](https://github.com/cowboysysop/charts/pull/888) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update renovatebot/github-action action to v42](https://github.com/cowboysysop/docker-pytest/pull/488) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v42](https://github.com/cowboysysop/charts/pull/887) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40](https://github.com/cowboysysop/charts/pull/886) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.3.1](https://github.com/cowboysysop/charts/pull/885) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
