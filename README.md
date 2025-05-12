@@ -16,7 +16,7 @@
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
-- [sebastien-prudhomme/test-actions-docker](https://github.com/sebastien-prudhomme/test-actions-docker) - 
+- [sebastien-prudhomme/roue-emotions-test](https://github.com/sebastien-prudhomme/roue-emotions-test) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (3 days ago)
-- [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis (3 days ago)
-- [ridedott/release-me-action](https://github.com/ridedott/release-me-action) - A GitHub Action for creating GitHub releases with Semantic Release. (3 days ago)
-- [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player. (6 days ago)
-- [microsoft/pxt](https://github.com/microsoft/pxt) - Microsoft MakeCode (PXT - Programming eXperience Toolkit) (1 week ago)
+- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (today)
+- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (today)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (today)
+- [daniel-ilett/smo-shaders](https://github.com/daniel-ilett/smo-shaders) - A collection of shaders to replicate those used in Super Mario Odyssey&#39;s Snapshot Mode. (today)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (today)
 
 #### 👯 Check out some of my recent followers
 
