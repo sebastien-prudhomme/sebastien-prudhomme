@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [danopstech/speedtest_exporter](https://github.com/danopstech/speedtest_exporter) - 🏎️   Prometheus exporter that runs speedtest and exposes results (today)
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (today)
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (today)
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants (today)
 - [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (1 day ago)
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
