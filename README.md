@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.8), 3 days ago) - Cowboy Sysop Charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.17](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.17), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
