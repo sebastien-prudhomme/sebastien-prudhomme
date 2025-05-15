@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (1 month ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) -  (8 months ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/kitchen-chaos](https://github.com/sebastien-prudhomme/kitchen-chaos) - 
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) - 
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
 - [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
-- [sebastien-prudhomme/roue-emotions-test](https://github.com/sebastien-prudhomme/roue-emotions-test) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
-- [danopstech/speedtest_exporter](https://github.com/danopstech/speedtest_exporter) - 🏎️   Prometheus exporter that runs speedtest and exposes results (2 days ago)
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (2 days ago)
-- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!) (2 days ago)
-- [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants (2 days ago)
-- [vmware-tanzu/sonobuoy](https://github.com/vmware-tanzu/sonobuoy) - Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner. (3 days ago)
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI (today)
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products. (today)
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - Pythonic AI generation of images and videos (today)
+- [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral) (today)
+- [bank-vaults/bank-vaults](https://github.com/bank-vaults/bank-vaults) - A Vault swiss-army knife: A CLI tool to init, unseal and configure Vault (auth methods, secret engines). (today)
 
 #### 👯 Check out some of my recent followers
 
