@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
+- [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
 
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.8), 6 days ago) - Cowboy Sysop Charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.8), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency node to v24](https://github.com/cowboysysop/docker-pytest/pull/489) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.6.8](https://github.com/cowboysysop/charts/pull/888) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update renovatebot/github-action action to v42](https://github.com/cowboysysop/docker-pytest/pull/488) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v42](https://github.com/cowboysysop/charts/pull/887) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40](https://github.com/cowboysysop/charts/pull/886) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat!: update docker.io/flowiseai/flowise docker tag to v3](https://github.com/cowboysysop/charts/pull/896) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/ollama/ollama docker tag to v0.7.0](https://github.com/cowboysysop/charts/pull/895) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.32.5](https://github.com/cowboysysop/charts/pull/894) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.31.9](https://github.com/cowboysysop/charts/pull/893) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update kindest/node docker tag to v1.30.13](https://github.com/cowboysysop/charts/pull/892) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
-- [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference (1 day ago)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. (1 day ago)
-- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands (2 days ago)
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends. (2 days ago)
-- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. (2 days ago)
+- [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference (2 days ago)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. (2 days ago)
+- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands (3 days ago)
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends. (3 days ago)
+- [serge-chat/serge](https://github.com/serge-chat/serge) - A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
