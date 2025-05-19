@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (4 days ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
@@ -20,17 +20,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.7.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.7.0), today) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-1.6.8](https://github.com/cowboysysop/charts/releases/tag/ollama-1.6.8), 1 week ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update super-linter/super-linter action to v7.4.0](https://github.com/cowboysysop/docker-pytest/pull/493) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update docker/build-push-action action to v6.17.0](https://github.com/cowboysysop/docker-pytest/pull/492) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency semantic-release to v24.2.4](https://github.com/cowboysysop/docker-pytest/pull/491) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency node to v22.15.1](https://github.com/cowboysysop/docker-pytest/pull/490) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [feat!: update docker.io/flowiseai/flowise docker tag to v3](https://github.com/cowboysysop/charts/pull/896) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix(config): migrate renovate config](https://github.com/cowboysysop/charts/pull/901) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(kroki): update docker.io/yuzutech/kroki to v0.28.0](https://github.com/cowboysysop/charts/pull/900) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.3016.0](https://github.com/cowboysysop/charts/pull/899) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v42.0.3](https://github.com/cowboysysop/charts/pull/898) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(vertical-pod-autoscaler): allow configuration of revision history limit](https://github.com/cowboysysop/charts/pull/897) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
