@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.18.0](https://github.com/cowboysysop/charts/pull/904) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: migrate Renovate configuration](https://github.com/cowboysysop/charts/pull/902) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix(config): migrate renovate config](https://github.com/cowboysysop/charts/pull/901) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki): update docker.io/yuzutech/kroki to v0.28.0](https://github.com/cowboysysop/charts/pull/900) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update bridgecrewio/checkov-action action to v12.3016.0](https://github.com/cowboysysop/charts/pull/899) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v42.0.3](https://github.com/cowboysysop/charts/pull/898) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat(vertical-pod-autoscaler): allow configuration of revision history limit](https://github.com/cowboysysop/charts/pull/897) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
