@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.4.0](https://github.com/cowboysysop/charts/pull/906) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.26.1](https://github.com/cowboysysop/charts/pull/905) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40.18.0](https://github.com/cowboysysop/charts/pull/904) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [ci: migrate Renovate configuration](https://github.com/cowboysysop/charts/pull/902) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 - [fix(config): migrate renovate config](https://github.com/cowboysysop/charts/pull/901) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(kroki): update docker.io/yuzutech/kroki to v0.28.0](https://github.com/cowboysysop/charts/pull/900) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.3016.0](https://github.com/cowboysysop/charts/pull/899) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
