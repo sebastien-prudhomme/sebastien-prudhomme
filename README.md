@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [gatteo/linkedinpreview.com](https://github.com/gatteo/linkedinpreview.com) - A free online tool to write, format, and preview your LinkedIn posts before publishing them. Add bold, italic, and emoji to your LinkedIn posts, and see how they will look on desktop and mobile. (today)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (3 days ago)
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (4 days ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution (4 days ago)
 - [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference (1 week ago)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
