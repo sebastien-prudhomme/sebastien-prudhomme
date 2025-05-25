@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.1), today) - 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.2), today) - 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.2.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.2.0), today) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.30.2](https://github.com/cowboysysop/charts/pull/909) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.31.0](https://github.com/cowboysysop/charts/pull/909) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency conventional-changelog-conventionalcommits to v9](https://github.com/cowboysysop/docker-pytest/pull/496) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
