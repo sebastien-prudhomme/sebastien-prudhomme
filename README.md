@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40.29.1](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.7.1](https://github.com/cowboysysop/charts/pull/907) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update registry.k8s.io/autoscaling/vpa to v1.4.0](https://github.com/cowboysysop/charts/pull/906) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.26.1](https://github.com/cowboysysop/charts/pull/905) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.18.0](https://github.com/cowboysysop/charts/pull/904) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
