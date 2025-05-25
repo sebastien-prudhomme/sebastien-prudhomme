@@ -4,33 +4,33 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
 - [sebastien-prudhomme/kitchen-chaos](https://github.com/sebastien-prudhomme/kitchen-chaos) - 
 - [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) - 
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) - 
 - [sebastien-prudhomme/test-pushprox](https://github.com/sebastien-prudhomme/test-pushprox) - 
-- [sebastien-prudhomme/test-amplication](https://github.com/sebastien-prudhomme/test-amplication) - 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-5.7.0](https://github.com/cowboysysop/charts/releases/tag/kroki-5.7.0), 6 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.2.0](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.2.0), today) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.30.2](https://github.com/cowboysysop/charts/pull/909) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency conventional-changelog-conventionalcommits to v9](https://github.com/cowboysysop/docker-pytest/pull/496) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40.30.0](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/ollama/ollama docker tag to v0.7.1](https://github.com/cowboysysop/charts/pull/907) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds (today)
 - [gatteo/linkedinpreview.com](https://github.com/gatteo/linkedinpreview.com) - A free online tool to write, format, and preview your LinkedIn posts before publishing them. Add bold, italic, and emoji to your LinkedIn posts, and see how they will look on desktop and mobile. (1 day ago)
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (4 days ago)
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (5 days ago)
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution (5 days ago)
-- [Smana/cloud-native-ref](https://github.com/Smana/cloud-native-ref) - Opiniated Cloud Native Platform Reference (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
