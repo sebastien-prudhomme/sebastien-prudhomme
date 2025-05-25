@@ -29,7 +29,7 @@
 - [ci: update dependency conventional-changelog-conventionalcommits to v9](https://github.com/cowboysysop/docker-pytest/pull/496) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.29.1](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.30.0](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.7.1](https://github.com/cowboysysop/charts/pull/907) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
