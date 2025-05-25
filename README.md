@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
@@ -26,11 +26,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency conventional-changelog-conventionalcommits to v9](https://github.com/cowboysysop/docker-pytest/pull/496) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40.29.1](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.7.1](https://github.com/cowboysysop/charts/pull/907) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.4.0](https://github.com/cowboysysop/charts/pull/906) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
