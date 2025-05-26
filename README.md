@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 week ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: push charts to an OCI-based registry](https://github.com/cowboysysop/charts/pull/910) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v40.31.0](https://github.com/cowboysysop/charts/pull/909) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update dependency conventional-changelog-conventionalcommits to v9](https://github.com/cowboysysop/docker-pytest/pull/496) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update dependency node to v22.16.0](https://github.com/cowboysysop/docker-pytest/pull/495) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update dependency semantic-release to v24.2.5](https://github.com/cowboysysop/docker-pytest/pull/494) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.30.0](https://github.com/cowboysysop/charts/pull/908) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
