@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 weeks ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-4.0.0](https://github.com/cowboysysop/charts/releases/tag/flowise-4.0.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.0.0](https://github.com/cowboysysop/charts/releases/tag/ollama-2.0.0), today) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 3 days ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
