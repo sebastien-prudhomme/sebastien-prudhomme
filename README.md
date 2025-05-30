@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [JayDDee/cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) - Optimized multi algo CPU miner (today)
+- [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux &#43; windows) (today)
 - [ncannasse/castle](https://github.com/ncannasse/castle) - A structured database with a local web service to edit it (today)
 - [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds (5 days ago)
 - [gatteo/linkedinpreview.com](https://github.com/gatteo/linkedinpreview.com) - A free online tool to write, format, and preview your LinkedIn posts before publishing them. Add bold, italic, and emoji to your LinkedIn posts, and see how they will look on desktop and mobile. (6 days ago)
-- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation. (1 week ago)
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python &amp; Django (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
