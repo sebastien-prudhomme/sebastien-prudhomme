@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 weeks ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.0.0](https://github.com/cowboysysop/charts/releases/tag/ollama-2.0.0), 1 day ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 4 days ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.0.0](https://github.com/cowboysysop/charts/releases/tag/ollama-2.0.0), 2 days ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 5 days ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat(ollama)!: update docker.io/ollama/ollama docker tag to v0.8.0](https://github.com/cowboysysop/charts/pull/914) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.33.9](https://github.com/cowboysysop/charts/pull/913) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update bridgecrewio/checkov-action action to v12.3025.0](https://github.com/cowboysysop/charts/pull/912) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update renovatebot/github-action action to v42.0.4](https://github.com/cowboysysop/charts/pull/911) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: push charts to an OCI-based registry](https://github.com/cowboysysop/charts/pull/910) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat(ollama)!: update docker.io/ollama/ollama docker tag to v0.8.0](https://github.com/cowboysysop/charts/pull/914) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.33.9](https://github.com/cowboysysop/charts/pull/913) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update bridgecrewio/checkov-action action to v12.3025.0](https://github.com/cowboysysop/charts/pull/912) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update renovatebot/github-action action to v42.0.4](https://github.com/cowboysysop/charts/pull/911) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: push charts to an OCI-based registry](https://github.com/cowboysysop/charts/pull/910) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [JayDDee/cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) - Optimized multi algo CPU miner (today)
-- [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux &#43; windows) (today)
-- [ncannasse/castle](https://github.com/ncannasse/castle) - A structured database with a local web service to edit it (today)
-- [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds (5 days ago)
-- [gatteo/linkedinpreview.com](https://github.com/gatteo/linkedinpreview.com) - A free online tool to write, format, and preview your LinkedIn posts before publishing them. Add bold, italic, and emoji to your LinkedIn posts, and see how they will look on desktop and mobile. (6 days ago)
+- [JayDDee/cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) - Optimized multi algo CPU miner (1 day ago)
+- [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux &#43; windows) (1 day ago)
+- [ncannasse/castle](https://github.com/ncannasse/castle) - A structured database with a local web service to edit it (1 day ago)
+- [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds (6 days ago)
+- [gatteo/linkedinpreview.com](https://github.com/gatteo/linkedinpreview.com) - A free online tool to write, format, and preview your LinkedIn posts before publishing them. Add bold, italic, and emoji to your LinkedIn posts, and see how they will look on desktop and mobile. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
