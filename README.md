@@ -30,7 +30,7 @@
 - [ci: update docker/build-push-action action to v6.18.0](https://github.com/cowboysysop/docker-pytest/pull/497) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/cowboysysop/charts/pull/918) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/ollama/ollama docker tag to v0.9.0](https://github.com/cowboysysop/charts/pull/917) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.36.10](https://github.com/cowboysysop/charts/pull/916) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v40.37.0](https://github.com/cowboysysop/charts/pull/916) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v3.0.1](https://github.com/cowboysysop/charts/pull/915) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
