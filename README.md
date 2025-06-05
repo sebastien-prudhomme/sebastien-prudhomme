@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [cozystack/cozystack](https://github.com/cozystack/cozystack) - Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service (today)
 - [StarFleetCPTN/GoMFT](https://github.com/StarFleetCPTN/GoMFT) - Go Managed File Transfer (2 days ago)
 - [JayDDee/cpuminer-opt](https://github.com/JayDDee/cpuminer-opt) - Optimized multi algo CPU miner (6 days ago)
 - [tpruvot/cpuminer-multi](https://github.com/tpruvot/cpuminer-multi) - crypto cpuminer (linux &#43; windows) (6 days ago)
 - [ncannasse/castle](https://github.com/ncannasse/castle) - A structured database with a local web service to edit it (6 days ago)
-- [rohitg00/CreateMVP](https://github.com/rohitg00/CreateMVP) - Create MVPs with AI in seconds (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
