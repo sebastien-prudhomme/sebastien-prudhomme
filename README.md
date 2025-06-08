@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.69](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.69), today) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.0](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 1 week ago) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.68](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.68), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency pytest to v8.4.0](https://github.com/cowboysysop/docker-pytest/pull/502) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio_health_checking to v1.72.1](https://github.com/cowboysysop/docker-pytest/pull/501) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency grpcio to v1.72.1](https://github.com/cowboysysop/docker-pytest/pull/500) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.13.4](https://github.com/cowboysysop/docker-pytest/pull/499) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update cycjimmy/semantic-release-action action to v4.2.1](https://github.com/cowboysysop/docker-pytest/pull/498) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.4.1](https://github.com/cowboysysop/charts/pull/921) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
