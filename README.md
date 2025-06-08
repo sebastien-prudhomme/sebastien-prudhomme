@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.13.4](https://github.com/cowboysysop/docker-pytest/pull/499) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v4.2.1](https://github.com/cowboysysop/docker-pytest/pull/498) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.4.1](https://github.com/cowboysysop/charts/pull/921) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency python to v3.13.4](https://github.com/cowboysysop/charts/pull/920) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update docker/build-push-action action to v6.18.0](https://github.com/cowboysysop/docker-pytest/pull/497) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/cowboysysop/charts/pull/918) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update docker.io/ollama/ollama docker tag to v0.9.0](https://github.com/cowboysysop/charts/pull/917) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
