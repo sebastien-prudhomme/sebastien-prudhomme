@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency requests to v2.32.4](https://github.com/cowboysysop/docker-pytest/pull/504) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency python to v3.13.5](https://github.com/cowboysysop/docker-pytest/pull/503) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.9.1](https://github.com/cowboysysop/charts/pull/923) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v42.0.5](https://github.com/cowboysysop/charts/pull/922) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency pytest to v8.4.0](https://github.com/cowboysysop/docker-pytest/pull/502) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio_health_checking to v1.72.1](https://github.com/cowboysysop/docker-pytest/pull/501) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency grpcio to v1.72.1](https://github.com/cowboysysop/docker-pytest/pull/500) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
