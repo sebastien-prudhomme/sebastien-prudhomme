@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 weeks ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (2 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.73](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.73), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-10.2.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-10.2.1), 4 days ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.72](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.72), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency grpcio_health_checking to v1.73.0](https://github.com/cowboysysop/docker-pytest/pull/506) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio to v1.73.0](https://github.com/cowboysysop/docker-pytest/pull/505) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency requests to v2.32.4](https://github.com/cowboysysop/docker-pytest/pull/504) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.13.5](https://github.com/cowboysysop/docker-pytest/pull/503) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.9.1](https://github.com/cowboysysop/charts/pull/923) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v42.0.5](https://github.com/cowboysysop/charts/pull/922) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency pytest to v8.4.0](https://github.com/cowboysysop/docker-pytest/pull/502) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
