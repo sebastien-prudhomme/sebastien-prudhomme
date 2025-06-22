@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/docker-pytest/pull/510) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update sigstore/cosign-installer action to v3.9.0](https://github.com/cowboysysop/docker-pytest/pull/509) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency pytest to v8.4.1](https://github.com/cowboysysop/docker-pytest/pull/508) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.5.2](https://github.com/cowboysysop/docker-pytest/pull/507) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/charts/pull/925) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v41](https://github.com/cowboysysop/charts/pull/924) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency grpcio_health_checking to v1.73.0](https://github.com/cowboysysop/docker-pytest/pull/506) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
