@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.77](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.77), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-5.0.0](https://github.com/cowboysysop/charts/releases/tag/flowise-5.0.0), 3 days ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.76](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.76), 1 week ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
