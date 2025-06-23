@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(flowise): allow running in queue mode](https://github.com/cowboysysop/charts/pull/926) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/docker-pytest/pull/510) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update sigstore/cosign-installer action to v3.9.0](https://github.com/cowboysysop/docker-pytest/pull/509) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [fix: update dependency pytest to v8.4.1](https://github.com/cowboysysop/docker-pytest/pull/508) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update dependency cosign to v2.5.2](https://github.com/cowboysysop/docker-pytest/pull/507) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/charts/pull/925) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
