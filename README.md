@@ -4,9 +4,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 weeks ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
 
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.1](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.1), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.77](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.77), today) - Docker Image for Pytest
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 3 weeks ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.1](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.1), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.77](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.77), 1 day ago) - Docker Image for Pytest
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 4 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/docker-pytest/pull/510) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update sigstore/cosign-installer action to v3.9.0](https://github.com/cowboysysop/docker-pytest/pull/509) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency pytest to v8.4.1](https://github.com/cowboysysop/docker-pytest/pull/508) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency cosign to v2.5.2](https://github.com/cowboysysop/docker-pytest/pull/507) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/charts/pull/925) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/docker-pytest/pull/510) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update sigstore/cosign-installer action to v3.9.0](https://github.com/cowboysysop/docker-pytest/pull/509) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update dependency pytest to v8.4.1](https://github.com/cowboysysop/docker-pytest/pull/508) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update dependency cosign to v2.5.2](https://github.com/cowboysysop/docker-pytest/pull/507) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/charts/pull/925) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (today)
-- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing. (1 week ago)
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 day ago)
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing. (2 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 - [den-vasyliev/voice-mcp-agent](https://github.com/den-vasyliev/voice-mcp-agent) - A voice assistant application built with the LiveKit Agents framework, capable of using Model Context Protocol (MCP) tools to interact with external services (2 weeks ago)
 - [PierreBeucher/cloudypad](https://github.com/PierreBeucher/cloudypad) - Free, Open Source alternative to GeForce Now, Blacknut and similar Cloud Gaming platforms. Deploy your own gaming gear in the Cloud ! 🎮 ⛅ (2 weeks ago)
