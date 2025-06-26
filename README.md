@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.79](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.79), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.2](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.2), today) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.77](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.77), 4 days ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: migrate Renovate configuration](https://github.com/cowboysysop/docker-pytest/pull/511) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: update redis docker tag to v21](https://github.com/cowboysysop/charts/pull/933) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat!: update helm release mariadb to v21](https://github.com/cowboysysop/charts/pull/932) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [feat: update redis docker tag to v20.13.4](https://github.com/cowboysysop/charts/pull/931) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v41.12.0](https://github.com/cowboysysop/charts/pull/930) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update grpcio to v1.73.1](https://github.com/cowboysysop/docker-pytest/pull/518) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: correct problems detected by Super-Linter](https://github.com/cowboysysop/docker-pytest/pull/517) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: group some packages in Renovate configuration](https://github.com/cowboysysop/docker-pytest/pull/516) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency node to v22.17.0 - autoclosed](https://github.com/cowboysysop/docker-pytest/pull/515) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency grpcio_health_checking to v1.73.1 - autoclosed](https://github.com/cowboysysop/docker-pytest/pull/514) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
