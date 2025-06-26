@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-5.1.0](https://github.com/cowboysysop/charts/releases/tag/flowise-5.1.0), 2 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.2](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.2), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.0.77](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.0.77), 4 days ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(flowise): allow running in queue mode](https://github.com/cowboysysop/charts/pull/926) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [ci: update renovatebot/github-action action to v43](https://github.com/cowboysysop/docker-pytest/pull/510) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update sigstore/cosign-installer action to v3.9.0](https://github.com/cowboysysop/docker-pytest/pull/509) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency pytest to v8.4.1](https://github.com/cowboysysop/docker-pytest/pull/508) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency cosign to v2.5.2](https://github.com/cowboysysop/docker-pytest/pull/507) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: migrate Renovate configuration](https://github.com/cowboysysop/docker-pytest/pull/511) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [feat!: update redis docker tag to v21](https://github.com/cowboysysop/charts/pull/933) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat!: update helm release mariadb to v21](https://github.com/cowboysysop/charts/pull/932) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update redis docker tag to v20.13.4](https://github.com/cowboysysop/charts/pull/931) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v41.12.0](https://github.com/cowboysysop/charts/pull/930) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
