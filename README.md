@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.1.0](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.1.0), today) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.0](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.0), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-2.1.2](https://github.com/cowboysysop/charts/releases/tag/ollama-2.1.2), 2 days ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add pytest-asyncio Python package](https://github.com/cowboysysop/docker-pytest/pull/520) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise-worker docker tag to v3.0.3](https://github.com/cowboysysop/charts/pull/935) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/flowiseai/flowise docker tag to v3.0.3](https://github.com/cowboysysop/charts/pull/934) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: add mcp Python package](https://github.com/cowboysysop/docker-pytest/pull/519) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update grpcio to v1.73.1](https://github.com/cowboysysop/docker-pytest/pull/518) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [fix: correct problems detected by Super-Linter](https://github.com/cowboysysop/docker-pytest/pull/517) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
