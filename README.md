@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency semantic-release to v24.2.6](https://github.com/cowboysysop/docker-pytest/pull/521) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise to v3.0.3](https://github.com/cowboysysop/charts/pull/938) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: group some packages in Renovate configuration](https://github.com/cowboysysop/charts/pull/937) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(grafana-mcp): first version of the chart](https://github.com/cowboysysop/charts/pull/936) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: add pytest-asyncio Python package](https://github.com/cowboysysop/docker-pytest/pull/520) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update docker.io/flowiseai/flowise-worker docker tag to v3.0.3 - autoclosed](https://github.com/cowboysysop/charts/pull/935) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
