@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([grafana-mcp-1.0.0](https://github.com/cowboysysop/charts/releases/tag/grafana-mcp-1.0.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([flowise-5.1.1](https://github.com/cowboysysop/charts/releases/tag/flowise-5.1.1), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.0](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.0), 1 day ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update docker.io/flowiseai/flowise to v3.0.3](https://github.com/cowboysysop/charts/pull/938) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: group some packages in Renovate configuration](https://github.com/cowboysysop/charts/pull/937) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(grafana-mcp): first version of the chart](https://github.com/cowboysysop/charts/pull/936) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: add pytest-asyncio Python package](https://github.com/cowboysysop/docker-pytest/pull/520) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update docker.io/flowiseai/flowise-worker docker tag to v3.0.3](https://github.com/cowboysysop/charts/pull/935) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [fix: update docker.io/flowiseai/flowise docker tag to v3.0.3](https://github.com/cowboysysop/charts/pull/934) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat: add mcp Python package](https://github.com/cowboysysop/docker-pytest/pull/519) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update docker.io/flowiseai/flowise-worker docker tag to v3.0.3 - autoclosed](https://github.com/cowboysysop/charts/pull/935) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
