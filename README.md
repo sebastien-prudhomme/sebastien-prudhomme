@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kubernetes-mcp): first version of the chart](https://github.com/cowboysysop/charts/pull/939) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update dependency semantic-release to v24.2.6](https://github.com/cowboysysop/docker-pytest/pull/521) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update docker.io/flowiseai/flowise to v3.0.3](https://github.com/cowboysysop/charts/pull/938) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: group some packages in Renovate configuration](https://github.com/cowboysysop/charts/pull/937) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
