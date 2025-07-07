@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: revert update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/943) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(kubernetes-mcp): first version of the chart](https://github.com/cowboysysop/charts/pull/939) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update dependency semantic-release to v24.2.6](https://github.com/cowboysysop/docker-pytest/pull/521) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [feat: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
