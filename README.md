@@ -31,7 +31,7 @@
 - [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 - [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [feat: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
