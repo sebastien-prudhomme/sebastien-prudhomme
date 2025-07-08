@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (today)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (today)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need (4 days ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (5 days ago)
 - [danishjsheikh/swagger-mcp](https://github.com/danishjsheikh/swagger-mcp) - mcp server which will dynamically define tools based on swagger (5 days ago)
-- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
