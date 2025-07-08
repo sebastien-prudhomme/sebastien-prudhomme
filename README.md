@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (today)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need (4 days ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (5 days ago)
 - [danishjsheikh/swagger-mcp](https://github.com/danishjsheikh/swagger-mcp) - mcp server which will dynamically define tools based on swagger (5 days ago)
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun (5 days ago)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
