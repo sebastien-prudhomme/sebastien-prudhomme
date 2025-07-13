@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: revert update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/943) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update docker.io/ollama/ollama docker tag to v0.9.5](https://github.com/cowboysysop/charts/pull/941) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [fix: update docker.io/flowiseai/flowise to v3.0.4](https://github.com/cowboysysop/charts/pull/944) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: revert update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/943) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (4 days ago)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (4 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (5 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (5 days ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need (1 week ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (1 week ago)
 - [danishjsheikh/swagger-mcp](https://github.com/danishjsheikh/swagger-mcp) - mcp server which will dynamically define tools based on swagger (1 week ago)
