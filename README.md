@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (1 month ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.4.0](https://github.com/cowboysysop/docker-pytest/pull/527) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency conventional-changelog-conventionalcommits to v9.1.0](https://github.com/cowboysysop/docker-pytest/pull/526) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mariadb to v1.1.13](https://github.com/cowboysysop/docker-pytest/pull/525) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.7](https://github.com/cowboysysop/docker-pytest/pull/524) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise to v3.0.4](https://github.com/cowboysysop/charts/pull/944) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: revert update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/943) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
