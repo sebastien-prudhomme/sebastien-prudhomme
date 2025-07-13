@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/528) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.4.0](https://github.com/cowboysysop/docker-pytest/pull/527) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency conventional-changelog-conventionalcommits to v9.1.0](https://github.com/cowboysysop/docker-pytest/pull/526) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mariadb to v1.1.13](https://github.com/cowboysysop/docker-pytest/pull/525) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.7](https://github.com/cowboysysop/docker-pytest/pull/524) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update docker.io/flowiseai/flowise to v3.0.4](https://github.com/cowboysysop/charts/pull/944) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
