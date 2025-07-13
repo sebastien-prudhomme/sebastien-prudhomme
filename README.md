@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mariadb to v1.1.13](https://github.com/cowboysysop/docker-pytest/pull/525) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency semantic-release to v24.2.7](https://github.com/cowboysysop/docker-pytest/pull/524) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update docker.io/flowiseai/flowise to v3.0.4](https://github.com/cowboysysop/charts/pull/944) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: revert update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/943) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [ci: update appVersion in Ollama chart](https://github.com/cowboysysop/charts/pull/942) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update renovatebot/github-action action to v43.0.2](https://github.com/cowboysysop/docker-pytest/pull/523) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update cycjimmy/semantic-release-action action to v4.2.2](https://github.com/cowboysysop/docker-pytest/pull/522) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
