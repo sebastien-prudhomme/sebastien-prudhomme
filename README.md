@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.4.1](https://github.com/cowboysysop/docker-pytest/pull/530) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency cosign to v2.5.3](https://github.com/cowboysysop/docker-pytest/pull/529) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update quay.io/manusa/kubernetes_mcp_server docker tag to v0.0.45](https://github.com/cowboysysop/charts/pull/947) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update dependency helm to v3.17.4](https://github.com/cowboysysop/charts/pull/946) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update dependency mcp to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/528) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v24.4.0](https://github.com/cowboysysop/docker-pytest/pull/527) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency conventional-changelog-conventionalcommits to v9.1.0](https://github.com/cowboysysop/docker-pytest/pull/526) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
