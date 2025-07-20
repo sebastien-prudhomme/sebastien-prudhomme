@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency pytest-asyncio to v1.1.0](https://github.com/cowboysysop/docker-pytest/pull/534) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency mcp to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/533) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update sigstore/cosign-installer action to v3.9.2](https://github.com/cowboysysop/docker-pytest/pull/532) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43.0.3](https://github.com/cowboysysop/docker-pytest/pull/531) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.4.1](https://github.com/cowboysysop/docker-pytest/pull/530) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency cosign to v2.5.3](https://github.com/cowboysysop/docker-pytest/pull/529) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update quay.io/manusa/kubernetes_mcp_server docker tag to v0.0.45](https://github.com/cowboysysop/charts/pull/947) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
