@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 month ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update sigstore/cosign-installer action to v3.9.2](https://github.com/cowboysysop/docker-pytest/pull/532) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.3](https://github.com/cowboysysop/docker-pytest/pull/531) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.4.1](https://github.com/cowboysysop/docker-pytest/pull/530) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.5.3](https://github.com/cowboysysop/docker-pytest/pull/529) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update quay.io/manusa/kubernetes_mcp_server docker tag to v0.0.45](https://github.com/cowboysysop/charts/pull/947) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update dependency helm to v3.17.4](https://github.com/cowboysysop/charts/pull/946) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency mcp to v1.11.0](https://github.com/cowboysysop/docker-pytest/pull/528) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
