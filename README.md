@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update super-linter/super-linter action to v8](https://github.com/cowboysysop/docker-pytest/pull/535) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency pytest-asyncio to v1.1.0](https://github.com/cowboysysop/docker-pytest/pull/534) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mcp to v1.12.0](https://github.com/cowboysysop/docker-pytest/pull/533) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update sigstore/cosign-installer action to v3.9.2](https://github.com/cowboysysop/docker-pytest/pull/532) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43.0.3](https://github.com/cowboysysop/docker-pytest/pull/531) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update dependency node to v24.4.1](https://github.com/cowboysysop/docker-pytest/pull/530) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
