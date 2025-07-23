@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [defenseunicorns/bitferno](https://github.com/defenseunicorns/bitferno) - Bitnami Helm Charts Without the Cringe (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (2 weeks ago)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need (2 weeks ago)
 - [mark3labs/mcphost](https://github.com/mark3labs/mcphost) - A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). (2 weeks ago)
-- [danishjsheikh/swagger-mcp](https://github.com/danishjsheikh/swagger-mcp) - mcp server which will dynamically define tools based on swagger (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
