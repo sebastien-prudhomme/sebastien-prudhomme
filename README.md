@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-8.0.0](https://github.com/cowboysysop/charts/releases/tag/dolibarr-8.0.0), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([redis-21.2.6](https://github.com/cowboysysop/charts/releases/tag/redis-21.2.6), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.6), 1 day ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(flowise)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/955) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(redis): fork of the Bitnami chart](https://github.com/cowboysysop/charts/pull/954) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(postgresql): fork of the Bitnami chart](https://github.com/cowboysysop/charts/pull/953) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(dolibarr)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/952) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(cert-manager-common)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/951) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(mariadb): fork of the Bitnami chart](https://github.com/cowboysysop/charts/pull/950) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(common): fork of the Bitnami chart](https://github.com/cowboysysop/charts/pull/949) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
