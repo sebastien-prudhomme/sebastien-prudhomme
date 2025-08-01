@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kubebox-6.0.0](https://github.com/cowboysysop/charts/releases/tag/kubebox-6.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kubernetes-mcp-2.0.0](https://github.com/cowboysysop/charts/releases/tag/kubernetes-mcp-2.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.6](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.6), 5 days ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(kubernetes-mcp)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/960) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kubebox)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/959) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(kroki)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/957) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat(grafana-mcp)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/956) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(flowise)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/955) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(redis): fork of the Bitnami chart](https://github.com/cowboysysop/charts/pull/954) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
