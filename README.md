@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/cowboysysop/charts/pull/972) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/bitnamilegacy/nginx docker tag to v1.27.4](https://github.com/cowboysysop/charts/pull/971) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/bitnamilegacy/mongodb docker tag to v7.0.15](https://github.com/cowboysysop/charts/pull/970) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update docker/metadata-action action to v5.8.0](https://github.com/cowboysysop/docker-pytest/pull/542) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.5.0](https://github.com/cowboysysop/docker-pytest/pull/541) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency mcp to v1.12.3](https://github.com/cowboysysop/docker-pytest/pull/540) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v43.0.5](https://github.com/cowboysysop/docker-pytest/pull/539) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
