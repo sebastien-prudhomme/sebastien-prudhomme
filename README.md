@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.12.3](https://github.com/cowboysysop/docker-pytest/pull/540) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.5](https://github.com/cowboysysop/docker-pytest/pull/539) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/bitnamilegacy/postgresql docker tag to v17](https://github.com/cowboysysop/charts/pull/969) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat: update docker.io/bitnamilegacy/postgresql docker tag to v16.4.0](https://github.com/cowboysysop/charts/pull/968) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v21.0.2](https://github.com/cowboysysop/charts/pull/967) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/bitnamilegacy/redis-sentinel docker tag to v8.0.3](https://github.com/cowboysysop/charts/pull/966) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/bitnamilegacy/kubectl docker tag to v1.33.3](https://github.com/cowboysysop/charts/pull/965) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
