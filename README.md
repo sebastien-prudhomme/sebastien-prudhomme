@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 day ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongodb-15.1.5](https://github.com/cowboysysop/charts/releases/tag/mongodb-15.1.5), 1 day ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([mongo-express-7.0.0](https://github.com/cowboysysop/charts/releases/tag/mongo-express-7.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.7](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.7), 1 day ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(mongo-express)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/973) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/cowboysysop/charts/pull/972) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat: update docker.io/bitnamilegacy/nginx docker tag to v1.27.4](https://github.com/cowboysysop/charts/pull/971) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [fix: update docker.io/bitnamilegacy/mongodb docker tag to v7.0.15](https://github.com/cowboysysop/charts/pull/970) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [ci: update docker/metadata-action action to v5.8.0](https://github.com/cowboysysop/docker-pytest/pull/542) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency node to v24.5.0](https://github.com/cowboysysop/docker-pytest/pull/541) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
 
 #### 📜 My recent blog posts
 
