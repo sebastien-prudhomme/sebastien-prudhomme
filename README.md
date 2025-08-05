@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([ollama-3.0.0](https://github.com/cowboysysop/charts/releases/tag/ollama-3.0.0), today) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([qdrant-3.0.0](https://github.com/cowboysysop/charts/releases/tag/qdrant-3.0.0), today) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.7](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.7), 2 days ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(quickchart)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/976) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat(qdrant)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/975) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(ollama)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/974) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(mongo-express)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/973) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/cowboysysop/charts/pull/972) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat: update docker.io/bitnamilegacy/nginx docker tag to v1.27.4](https://github.com/cowboysysop/charts/pull/971) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [fix: update docker.io/bitnamilegacy/mongodb docker tag to v7.0.15](https://github.com/cowboysysop/charts/pull/970) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
