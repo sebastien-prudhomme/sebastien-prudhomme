@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(redis-extra)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/977) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(quickchart)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/976) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(qdrant)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/975) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(ollama)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/974) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [feat(mongo-express)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/973) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/cowboysysop/charts/pull/972) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 
 #### 📜 My recent blog posts
 
