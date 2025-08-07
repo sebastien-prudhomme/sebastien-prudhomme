@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/charts/pull/981) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update dependency python to v3.13.6](https://github.com/cowboysysop/charts/pull/980) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat(whoami)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/979) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(vertical-pod-autoscaler)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/978) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 - [feat(redis-extra)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/977) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
-- [feat(quickchart)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/976) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(qdrant)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/975) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 
 #### 📜 My recent blog posts
 
