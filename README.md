@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (2 months ago)
 - [cert-manager/website](https://github.com/cert-manager/website) - Source code for the cert-manager.io website, including project documentation (4 months ago)
@@ -20,22 +20,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-6.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-6.0.0), 3 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.7](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.7), 6 days ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-6.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-6.0.0), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.7](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.7), 1 week ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/charts/pull/981) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [ci: update dependency python to v3.13.6](https://github.com/cowboysysop/charts/pull/980) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
-- [feat(whoami)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/979) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat(vertical-pod-autoscaler)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/978) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
-- [feat(redis-extra)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/977) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/charts/pull/981) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [ci: update dependency python to v3.13.6](https://github.com/cowboysysop/charts/pull/980) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
+- [feat(whoami)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/979) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat(vertical-pod-autoscaler)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/978) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat(redis-extra)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/977) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
-- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (4 years ago)
+- [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (5 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (5 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (6 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 1)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-1/) (6 years ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [arthur-ehrle/Prometheus-PCA-course](https://github.com/arthur-ehrle/Prometheus-PCA-course) - Course for the PCA certification (1 week ago)
+- [arthur-ehrle/Prometheus-PCA-course](https://github.com/arthur-ehrle/Prometheus-PCA-course) - Course for the PCA certification (2 weeks ago)
 - [telekom-mms/trivy-dojo-report-operator](https://github.com/telekom-mms/trivy-dojo-report-operator) - This Kubernetes operator listens for vulnerability reports generated by the Trivy Operator and forwards them to Defect Dojo for further analysis and tracking. (2 weeks ago)
 - [defenseunicorns/bitferno](https://github.com/defenseunicorns/bitferno) - Bitnami Helm Charts Without the Cringe (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 month ago)
