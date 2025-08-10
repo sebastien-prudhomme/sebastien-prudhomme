@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.12.4](https://github.com/cowboysysop/docker-pytest/pull/544) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.6](https://github.com/cowboysysop/docker-pytest/pull/543) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/charts/pull/981) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [ci: update dependency python to v3.13.6](https://github.com/cowboysysop/charts/pull/980) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 days ago)
 - [feat(whoami)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/979) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(vertical-pod-autoscaler)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/978) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat(redis-extra)!: use forked versions of the Bitnami charts](https://github.com/cowboysysop/charts/pull/977) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
