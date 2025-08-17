@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (4 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.9](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.9), 6 days ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.9](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.9), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-6.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-6.0.0), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/546) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency python to v3.13.6](https://github.com/cowboysysop/docker-pytest/pull/545) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency mcp to v1.12.4](https://github.com/cowboysysop/docker-pytest/pull/544) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update renovatebot/github-action action to v43.0.6](https://github.com/cowboysysop/docker-pytest/pull/543) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/charts/pull/981) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v22](https://github.com/cowboysysop/charts/pull/984) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v5](https://github.com/cowboysysop/charts/pull/983) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v4.3.0](https://github.com/cowboysysop/charts/pull/982) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/546) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency python to v3.13.6](https://github.com/cowboysysop/docker-pytest/pull/545) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (5 days ago)
-- [arthur-ehrle/Prometheus-PCA-course](https://github.com/arthur-ehrle/Prometheus-PCA-course) - Course for the PCA certification (2 weeks ago)
+- [kubescape/cel-admission-library](https://github.com/kubescape/cel-admission-library) - This projects contains pre-made policies for Kubernetes Validating Admission Policies. This policy library is based on Kubescape controls, see here a comlete list https://hub.armosec.io/docs/controls (6 days ago)
+- [arthur-ehrle/Prometheus-PCA-course](https://github.com/arthur-ehrle/Prometheus-PCA-course) - Course for the PCA certification (3 weeks ago)
 - [telekom-mms/trivy-dojo-report-operator](https://github.com/telekom-mms/trivy-dojo-report-operator) - This Kubernetes operator listens for vulnerability reports generated by the Trivy Operator and forwards them to Defect Dojo for further analysis and tracking. (3 weeks ago)
 - [defenseunicorns/bitferno](https://github.com/defenseunicorns/bitferno) - Bitnami Helm Charts Without the Cringe (3 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 month ago)
