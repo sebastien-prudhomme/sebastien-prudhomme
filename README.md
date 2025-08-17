@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.13.7](https://github.com/cowboysysop/docker-pytest/pull/548) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.7](https://github.com/cowboysysop/docker-pytest/pull/547) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v22](https://github.com/cowboysysop/charts/pull/984) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/checkout action to v5](https://github.com/cowboysysop/charts/pull/983) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/checkout action to v4.3.0](https://github.com/cowboysysop/charts/pull/982) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update docker/login-action action to v3.5.0](https://github.com/cowboysysop/docker-pytest/pull/546) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency python to v3.13.6](https://github.com/cowboysysop/docker-pytest/pull/545) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
