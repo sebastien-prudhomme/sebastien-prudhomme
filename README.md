@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.9](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.9), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.10](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.10), today) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-6.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-6.0.0), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/checkout action to v5](https://github.com/cowboysysop/docker-pytest/pull/552) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency mcp to v1.13.0](https://github.com/cowboysysop/docker-pytest/pull/551) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.6.0](https://github.com/cowboysysop/docker-pytest/pull/550) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/549) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.13.7](https://github.com/cowboysysop/docker-pytest/pull/548) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v43.0.7](https://github.com/cowboysysop/docker-pytest/pull/547) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v22](https://github.com/cowboysysop/charts/pull/984) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
