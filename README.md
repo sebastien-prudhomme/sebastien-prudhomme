@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update super-linter/super-linter action to v8.1.0](https://github.com/cowboysysop/docker-pytest/pull/556) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency requests to v2.32.5](https://github.com/cowboysysop/docker-pytest/pull/555) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mcp to v1.13.1](https://github.com/cowboysysop/docker-pytest/pull/554) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43.0.8](https://github.com/cowboysysop/docker-pytest/pull/553) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/bitnamilegacy/redis-exporter docker tag to v1.75.0](https://github.com/cowboysysop/charts/pull/985) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/checkout action to v5](https://github.com/cowboysysop/docker-pytest/pull/552) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency mcp to v1.13.0](https://github.com/cowboysysop/docker-pytest/pull/551) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
