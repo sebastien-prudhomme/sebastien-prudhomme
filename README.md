@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.13.1](https://github.com/cowboysysop/docker-pytest/pull/554) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.8](https://github.com/cowboysysop/docker-pytest/pull/553) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update docker.io/bitnamilegacy/redis-exporter docker tag to v1.75.0](https://github.com/cowboysysop/charts/pull/985) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/checkout action to v5](https://github.com/cowboysysop/docker-pytest/pull/552) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency mcp to v1.13.0](https://github.com/cowboysysop/docker-pytest/pull/551) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v24.6.0](https://github.com/cowboysysop/docker-pytest/pull/550) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/checkout action to v4.3.0](https://github.com/cowboysysop/docker-pytest/pull/549) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
