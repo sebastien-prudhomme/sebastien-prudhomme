@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.7.0](https://github.com/cowboysysop/docker-pytest/pull/558) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.9](https://github.com/cowboysysop/docker-pytest/pull/557) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.4.2](https://github.com/cowboysysop/charts/pull/988) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update kindest/node docker tag to v1.32.8](https://github.com/cowboysysop/charts/pull/987) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update kindest/node docker tag to v1.31.12](https://github.com/cowboysysop/charts/pull/986) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update super-linter/super-linter action to v8.1.0](https://github.com/cowboysysop/docker-pytest/pull/556) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency requests to v2.32.5](https://github.com/cowboysysop/docker-pytest/pull/555) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
