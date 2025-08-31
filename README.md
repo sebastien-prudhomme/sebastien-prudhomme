@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (2 weeks ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update cycjimmy/semantic-release-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/559) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.7.0](https://github.com/cowboysysop/docker-pytest/pull/558) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43.0.9](https://github.com/cowboysysop/docker-pytest/pull/557) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.4.2](https://github.com/cowboysysop/charts/pull/988) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update kindest/node docker tag to v1.32.8](https://github.com/cowboysysop/charts/pull/987) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update kindest/node docker tag to v1.31.12](https://github.com/cowboysysop/charts/pull/986) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
