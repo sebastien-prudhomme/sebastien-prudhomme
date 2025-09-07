@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency pytest to v8.4.2](https://github.com/cowboysysop/docker-pytest/pull/561) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.10](https://github.com/cowboysysop/docker-pytest/pull/560) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v6](https://github.com/cowboysysop/charts/pull/989) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update cycjimmy/semantic-release-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/559) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update dependency node to v24.7.0](https://github.com/cowboysysop/docker-pytest/pull/558) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v43.0.9](https://github.com/cowboysysop/docker-pytest/pull/557) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.4.2](https://github.com/cowboysysop/charts/pull/988) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
