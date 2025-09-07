@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (3 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.13](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.13), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.13](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.13), 2 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([whoami-6.0.0](https://github.com/cowboysysop/charts/releases/tag/whoami-6.0.0), 1 month ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.4), 2 months ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update cycjimmy/semantic-release-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/559) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update dependency node to v24.7.0](https://github.com/cowboysysop/docker-pytest/pull/558) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update renovatebot/github-action action to v43.0.9](https://github.com/cowboysysop/docker-pytest/pull/557) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.4.2](https://github.com/cowboysysop/charts/pull/988) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update kindest/node docker tag to v1.32.8](https://github.com/cowboysysop/charts/pull/987) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update actions/setup-python action to v6](https://github.com/cowboysysop/charts/pull/989) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update cycjimmy/semantic-release-action action to v5](https://github.com/cowboysysop/docker-pytest/pull/559) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update dependency node to v24.7.0](https://github.com/cowboysysop/docker-pytest/pull/558) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update renovatebot/github-action action to v43.0.9](https://github.com/cowboysysop/docker-pytest/pull/557) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update registry.k8s.io/autoscaling/vpa to v1.4.2](https://github.com/cowboysysop/charts/pull/988) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
