@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update renovatebot/github-action action to v43.0.11](https://github.com/cowboysysop/docker-pytest/pull/565) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update dependency semantic-release to v24.2.8](https://github.com/cowboysysop/docker-pytest/pull/564) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v6](https://github.com/cowboysysop/docker-pytest/pull/563) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update actions/setup-node action to v5](https://github.com/cowboysysop/docker-pytest/pull/562) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency pytest to v8.4.2](https://github.com/cowboysysop/docker-pytest/pull/561) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v43.0.10](https://github.com/cowboysysop/docker-pytest/pull/560) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update actions/setup-python action to v6](https://github.com/cowboysysop/charts/pull/989) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
