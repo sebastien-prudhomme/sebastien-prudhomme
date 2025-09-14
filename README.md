@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency pytest-asyncio to v1.2.0](https://github.com/cowboysysop/docker-pytest/pull/570) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mcp to v1.14.0](https://github.com/cowboysysop/docker-pytest/pull/569) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update sigstore/cosign-installer action to v3.10.0](https://github.com/cowboysysop/docker-pytest/pull/568) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.8.0](https://github.com/cowboysysop/docker-pytest/pull/567) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.6.0](https://github.com/cowboysysop/docker-pytest/pull/566) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update renovatebot/github-action action to v43.0.11](https://github.com/cowboysysop/docker-pytest/pull/565) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
