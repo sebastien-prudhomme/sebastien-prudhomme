@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update grpcio to v1.75.0](https://github.com/cowboysysop/docker-pytest/pull/574) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [fix: update dependency mcp to v1.14.1](https://github.com/cowboysysop/docker-pytest/pull/573) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v43.0.12](https://github.com/cowboysysop/docker-pytest/pull/572) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency semantic-release to v24.2.9](https://github.com/cowboysysop/docker-pytest/pull/571) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat: update registry.k8s.io/autoscaling/vpa to v1.5.0](https://github.com/cowboysysop/charts/pull/990) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency pytest-asyncio to v1.2.0](https://github.com/cowboysysop/docker-pytest/pull/570) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency mcp to v1.14.0](https://github.com/cowboysysop/docker-pytest/pull/569) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
