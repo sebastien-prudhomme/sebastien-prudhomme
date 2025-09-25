@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (today)
 - [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs. (today)
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (today)
 - [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) - 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本 (1 day ago)
 - [alexisrolland/ComfyUI-Blender](https://github.com/alexisrolland/ComfyUI-Blender) - Custom nodes and add-on to use ComfyUI from Blender. (1 day ago)
-- [davidB/kubectl-view-allocations](https://github.com/davidB/kubectl-view-allocations) - kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...) (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
