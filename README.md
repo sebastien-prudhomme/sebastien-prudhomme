@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update grpcio to v1.75.1](https://github.com/cowboysysop/docker-pytest/pull/576) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.13](https://github.com/cowboysysop/docker-pytest/pull/575) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update grpcio to v1.75.0](https://github.com/cowboysysop/docker-pytest/pull/574) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency mcp to v1.14.1](https://github.com/cowboysysop/docker-pytest/pull/573) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v43.0.12](https://github.com/cowboysysop/docker-pytest/pull/572) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency semantic-release to v24.2.9](https://github.com/cowboysysop/docker-pytest/pull/571) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.5.0](https://github.com/cowboysysop/charts/pull/990) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
