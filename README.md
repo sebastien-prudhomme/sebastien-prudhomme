@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 months ago)
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (today)
+- [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine (today)
 - [howardjohn/gateway-api-bench](https://github.com/howardjohn/gateway-api-bench) - Gateway API Benchmarks provides a common set of tests to evaluate a Gateway API implementation. (4 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web! (1 week ago)
-- [etalab-ia/OpenGateLLM](https://github.com/etalab-ia/OpenGateLLM) - An open-source, unified interface for running and managing self-hosted LLMs. (1 week ago)
-- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
