@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (today)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (today)
 - [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (today)
 - [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (1 day ago)
 - [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot (3 days ago)
-- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
