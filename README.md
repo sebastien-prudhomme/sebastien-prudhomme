@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (today)
+- [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (today)
 - [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (1 day ago)
 - [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot (3 days ago)
 - [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs (6 days ago)
-- [RodZill4/material-maker](https://github.com/RodZill4/material-maker) - A procedural textures authoring and 3D model painting tool based on the Godot game engine (6 days ago)
-- [howardjohn/gateway-api-bench](https://github.com/howardjohn/gateway-api-bench) - Gateway API Benchmarks provides a common set of tests to evaluate a Gateway API implementation. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
