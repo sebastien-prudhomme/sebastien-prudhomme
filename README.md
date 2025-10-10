@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (4 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.19.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.19.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-11.1.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-11.1.1), 3 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.21](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.21), 4 days ago) - Docker Image for Pytest
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.19.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.19.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-11.1.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-11.1.1), 4 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.21](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.21), 5 days ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update registry.k8s.io/autoscaling/vpa to v1.5.1](https://github.com/cowboysysop/charts/pull/992) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [fix: update dependency mcp to v1.16.0](https://github.com/cowboysysop/docker-pytest/pull/582) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update docker/login-action action to v3.6.0](https://github.com/cowboysysop/docker-pytest/pull/581) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update renovatebot/github-action action to v43.0.14](https://github.com/cowboysysop/docker-pytest/pull/580) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency cosign to v2.6.1](https://github.com/cowboysysop/docker-pytest/pull/579) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update registry.k8s.io/autoscaling/vpa to v1.5.1](https://github.com/cowboysysop/charts/pull/992) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [fix: update dependency mcp to v1.16.0](https://github.com/cowboysysop/docker-pytest/pull/582) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update docker/login-action action to v3.6.0](https://github.com/cowboysysop/docker-pytest/pull/581) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update renovatebot/github-action action to v43.0.14](https://github.com/cowboysysop/docker-pytest/pull/580) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [ci: update dependency cosign to v2.6.1](https://github.com/cowboysysop/docker-pytest/pull/579) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (today)
-- [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (today)
-- [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (today)
-- [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (1 day ago)
-- [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot (3 days ago)
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 day ago)
+- [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (1 day ago)
+- [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (1 day ago)
+- [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (2 days ago)
+- [socfortress/CoPilot](https://github.com/socfortress/CoPilot) - SOCFortress CoPilot (4 days ago)
 
 #### 👯 Check out some of my recent followers
 
