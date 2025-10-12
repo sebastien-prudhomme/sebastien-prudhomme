@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mariadb to v1.1.14](https://github.com/cowboysysop/docker-pytest/pull/584) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.16](https://github.com/cowboysysop/docker-pytest/pull/583) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency python to v3.14.0](https://github.com/cowboysysop/charts/pull/995) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.2](https://github.com/cowboysysop/charts/pull/994) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update registry.k8s.io/autoscaling/vpa to v1.5.1](https://github.com/cowboysysop/charts/pull/992) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [fix: update dependency mcp to v1.16.0](https://github.com/cowboysysop/docker-pytest/pull/582) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/login-action action to v3.6.0](https://github.com/cowboysysop/docker-pytest/pull/581) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
