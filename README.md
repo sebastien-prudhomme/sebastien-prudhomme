@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.19.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.19.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.25), 6 days ago) - Docker Image for Pytest
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.19.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.19.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.25](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.25), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([vertical-pod-autoscaler-11.1.1](https://github.com/cowboysysop/charts/releases/tag/vertical-pod-autoscaler-11.1.1), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 4 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update dependency cosign to v3](https://github.com/cowboysysop/docker-pytest/pull/588) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency python to v3.14.0](https://github.com/cowboysysop/docker-pytest/pull/587) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency mcp to v1.17.0](https://github.com/cowboysysop/docker-pytest/pull/586) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency psycopg2 to v2.9.11](https://github.com/cowboysysop/docker-pytest/pull/585) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update dependency mariadb to v1.1.14](https://github.com/cowboysysop/docker-pytest/pull/584) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update dependency cosign to v3](https://github.com/cowboysysop/docker-pytest/pull/588) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency python to v3.14.0](https://github.com/cowboysysop/docker-pytest/pull/587) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency mcp to v1.17.0](https://github.com/cowboysysop/docker-pytest/pull/586) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency psycopg2 to v2.9.11](https://github.com/cowboysysop/docker-pytest/pull/585) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update dependency mariadb to v1.1.14](https://github.com/cowboysysop/docker-pytest/pull/584) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
