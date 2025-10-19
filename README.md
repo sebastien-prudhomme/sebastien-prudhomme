@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update sigstore/cosign-installer action to v3.10.1](https://github.com/cowboysysop/docker-pytest/pull/590) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.17](https://github.com/cowboysysop/docker-pytest/pull/589) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v3](https://github.com/cowboysysop/docker-pytest/pull/588) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency python to v3.14.0](https://github.com/cowboysysop/docker-pytest/pull/587) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency mcp to v1.17.0](https://github.com/cowboysysop/docker-pytest/pull/586) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency psycopg2 to v2.9.11](https://github.com/cowboysysop/docker-pytest/pull/585) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency mariadb to v1.1.14](https://github.com/cowboysysop/docker-pytest/pull/584) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
