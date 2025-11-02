@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.11.0](https://github.com/cowboysysop/docker-pytest/pull/600) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.19](https://github.com/cowboysysop/docker-pytest/pull/599) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update grpcio to v1.76.0](https://github.com/cowboysysop/docker-pytest/pull/598) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency mcp to v1.19.0](https://github.com/cowboysysop/docker-pytest/pull/597) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update renovatebot/github-action action to v43.0.18](https://github.com/cowboysysop/docker-pytest/pull/596) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update sigstore/cosign-installer action to v4](https://github.com/cowboysysop/docker-pytest/pull/595) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
-- [ci: update dependency semantic-release to v25](https://github.com/cowboysysop/docker-pytest/pull/594) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
