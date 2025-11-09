@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/metadata-action action to v5.9.0](https://github.com/cowboysysop/docker-pytest/pull/603) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update renovatebot/github-action action to v43.0.20](https://github.com/cowboysysop/docker-pytest/pull/602) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v44](https://github.com/cowboysysop/charts/pull/999) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v42](https://github.com/cowboysysop/charts/pull/998) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update helm/kind-action action to v1.13.0](https://github.com/cowboysysop/charts/pull/997) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update dependency mcp to v1.20.0](https://github.com/cowboysysop/docker-pytest/pull/601) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v24.11.0](https://github.com/cowboysysop/docker-pytest/pull/600) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
