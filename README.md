@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (2 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.1), 2 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.30](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.30), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.1), 3 days ago) - Cowboy Sysop Charts
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.30](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.30), 2 weeks ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.0), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency pytest to v9](https://github.com/cowboysysop/docker-pytest/pull/606) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v44](https://github.com/cowboysysop/docker-pytest/pull/605) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency mcp to v1.21.0](https://github.com/cowboysysop/docker-pytest/pull/604) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/metadata-action action to v5.9.0](https://github.com/cowboysysop/docker-pytest/pull/603) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update renovatebot/github-action action to v43.0.20](https://github.com/cowboysysop/docker-pytest/pull/602) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update actions/checkout action to v6](https://github.com/cowboysysop/charts/pull/1005) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.19.3](https://github.com/cowboysysop/charts/pull/1004) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.3](https://github.com/cowboysysop/charts/pull/1003) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v44.0.3](https://github.com/cowboysysop/charts/pull/1002) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update actions/checkout action to v5.0.1](https://github.com/cowboysysop/charts/pull/1001) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
