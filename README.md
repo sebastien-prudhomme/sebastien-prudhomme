@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.22.0](https://github.com/cowboysysop/docker-pytest/pull/609) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.11.1](https://github.com/cowboysysop/docker-pytest/pull/608) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v4.3.1](https://github.com/cowboysysop/docker-pytest/pull/607) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v6](https://github.com/cowboysysop/charts/pull/1005) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v42.19.3](https://github.com/cowboysysop/charts/pull/1004) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.3](https://github.com/cowboysysop/charts/pull/1003) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
