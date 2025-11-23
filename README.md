@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (2 months ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.11.1](https://github.com/cowboysysop/docker-pytest/pull/608) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v4.3.1](https://github.com/cowboysysop/docker-pytest/pull/607) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v6](https://github.com/cowboysysop/charts/pull/1005) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v42.19.3](https://github.com/cowboysysop/charts/pull/1004) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.3](https://github.com/cowboysysop/charts/pull/1003) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update renovatebot/github-action action to v44.0.3](https://github.com/cowboysysop/charts/pull/1002) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 
 #### 📜 My recent blog posts
 
