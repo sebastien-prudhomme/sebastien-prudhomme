@@ -4,10 +4,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (today)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (2 months ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), today) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), today) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 4 days ago) - Docker Image for Pytest
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.1](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.1), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.0), 3 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-5.3.4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-5.3.4), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/checkout action to v6](https://github.com/cowboysysop/docker-pytest/pull/611) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency pytest-asyncio to v1.3.0](https://github.com/cowboysysop/docker-pytest/pull/610) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency mcp to v1.22.0](https://github.com/cowboysysop/docker-pytest/pull/609) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update dependency node to v24.11.1](https://github.com/cowboysysop/docker-pytest/pull/608) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [ci: update actions/checkout action to v4.3.1](https://github.com/cowboysysop/docker-pytest/pull/607) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/25) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat!: update docker.io/bitnamilegacy/postgresql docker tag to v17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/24) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/23) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update actions/checkout action to v6](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/22) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update docker.io/wait4x/wait4x docker tag to v3.6.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/21) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 
 #### 📜 My recent blog posts
 
