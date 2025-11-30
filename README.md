@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update docker/metadata-action action to v5.10.0](https://github.com/cowboysysop/docker-pytest/pull/612) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/setup-python action to v6.1.0](https://github.com/cowboysysop/charts/pull/1006) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/25) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 - [feat!: update docker.io/bitnamilegacy/postgresql docker tag to v17](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/24) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 - [feat!: update docker.io/bitnamilegacy/mongodb docker tag to v8](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/23) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
-- [ci: update actions/checkout action to v6](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/22) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 
 #### 📜 My recent blog posts
 
