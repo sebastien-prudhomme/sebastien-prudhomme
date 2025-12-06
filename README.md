@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (4 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (5 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 months ago)
@@ -27,10 +27,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update cycjimmy/semantic-release-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/613) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update docker/metadata-action action to v5.10.0](https://github.com/cowboysysop/docker-pytest/pull/612) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
-- [ci: update actions/setup-python action to v6.1.0](https://github.com/cowboysysop/charts/pull/1006) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update cycjimmy/semantic-release-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/613) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update docker/metadata-action action to v5.10.0](https://github.com/cowboysysop/docker-pytest/pull/612) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
+- [ci: update actions/setup-python action to v6.1.0](https://github.com/cowboysysop/charts/pull/1006) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 - [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/25) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (4 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 days ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 month ago)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (1 month ago)
 - [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (1 month ago)
