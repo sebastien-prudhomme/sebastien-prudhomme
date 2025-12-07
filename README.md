@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (5 days ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (6 months ago)
@@ -22,16 +22,16 @@
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 week ago) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 1 week ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 2 weeks ago) - Docker Image for Pytest
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.0), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [ci: update cycjimmy/semantic-release-action action to v6](https://github.com/cowboysysop/docker-pytest/pull/613) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update docker/metadata-action action to v5.10.0](https://github.com/cowboysysop/docker-pytest/pull/612) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update actions/setup-python action to v6.1.0](https://github.com/cowboysysop/charts/pull/1006) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat!: update ghcr.io/benc-uk/kubeview docker tag to v2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/25) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [feat: update docker.io/bitnamilegacy/kubectl docker tag](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/31) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.39.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update dependency python to v3.14.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/29) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update dependency python to v3.14.1](https://github.com/cowboysysop/charts/pull/1008) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (5 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (6 days ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (1 month ago)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (1 month ago)
 - [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (1 month ago)
-- [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (1 month ago)
+- [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
