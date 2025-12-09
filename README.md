@@ -20,10 +20,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 week ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 2 weeks ago) - Docker Image for Pytest
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.0), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
