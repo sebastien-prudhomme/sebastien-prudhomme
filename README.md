@@ -5,7 +5,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (1 week ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (7 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.4), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.4), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), 2 weeks ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 2 weeks ago) - 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 2 weeks ago) - Docker Image for Pytest
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 3 weeks ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/bitnamilegacy/kubectl docker tag](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/31) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.39.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [ci: update dependency python to v3.14.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/29) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [ci: update dependency python to v3.14.1](https://github.com/cowboysysop/charts/pull/1008) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/28) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update renovatebot/github-action action to v44.1.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/32) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [feat: update docker.io/bitnamilegacy/kubectl docker tag](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/31) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.52.3](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update dependency python to v3.14.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/29) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update dependency python to v3.14.2](https://github.com/cowboysysop/charts/pull/1008) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
 #### 📜 My recent blog posts
 
