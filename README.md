@@ -29,7 +29,7 @@
 
 - [ci: update renovatebot/github-action action to v44.1.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/32) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [feat: update docker.io/bitnamilegacy/kubectl docker tag](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/31) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.52.6](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v42.52.7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/30) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [ci: update dependency python to v3.14.2](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/29) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [ci: update dependency python to v3.14.2](https://github.com/cowboysysop/charts/pull/1008) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 
