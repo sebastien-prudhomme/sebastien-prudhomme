@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers (today)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (2 months ago)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (2 months ago)
 - [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (2 months ago)
-- [raoulx24/trivy-operator-dashboard](https://github.com/raoulx24/trivy-operator-dashboard) - Trivy Operator Dashboard: A comprehensive tool for Trivy Operator. Offers various dashboards and interactive pages where you can browse and inspect Trivy Reports. Built with C#, .NET 9 (backend), Angular 20, and Node.js 24 (frontend). (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
