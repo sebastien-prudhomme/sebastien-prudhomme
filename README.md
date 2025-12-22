@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 weeks ago)
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 weeks ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [ci: update kindest/node docker tag to v1.31.14](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/33) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [ci: update kindest/node docker tag to v1.32.11](https://github.com/cowboysysop/charts/pull/1011) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [ci: update kindest/node docker tag to v1.31.14](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/33) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [ci: update kindest/node docker tag to v1.32.11](https://github.com/cowboysysop/charts/pull/1011) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers (today)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (2 weeks ago)
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (today)
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers (1 day ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (2 months ago)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (2 months ago)
-- [theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab) -  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
