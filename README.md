@@ -6,7 +6,7 @@
 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (3 months ago)
 - [sebastien-prudhomme/kitchen-chaos-godot](https://github.com/sebastien-prudhomme/kitchen-chaos-godot) -  (7 months ago)
 
@@ -21,17 +21,17 @@
 #### 🔭 Latest releases I've contributed to
 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.4), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), 4 weeks ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 4 weeks ago) - 
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.2](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.2), 1 month ago) - Cowboy Sysop Charts
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 month ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 1 month ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
-- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [ci: update kindest/node docker tag to v1.31.14](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/33) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
-- [ci: update kindest/node docker tag to v1.32.11](https://github.com/cowboysysop/charts/pull/1011) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
+- [ci: update kindest/node docker tag to v1.31.14](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/33) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
+- [ci: update kindest/node docker tag to v1.32.11](https://github.com/cowboysysop/charts/pull/1011) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (4 days ago)
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF (5 days ago)
+- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (5 days ago)
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF (6 days ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 weeks ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM. (2 months ago)
 - [nlamirault/monitoring-mixins](https://github.com/nlamirault/monitoring-mixins) - Hub for monitoring mixins (2 months ago)
