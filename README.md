@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update bridgecrewio/checkov-action action to v12.3076.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
-- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
-- [ci: update kindest/node docker tag to v1.31.14](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/33) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.4](https://github.com/cowboysysop/charts/pull/1014) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update bridgecrewio/checkov-action action to v12.3077.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
+- [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/cowboysysop/charts/pull/1012) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [ci: update kindest/node docker tag to v1.32.11](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/34) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -51,9 +51,9 @@
 
 #### ⭐ Recent Stars
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100&#43; specialized AI agents for full-stack development, DevOps, data science, and business operations. (5 days ago)
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100&#43; specialized AI agents for full-stack development, DevOps, data science, and business operations. (6 days ago)
 - [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features. (1 week ago)
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF (1 week ago)
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF (2 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. (2 months ago)
 
