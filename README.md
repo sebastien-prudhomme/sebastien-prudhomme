@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -  (today)
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration (1 day ago)
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent (2 days ago)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (2 days ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (6 days ago)
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
