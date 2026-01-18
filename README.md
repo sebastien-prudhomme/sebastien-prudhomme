@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (today)
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - grep on steroids: semantic code search powered by AI embeddings. Search your codebase by meaning, not just keywords. (today)
 - [sofianedjerbi/etcdme](https://github.com/sofianedjerbi/etcdme) - High-availability Kubernetes on Hetzner Cloud. Built for resilience. (today)
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -  (1 day ago)
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration (2 days ago)
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent (3 days ago)
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
