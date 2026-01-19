@@ -52,7 +52,7 @@
 #### ⭐ Recent Stars
 
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 day ago)
-- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - grep on steroids: semantic code search powered by AI embeddings. Search your codebase by meaning, not just keywords. (1 day ago)
+- [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search &amp; Call Graphs for AI Agents (100% Local) (1 day ago)
 - [sofianedjerbi/etcdme](https://github.com/sofianedjerbi/etcdme) - High-availability Kubernetes on Hetzner Cloud. Built for resilience. (1 day ago)
 - [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -  (2 days ago)
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration (3 days ago)
