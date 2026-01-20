@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (today)
 - [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials. (today)
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (2 days ago)
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search &amp; Call Graphs for AI Agents (100% Local) (2 days ago)
 - [sofianedjerbi/etcdme](https://github.com/sofianedjerbi/etcdme) - High-availability Kubernetes on Hetzner Cloud. Built for resilience. (2 days ago)
-- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) -  (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
