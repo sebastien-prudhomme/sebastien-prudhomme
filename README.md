@@ -30,7 +30,7 @@
 - [ci: update actions/setup-python action to v6.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/37) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [fix(core): append correct OTLP paths for HTTP exporters](https://github.com/google-gemini/gemini-cli/pull/16836) on [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 week ago)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.4](https://github.com/cowboysysop/charts/pull/1014) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
-- [ci: update bridgecrewio/checkov-action action to v12.3078.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 weeks ago)
+- [ci: update bridgecrewio/checkov-action action to v12.3079.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 weeks ago)
 - [feat: update docker.io/yuzutech/kroki to v0.29.1](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/35) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
 
 #### 📜 My recent blog posts
