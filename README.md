@@ -22,12 +22,12 @@
 
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.1.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.1.0), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.4), 1 month ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 month ago) - 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 2 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 2 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-python action to v6.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/37) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update actions/setup-python action to v6.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/37) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 - [fix(core): append correct OTLP paths for HTTP exporters](https://github.com/google-gemini/gemini-cli/pull/16836) on [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (1 week ago)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.4](https://github.com/cowboysysop/charts/pull/1014) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 - [ci: update bridgecrewio/checkov-action action to v12.3079.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 weeks ago)
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (today)
-- [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (today)
-- [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (today)
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (4 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (5 days ago)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 day ago)
+- [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (1 day ago)
+- [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (1 day ago)
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (5 days ago)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
