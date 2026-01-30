@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (today)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (5 days ago)
 - [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (5 days ago)
 - [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (5 days ago)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
