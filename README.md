@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.20.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.20.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.1.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.1.0), 2 weeks ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 2 months ago) - 
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.32](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.32), 2 months ago) - Docker Image for Pytest
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-python action to v6.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/37) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update actions/setup-python action to v6.2.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/37) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
 - [fix(core): append correct OTLP paths for HTTP exporters](https://github.com/google-gemini/gemini-cli/pull/16836) on [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) (2 weeks ago)
 - [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.4](https://github.com/cowboysysop/charts/pull/1014) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 - [ci: update bridgecrewio/checkov-action action to v12.3079.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/36) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
@@ -51,10 +51,10 @@
 
 #### ⭐ Recent Stars
 
-- [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (today)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (5 days ago)
-- [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (5 days ago)
-- [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (5 days ago)
+- [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (1 day ago)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (6 days ago)
+- [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (6 days ago)
+- [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (6 days ago)
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms (1 week ago)
 
 #### 👯 Check out some of my recent followers
