@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency cosign to v2.6.2](https://github.com/cowboysysop/docker-pytest/pull/614) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update renovatebot/github-action action to v46](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/40) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v43](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/39) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update renovatebot/github-action action to v46](https://github.com/cowboysysop/charts/pull/1019) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v43](https://github.com/cowboysysop/charts/pull/1018) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update docker/login-action action to v3.7.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/38) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 
 #### 📜 My recent blog posts
 
