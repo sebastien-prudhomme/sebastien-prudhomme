@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (5 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.5), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 1 day ago) - Docker Image for Pytest
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.5), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 2 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.1.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.1.0), 2 weeks ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update renovatebot/github-action action to v46](https://github.com/cowboysysop/docker-pytest/pull/619) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency mcp to v1.26.0](https://github.com/cowboysysop/docker-pytest/pull/618) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update docker/login-action action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/617) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [ci: update dependency node to v24.13.0](https://github.com/cowboysysop/docker-pytest/pull/616) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
-- [fix: update dependency python to v3.14.2](https://github.com/cowboysysop/docker-pytest/pull/615) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update renovatebot/github-action action to v46](https://github.com/cowboysysop/docker-pytest/pull/619) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [fix: update dependency mcp to v1.26.0](https://github.com/cowboysysop/docker-pytest/pull/618) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update docker/login-action action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/617) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [ci: update dependency node to v24.13.0](https://github.com/cowboysysop/docker-pytest/pull/616) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
+- [fix: update dependency python to v3.14.2](https://github.com/cowboysysop/docker-pytest/pull/615) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (3 days ago)
+- [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (4 days ago)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 week ago)
 - [chihebnabil/lovable-boilerplate](https://github.com/chihebnabil/lovable-boilerplate) - A Lovable-inspired React boilerplate that brings no-code AI UI generation into clean code. Fully open, customizable, and structured to work seamlessly with GitHub Copilot (1 week ago)
 - [seopanel/Seo-Panel](https://github.com/seopanel/Seo-Panel) - World&#39;s first seo control panel for multiple websites (1 week ago)
