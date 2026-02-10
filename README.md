@@ -51,9 +51,9 @@
 
 #### ⭐ Recent Stars
 
-- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface, FerrisKey offers a robust and flexible alternative to traditional IAM solutions. (5 days ago)
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (5 days ago)
-- [juhnny5/resumectl](https://github.com/juhnny5/resumectl) - resumectl - Your Resume as Code (5 days ago)
+- [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface, FerrisKey offers a robust and flexible alternative to traditional IAM solutions. (6 days ago)
+- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! (6 days ago)
+- [juhnny5/resumectl](https://github.com/juhnny5/resumectl) - resumectl - Your Resume as Code (6 days ago)
 - [makerkit/nextjs-saas-starter-kit-lite](https://github.com/makerkit/nextjs-saas-starter-kit-lite) - Lite version of the Makerkit SaaS Starter Kit based on Next.js and Supabase (1 week ago)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (2 weeks ago)
 
