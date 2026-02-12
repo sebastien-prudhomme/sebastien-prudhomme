@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.6.0](https://github.com/cowboysysop/charts/pull/1023) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update renovatebot/github-action action to v46.1.0](https://github.com/cowboysysop/charts/pull/1022) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v43.9.0](https://github.com/cowboysysop/charts/pull/1021) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update renovatebot/github-action action to v46](https://github.com/cowboysysop/docker-pytest/pull/619) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [fix: update dependency mcp to v1.26.0](https://github.com/cowboysysop/docker-pytest/pull/618) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update docker/login-action action to v3.7.0](https://github.com/cowboysysop/docker-pytest/pull/617) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [ci: update dependency node to v24.13.0](https://github.com/cowboysysop/docker-pytest/pull/616) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency python to v3.14.2](https://github.com/cowboysysop/docker-pytest/pull/615) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
