@@ -53,7 +53,7 @@
 
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (today)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (1 day ago)
-- [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) -  (2 days ago)
+- [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (2 days ago)
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (5 days ago)
 - [ferriskey/ferriskey](https://github.com/ferriskey/ferriskey) - FerrisKey is an open-source IAM solution designed for modern cloud-native environments. With its high-performance API written in Rust and its intuitive web interface, FerrisKey offers a robust and flexible alternative to traditional IAM solutions. (1 week ago)
 
