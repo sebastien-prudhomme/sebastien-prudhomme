@@ -53,7 +53,7 @@
 
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (1 day ago)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (3 days ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (3 days ago)
 - [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (4 days ago)
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
 
