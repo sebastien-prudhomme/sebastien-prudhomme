@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (today)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 days ago)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (3 days ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (4 days ago)
 - [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (5 days ago)
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode. (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
