@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (2 months ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (5 months ago)
@@ -20,16 +20,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 6 days ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 1 week ago) - Cowboy Sysop Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.18.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.18.5), 2 weeks ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 2 weeks ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.6.0](https://github.com/cowboysysop/charts/pull/1023) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update renovatebot/github-action action to v46.1.0](https://github.com/cowboysysop/charts/pull/1022) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v43.15.1](https://github.com/cowboysysop/charts/pull/1021) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.6.0](https://github.com/cowboysysop/charts/pull/1023) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update renovatebot/github-action action to v46.1.0](https://github.com/cowboysysop/charts/pull/1022) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v43.15.1](https://github.com/cowboysysop/charts/pull/1021) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update renovatebot/github-action action to v46](https://github.com/cowboysysop/docker-pytest/pull/619) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 - [fix: update dependency mcp to v1.26.0](https://github.com/cowboysysop/docker-pytest/pull/618) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (today)
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 days ago)
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (3 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (4 days ago)
-- [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (5 days ago)
+- [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (1 day ago)
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (3 days ago)
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (4 days ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (5 days ago)
+- [openclaw-rocks/k8s-operator](https://github.com/openclaw-rocks/k8s-operator) - Kubernetes operator for deploying and managing OpenClaw AI agent instances with production-grade security, observability, and lifecycle management. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
