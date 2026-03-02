@@ -50,10 +50,10 @@
 
 #### ⭐ Recent Stars
 
-- [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (3 days ago)
+- [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (4 days ago)
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (1 week ago)
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (1 week ago)
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (1 week ago)
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 weeks ago)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
