@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (1 week ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (2 weeks ago)
+- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (2 weeks ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) -  (6 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 2 weeks ago) - Cowboy Sysop Charts
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 3 weeks ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 3 months ago) - 
 
@@ -29,8 +29,8 @@
 - [ci: update helm/kind-action action to v1.14.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/41) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [feat: update docker.io/yuzutech/kroki to v0.30.0](https://github.com/cowboysysop/charts/pull/1025) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update helm/kind-action action to v1.14.0](https://github.com/cowboysysop/charts/pull/1024) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update registry.k8s.io/autoscaling/vpa to v1.6.0](https://github.com/cowboysysop/charts/pull/1023) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [ci: update renovatebot/github-action action to v46.1.2](https://github.com/cowboysysop/charts/pull/1022) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat: update registry.k8s.io/autoscaling/vpa to v1.6.0](https://github.com/cowboysysop/charts/pull/1023) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
+- [ci: update renovatebot/github-action action to v46.1.2](https://github.com/cowboysysop/charts/pull/1022) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -50,8 +50,8 @@
 
 #### ⭐ Recent Stars
 
-- [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (6 days ago)
-- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (1 week ago)
+- [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (1 week ago)
+- [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (2 weeks ago)
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (2 weeks ago)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 weeks ago)
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 weeks ago)
