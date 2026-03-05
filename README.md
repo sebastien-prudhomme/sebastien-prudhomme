@@ -50,11 +50,11 @@
 
 #### ⭐ Recent Stars
 
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. (today)
 - [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (1 week ago)
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (2 weeks ago)
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (2 weeks ago)
 - [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 weeks ago)
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
