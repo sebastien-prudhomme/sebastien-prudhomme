@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (2 days ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 days ago)
+- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (3 days ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (3 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
@@ -20,22 +20,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.34.0-nightly.20260307.6c3a90645](https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0-nightly.20260307.6c3a90645), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.34.0-nightly.20260307.6c3a90645](https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0-nightly.20260307.6c3a90645), 2 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 3 weeks ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/cowboysysop/charts/pull/1029) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update docker/login-action action to v4](https://github.com/cowboysysop/charts/pull/1028) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/cowboysysop/charts/pull/1029) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update docker/login-action action to v4](https://github.com/cowboysysop/charts/pull/1028) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
 
 #### 📜 My recent blog posts
 
-- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (2 days ago)
+- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (3 days ago)
 - [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (5 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (5 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (7 years ago)
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. (3 days ago)
+- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. (4 days ago)
 - [kubecloudscaler/kubecloudscaler](https://github.com/kubecloudscaler/kubecloudscaler) -  (1 week ago)
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework. (2 weeks ago)
 - [qjoly/talosctl-oidc](https://github.com/qjoly/talosctl-oidc) - OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA. (2 weeks ago)
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (2 weeks ago)
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there&#39;s no activity. Docker, Docker Swarm Mode and Kubernetes compatible. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
