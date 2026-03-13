@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (6 days ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (6 days ago)
+- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (1 week ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 week ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (4 weeks ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (3 months ago)
@@ -20,22 +20,22 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.33.1](https://github.com/google-gemini/gemini-cli/releases/tag/v0.33.1), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.35.0-nightly.20260313.bb060d7a9](https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0-nightly.20260313.bb060d7a9), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 4 weeks ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 1 month ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 3 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/cowboysysop/charts/pull/1029) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update docker/login-action action to v4](https://github.com/cowboysysop/charts/pull/1028) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/cowboysysop/charts/pull/1029) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
+- [ci: update docker/login-action action to v4](https://github.com/cowboysysop/charts/pull/1028) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (6 days ago)
+- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (1 week ago)
 - [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (5 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (5 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (7 years ago)
