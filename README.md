@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
 - [phuchoang2603/kubernetes-proxmox](https://github.com/phuchoang2603/kubernetes-proxmox) - auto provision k8s to proxmox using terraform &#43; ansible &#43; github actions &#43; vault (2 days ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (4 days ago)
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (5 days ago)
 - [r-via/anatoly](https://github.com/r-via/anatoly) - The AI agent that deep-audits your TypeScript codebase, and proves every finding. (5 days ago)
-- [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
