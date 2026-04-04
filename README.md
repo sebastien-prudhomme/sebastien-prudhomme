@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (2 weeks ago)
+- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (3 weeks ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 weeks ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.37.0-preview.1](https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0-preview.1), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.37.0-preview.1](https://github.com/google-gemini/gemini-cli/releases/tag/v0.37.0-preview.1), 2 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 1 month ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 4 months ago) - 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
-- [phuchoang2603/kubernetes-proxmox](https://github.com/phuchoang2603/kubernetes-proxmox) - auto provision k8s to proxmox using terraform &#43; ansible &#43; github actions &#43; vault (2 days ago)
-- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (4 days ago)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (5 days ago)
-- [r-via/anatoly](https://github.com/r-via/anatoly) - The AI agent that deep-audits your TypeScript codebase, and proves every finding. (5 days ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 day ago)
+- [phuchoang2603/kubernetes-proxmox](https://github.com/phuchoang2603/kubernetes-proxmox) - auto provision k8s to proxmox using terraform &#43; ansible &#43; github actions &#43; vault (3 days ago)
+- [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (5 days ago)
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (6 days ago)
+- [r-via/anatoly](https://github.com/r-via/anatoly) - The AI agent that deep-audits your TypeScript codebase, and proves every finding. (6 days ago)
 
 #### 👯 Check out some of my recent followers
 
