@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (today)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - abcdesktopio documentation files markup language (2 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
 - [phuchoang2603/kubernetes-proxmox](https://github.com/phuchoang2603/kubernetes-proxmox) - auto provision k8s to proxmox using terraform &#43; ansible &#43; github actions &#43; vault (2 weeks ago)
 - [mogenius/renovate-operator](https://github.com/mogenius/renovate-operator) - Operator to streamline renovate executions in Kubernetes (3 weeks ago)
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
