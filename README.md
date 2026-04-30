@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (today)
 - [felixnotka/audicia](https://github.com/felixnotka/audicia) - Kubernetes operator that generates least-privilege RBAC policies from audit logs (1 day ago)
 - [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (1 week ago)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - abcdesktopio documentation files markup language (3 weeks ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
-- [phuchoang2603/kubernetes-proxmox](https://github.com/phuchoang2603/kubernetes-proxmox) - auto provision k8s to proxmox using terraform &#43; ansible &#43; github actions &#43; vault (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
