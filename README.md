@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (today)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (3 days ago)
 - [felixnotka/audicia](https://github.com/felixnotka/audicia) - Kubernetes operator that generates least-privilege RBAC policies from audit logs (4 days ago)
 - [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (1 week ago)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - abcdesktopio documentation files markup language (3 weeks ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
