@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.42.0-preview.2](https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-preview.2), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.42.0-preview.2](https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0-preview.2), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 2 months ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 5 months ago) - 
@@ -29,9 +29,9 @@
 
 - [ci: update dependency python to v3.14.4](https://github.com/cowboysysop/charts/pull/1030) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/45) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
-- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
-- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
+- [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 months ago)
+- [ci: update docker/login-action action to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/43) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 months ago)
+- [ci: update crazy-max/ghaction-import-gpg action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/42) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (3 days ago)
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (6 days ago)
+- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (4 days ago)
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (1 week ago)
 - [felixnotka/audicia](https://github.com/felixnotka/audicia) - Kubernetes operator that generates least-privilege RBAC policies from audit logs (1 week ago)
 - [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (2 weeks ago)
 - [abcdesktopio/docs](https://github.com/abcdesktopio/docs) - abcdesktopio documentation files markup language (1 month ago)
