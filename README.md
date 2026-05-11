@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (3 days ago)
+- [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (3 days ago)
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 week ago)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (1 week ago)
 - [felixnotka/audicia](https://github.com/felixnotka/audicia) - Kubernetes operator that generates least-privilege RBAC policies from audit logs (1 week ago)
