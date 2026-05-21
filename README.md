@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (today)
+- [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (today)
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (1 week ago)
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (2 weeks ago)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (3 weeks ago)
-- [felixnotka/audicia](https://github.com/felixnotka/audicia) - Kubernetes operator that generates least-privilege RBAC policies from audit logs (3 weeks ago)
-- [hauler-dev/hauler](https://github.com/hauler-dev/hauler) - Airgap Swiss Army Knife (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
