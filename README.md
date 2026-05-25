@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.43.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0), 2 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.43.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0), 3 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 3 months ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 3 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 5 months ago) - 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (3 days ago)
-- [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (3 days ago)
+- [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (4 days ago)
+- [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (4 days ago)
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (2 weeks ago)
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (3 weeks ago)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (3 weeks ago)
