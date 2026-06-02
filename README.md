@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.45.0-nightly.20260530.g013914071](https://github.com/google-gemini/gemini-cli/releases/tag/v0.45.0-nightly.20260530.g013914071), 2 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.45.0-nightly.20260602.g665228e98](https://github.com/google-gemini/gemini-cli/releases/tag/v0.45.0-nightly.20260602.g665228e98), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 3 months ago) - Cowboy Sysop Charts
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 4 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.5](https://github.com/cowboysysop/charts/pull/1031) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.5](https://github.com/cowboysysop/charts/pull/1031) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 days ago)
 - [ci: update dependency python to v3.14.5](https://github.com/cowboysysop/charts/pull/1030) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/45) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 months ago)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v23](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/44) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 months ago)
@@ -54,7 +54,7 @@
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (1 week ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (1 week ago)
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (3 weeks ago)
-- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (4 weeks ago)
+- [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 month ago)
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
