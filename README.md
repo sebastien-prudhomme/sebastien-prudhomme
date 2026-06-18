@@ -51,19 +51,19 @@
 
 #### ⭐ Recent Stars
 
+- [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog &amp; ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker. (today)
 - [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (4 weeks ago)
 - [backube/snapscheduler](https://github.com/backube/snapscheduler) - Scheduled snapshots for Kubernetes persistent volumes (4 weeks ago)
 - [pii-shield/pii-shield](https://github.com/pii-shield/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (1 month ago)
 - [borgbase/vykar](https://github.com/borgbase/vykar) - Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage. (1 month ago)
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [yumiaura](https://github.com/yumiaura)
 - [N012025](https://github.com/N012025)
 - [r-via](https://github.com/r-via)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Sams-20](https://github.com/Sams-20)
-- [bilred](https://github.com/bilred)
 
 #### 💬 Feedback
 
