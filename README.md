@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mcp to v1.28.0](https://github.com/cowboysysop/docker-pytest/pull/626) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update docker/build-push-action action to v6.19.2](https://github.com/cowboysysop/docker-pytest/pull/625) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.17.0](https://github.com/cowboysysop/docker-pytest/pull/624) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency conventional-changelog-conventionalcommits to v9.3.1](https://github.com/cowboysysop/docker-pytest/pull/623) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.14.6](https://github.com/cowboysysop/docker-pytest/pull/622) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update dependency psycopg2 to v2.9.12](https://github.com/cowboysysop/docker-pytest/pull/621) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 
 #### 📜 My recent blog posts
 
