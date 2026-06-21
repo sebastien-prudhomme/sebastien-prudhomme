@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.35](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.35), today) - Docker Image for Pytest
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.47.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.47.0), 3 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 4 months ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.34](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.34), 4 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 6 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.14.6](https://github.com/cowboysysop/docker-pytest/pull/622) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.12](https://github.com/cowboysysop/docker-pytest/pull/621) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.6.3](https://github.com/cowboysysop/docker-pytest/pull/620) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/46) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update actions/checkout action to v7](https://github.com/cowboysysop/charts/pull/1032) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [fix: update docker.io/dolibarr/dolibarr docker tag to v22.0.5](https://github.com/cowboysysop/charts/pull/1031) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
