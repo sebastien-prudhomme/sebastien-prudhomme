@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - 100% Free, Open-source local-first AI diagramming for architecture diagrams and flowcharts with animated exports. (today)
 - [rfxn/linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Multi-engine Linux malware scanner with five detection stages (MD5, HEX pattern, YARA, ClamAV, statistical), real-time inotify monitoring, quarantine, and multi-channel alerting (1 day ago)
 - [target/strelka](https://github.com/target/strelka) - Real-time, container-based file scanning at enterprise scale (1 day ago)
 - [ArsenTech/clamav-gui](https://github.com/ArsenTech/clamav-gui) - 🛡️ A GUI for ClamAV Antivirus that makes the Antivirus itself look professional and work exactly like ClamAV (1 day ago)
 - [logtide-dev/logtide](https://github.com/logtide-dev/logtide) - 🛡️ Open-source, self-hosted log management. Privacy-first alternative to Datadog &amp; ELK. Lightweight, GDPR-compliant, and deployed in minutes with Docker. (4 days ago)
-- [rash-sh/rash](https://github.com/rash-sh/rash) - Declarative shell scripting using Rust native bindings inspired by Ansible (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
