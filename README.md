@@ -50,9 +50,9 @@
 
 #### ⭐ Recent Stars
 
-- [kubara-io/kubara](https://github.com/kubara-io/kubara) - Kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (3 days ago)
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes (3 days ago)
-- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm (4 days ago)
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - Kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (4 days ago)
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes (4 days ago)
+- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm (5 days ago)
 - [Vrun-design/openflowkit](https://github.com/Vrun-design/openflowkit) - 100% Free, Open-source local-first AI diagramming for architecture diagrams and flowcharts with animated exports. (2 weeks ago)
 - [rfxn/linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Multi-engine Linux malware scanner with five detection stages (MD5, HEX pattern, YARA, ClamAV, statistical), real-time inotify monitoring, quarantine, and multi-channel alerting (2 weeks ago)
 
