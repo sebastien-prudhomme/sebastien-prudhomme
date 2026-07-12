@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (today)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 months ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 months ago)
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) -  (7 months ago)
 
 #### 🌱 My latest projects
 
+- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) - 
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) - 
 - [sebastien-prudhomme/lua-lander-godot](https://github.com/sebastien-prudhomme/lua-lander-godot) - 
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) - 
 - [sebastien-prudhomme/kitchen-chaos](https://github.com/sebastien-prudhomme/kitchen-chaos) - 
-- [sebastien-prudhomme/abbeville](https://github.com/sebastien-prudhomme/abbeville) - 
 
 #### 🔭 Latest releases I've contributed to
 
