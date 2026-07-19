@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.42](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.42), today) - Docker Image for Pytest
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.52.0-nightly.20260719.gacae7124b](https://github.com/google-gemini/gemini-cli/releases/tag/v0.52.0-nightly.20260719.gacae7124b), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.41](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.41), 3 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 5 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update actions/setup-node action to v7](https://github.com/cowboysysop/docker-pytest/pull/635) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update grpcio to v1.82.1](https://github.com/cowboysysop/docker-pytest/pull/634) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.6.4](https://github.com/cowboysysop/docker-pytest/pull/633) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v7](https://github.com/cowboysysop/docker-pytest/pull/632) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [fix: update grpcio to v1.81.1](https://github.com/cowboysysop/docker-pytest/pull/631) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
-- [ci: update dependency node to v24.18.0](https://github.com/cowboysysop/docker-pytest/pull/630) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
