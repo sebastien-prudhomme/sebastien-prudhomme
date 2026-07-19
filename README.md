@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency cosign to v2.6.4](https://github.com/cowboysysop/docker-pytest/pull/633) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v7](https://github.com/cowboysysop/docker-pytest/pull/632) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [fix: update grpcio to v1.81.1](https://github.com/cowboysysop/docker-pytest/pull/631) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [ci: update dependency node to v24.18.0](https://github.com/cowboysysop/docker-pytest/pull/630) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [fix: update dependency mcp to v1.28.1](https://github.com/cowboysysop/docker-pytest/pull/629) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
-- [fix: update dependency requests to v2.34.2](https://github.com/cowboysysop/docker-pytest/pull/628) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
