@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (1 week ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 months ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update grpcio to v1.82.1](https://github.com/cowboysysop/docker-pytest/pull/634) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.6.4](https://github.com/cowboysysop/docker-pytest/pull/633) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update actions/checkout action to v7](https://github.com/cowboysysop/docker-pytest/pull/632) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [fix: update grpcio to v1.81.1](https://github.com/cowboysysop/docker-pytest/pull/631) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 - [ci: update dependency node to v24.18.0](https://github.com/cowboysysop/docker-pytest/pull/630) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
-- [fix: update dependency mcp to v1.28.1](https://github.com/cowboysysop/docker-pytest/pull/629) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
