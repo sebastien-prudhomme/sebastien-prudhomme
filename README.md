@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 day ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (2 weeks ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), today) - Docker Image for Pytest
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.54.0-nightly.20260726.g3818efbbf](https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.0-nightly.20260726.g3818efbbf), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.54.0-nightly.20260727.g3818efbbf](https://github.com/google-gemini/gemini-cli/releases/tag/v0.54.0-nightly.20260727.g3818efbbf), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 1 day ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 5 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [fix: update grpcio to v1.83.0](https://github.com/cowboysysop/docker-pytest/pull/637) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/checkout action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/636) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/charts/pull/1034) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update actions/setup-python action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/48) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [fix: update grpcio to v1.83.0](https://github.com/cowboysysop/docker-pytest/pull/637) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update actions/checkout action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/636) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 day ago)
+- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/charts/pull/1034) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 day ago)
+- [ci: update actions/setup-python action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/48) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 day ago)
 
 #### 📜 My recent blog posts
 
