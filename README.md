@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (6 days ago)
-- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (2 weeks ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
+- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (3 weeks ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 months ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.55.0-nightly.20260801.gf47d6c6f7](https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.0-nightly.20260801.gf47d6c6f7), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 6 days ago) - Docker Image for Pytest
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.55.0-nightly.20260801.gf47d6c6f7](https://github.com/google-gemini/gemini-cli/releases/tag/v0.55.0-nightly.20260801.gf47d6c6f7), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 1 week ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 5 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [fix: update grpcio to v1.83.0](https://github.com/cowboysysop/docker-pytest/pull/637) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update actions/checkout action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/636) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/charts/pull/1034) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update actions/setup-python action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/48) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
+- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [fix: update grpcio to v1.83.0](https://github.com/cowboysysop/docker-pytest/pull/637) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update actions/checkout action to v4.4.0](https://github.com/cowboysysop/docker-pytest/pull/636) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/charts/pull/1034) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update actions/setup-python action to v7](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/48) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 days ago)
-- [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (2 days ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 days ago)
+- [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (3 days ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (4 weeks ago)
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes (4 weeks ago)
-- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm (4 weeks ago)
+- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
