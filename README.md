@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 week ago)
-- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (3 weeks ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 weeks ago)
+- [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (4 weeks ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (4 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 months ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (5 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.56.0-nightly.20260808.gcf22ac7e8](https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260808.gcf22ac7e8), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 1 week ago) - Docker Image for Pytest
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.56.0-nightly.20260809.gcf22ac7e8](https://github.com/google-gemini/gemini-cli/releases/tag/v0.56.0-nightly.20260809.gcf22ac7e8), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 2 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 5 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 8 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/50) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/cowboysysop/charts/pull/1036) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/cowboysysop/charts/pull/1035) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/49) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (6 days ago)
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/50) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/cowboysysop/charts/pull/1036) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/cowboysysop/charts/pull/1035) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/49) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
+- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
