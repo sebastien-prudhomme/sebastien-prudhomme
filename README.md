@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/51) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/50) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/cowboysysop/charts/pull/1036) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/cowboysysop/charts/pull/1035) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update docker.io/traefik/whoami docker tag to v1.12.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/49) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
-- [ci: update actions/setup-python action to v7](https://github.com/cowboysysop/docker-pytest/pull/638) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
