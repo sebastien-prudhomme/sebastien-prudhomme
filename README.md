@@ -29,7 +29,7 @@
 
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/52) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/cowboysysop/charts/pull/1037) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/51) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 weeks ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v4 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/51) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 weeks ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/50) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
 - [ci: update ghcr.io/renovatebot/renovate docker tag to v44](https://github.com/cowboysysop/charts/pull/1036) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
 
