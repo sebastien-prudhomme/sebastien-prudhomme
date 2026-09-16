@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (today)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (1 month ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (2 months ago)
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes (2 months ago)
-- [pando85/kaniop](https://github.com/pando85/kaniop) - Kubernetes operator for managing Kanidm (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
