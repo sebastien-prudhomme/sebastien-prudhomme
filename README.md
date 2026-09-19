@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.62.0-nightly.20260918.g9450ade79](https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0-nightly.20260918.g9450ade79), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.62.0-nightly.20260919.gcfbcaa8df](https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0-nightly.20260919.gcfbcaa8df), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 1 month ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 7 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 9 months ago) - 
@@ -46,12 +46,12 @@
 - [Application access control with OAuth2 Proxy deployed by Argo CD on Kubernetes](https://gist.github.com/c90af146c465305087d5f5a55990ca71) (6 years ago)
 - [Kubernetes volume snapshot-based backup with Stash and Argo](https://gist.github.com/c53e870dc6b4987fefa4c36ea9f1187c) (6 years ago)
 - [Instrumenting FeathersJS with Prometheus](https://gist.github.com/93ab307c8c03a9c5fdb1ff728f413855) (6 years ago)
-- [](https://gist.github.com/9827398f4f792569e56351ac56e80b80) (7 years ago)
-- [](https://gist.github.com/064f0ea019c9ff37b71ebc023c0a0c6b) (7 years ago)
+- [](https://gist.github.com/9827398f4f792569e56351ac56e80b80) (8 years ago)
+- [](https://gist.github.com/064f0ea019c9ff37b71ebc023c0a0c6b) (8 years ago)
 
 #### ⭐ Recent Stars
 
-- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (2 days ago)
+- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (3 days ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (1 month ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (2 months ago)
