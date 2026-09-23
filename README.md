@@ -20,14 +20,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.62.0-nightly.20260922.gd5b3e3acc](https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0-nightly.20260922.gd5b3e3acc), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.62.0-nightly.20260922.gd5b3e3acc](https://github.com/google-gemini/gemini-cli/releases/tag/v0.62.0-nightly.20260922.gd5b3e3acc), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 1 month ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 7 months ago) - Cowboy Sysop Charts
-- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 9 months ago) - 
+- [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/53) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 days ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/53) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 days ago)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/52) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 weeks ago)
 - [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/cowboysysop/charts/pull/1037) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v4 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/51) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (6 days ago)
+- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (1 week ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (1 month ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - kubara is a single binary CLI tool written in Go providing a lightweight framework for bootstrapping Kubernetes platforms with production-proven best practices. (2 months ago)
