@@ -4,11 +4,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (5 days ago)
+- [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (6 days ago)
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 months ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (2 months ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (6 months ago)
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (6 months ago)
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (7 months ago)
 
 #### 🌱 My latest projects
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.64.0-nightly.20261001.gc6bccb7ec](https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261001.gc6bccb7ec), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.64.0-nightly.20261001.gc6bccb7ec](https://github.com/google-gemini/gemini-cli/releases/tag/v0.64.0-nightly.20261001.gc6bccb7ec), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 2 months ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 7 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
@@ -35,7 +35,7 @@
 
 #### 📜 My recent blog posts
 
-- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (6 months ago)
+- [Automatiser la configuration d&#39;Umami avec Terraform](https://www.cowboysysop.com/post/automatiser-la-configuration-d-umami-avec-terraform/) (7 months ago)
 - [Terraform : programmation impérative avec Cloud Development Kit](https://www.cowboysysop.com/post/terraform-programmation-imperative-avec-cloud-development-kit/) (6 years ago)
 - [Chaos Mesh : un générateur de chaos pour Kubernetes](https://www.cowboysysop.com/post/chaos-mesh-un-generateur-de-chaos-pour-kubernetes/) (6 years ago)
 - [Minikluster : un cluster Kubernetes d’expérimentation (partie 2)](https://www.cowboysysop.com/post/minikluster-un-cluster-kubernetes-d-experimentation-partie-2/) (7 years ago)
@@ -54,8 +54,8 @@
 - [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (2 weeks ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (2 months ago)
-- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps. (2 months ago)
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes (2 months ago)
+- [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps. (3 months ago)
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
