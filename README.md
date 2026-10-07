@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.63.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.63.0), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.65.0-nightly.20261007.gef59c532f](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261007.gef59c532f), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 2 months ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([dolibarr-9.0.3](https://github.com/cowboysysop/charts/releases/tag/dolibarr-9.0.3), 7 months ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (2 weeks ago)
+- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (3 weeks ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (2 months ago)
 - [kubara-io/kubara](https://github.com/kubara-io/kubara) - A CLI and package manager for building, distributing, and bootstrapping multi-cluster Kubernetes platforms via pure GitOps. (3 months ago)
