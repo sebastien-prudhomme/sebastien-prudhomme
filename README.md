@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.44](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.44), today) - Docker Image for Pytest
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.65.0-nightly.20261010.g9b6e0265d](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261010.g9b6e0265d), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 4 days ago) - Cowboy Sysop Charts
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.43](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.43), 2 months ago) - Docker Image for Pytest
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency node to v24.21.0](https://github.com/cowboysysop/docker-pytest/pull/641) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency psycopg2 to v2.9.13](https://github.com/cowboysysop/docker-pytest/pull/640) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency cosign to v2.6.5](https://github.com/cowboysysop/docker-pytest/pull/639) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update helm/chart-testing-action action to v2.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/54) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update dependency python to v3.15.0](https://github.com/cowboysysop/charts/pull/1040) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
-- [ci: update azure/setup-helm action to v5](https://github.com/cowboysysop/charts/pull/1039) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
