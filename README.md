@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update dependency cosign to v2.6.5](https://github.com/cowboysysop/docker-pytest/pull/639) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
+- [ci: update helm/chart-testing-action action to v2.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/54) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
+- [ci: update dependency python to v3.15.0](https://github.com/cowboysysop/charts/pull/1040) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update azure/setup-helm action to v5](https://github.com/cowboysysop/charts/pull/1039) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [ci: update ghcr.io/renovatebot/renovate docker tag to v44.145.1](https://github.com/cowboysysop/charts/pull/1038) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/53) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 weeks ago)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/52) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 month ago)
-- [feat!: update docker.io/dolibarr/dolibarr docker tag to v24](https://github.com/cowboysysop/charts/pull/1037) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 month ago)
+- [ci: update ghcr.io/renovatebot/renovate docker tag to v44.149.3](https://github.com/cowboysysop/charts/pull/1038) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (4 days ago)
 
 #### 📜 My recent blog posts
 
