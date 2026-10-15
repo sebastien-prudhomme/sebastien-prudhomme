@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (2 days ago)
-- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (6 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 week ago)
 - [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (2 weeks ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (3 months ago)
 - [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (7 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.65.0-nightly.20261014.g42c518220](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261014.g42c518220), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.45](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.45), 2 days ago) - Docker Image for Pytest
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.65.0-nightly.20261014.g42c518220](https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0-nightly.20261014.g42c518220), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.45](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.45), 3 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency python](https://github.com/cowboysysop/docker-pytest/pull/643) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (2 days ago)
-- [fix: update dependency mcp to v1.30.0](https://github.com/cowboysysop/docker-pytest/pull/642) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency node to v24.21.0](https://github.com/cowboysysop/docker-pytest/pull/641) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency psycopg2 to v2.9.13](https://github.com/cowboysysop/docker-pytest/pull/640) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [ci: update dependency cosign to v2.6.5](https://github.com/cowboysysop/docker-pytest/pull/639) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [fix: update dependency python](https://github.com/cowboysysop/docker-pytest/pull/643) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
+- [fix: update dependency mcp to v1.30.0](https://github.com/cowboysysop/docker-pytest/pull/642) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update dependency node to v24.21.0](https://github.com/cowboysysop/docker-pytest/pull/641) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency psycopg2 to v2.9.13](https://github.com/cowboysysop/docker-pytest/pull/640) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [ci: update dependency cosign to v2.6.5](https://github.com/cowboysysop/docker-pytest/pull/639) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (today)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (today)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 day ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
 - [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (4 weeks ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 - [MikeCodeur/killer-saas](https://github.com/MikeCodeur/killer-saas) -  (2 months ago)
