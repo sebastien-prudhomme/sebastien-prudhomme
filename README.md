@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update grpcio to v1.84.0](https://github.com/cowboysysop/docker-pytest/pull/645) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update dependency node to v24.22.0](https://github.com/cowboysysop/docker-pytest/pull/644) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency python to v3.15.0](https://github.com/cowboysysop/docker-pytest/pull/643) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (6 days ago)
 - [fix: update dependency mcp to v1.30.0](https://github.com/cowboysysop/docker-pytest/pull/642) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 - [ci: update dependency node to v24.21.0](https://github.com/cowboysysop/docker-pytest/pull/641) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update dependency psycopg2 to v2.9.13](https://github.com/cowboysysop/docker-pytest/pull/640) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
