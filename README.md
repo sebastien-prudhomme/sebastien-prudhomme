@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.66.0-nightly.20261019.ged96faedf](https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261019.ged96faedf), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.47), 1 day ago) - Docker Image for Pytest
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.66.0-nightly.20261018.ged96faedf](https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-nightly.20261018.ged96faedf), 1 day ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 1 week ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 10 months ago) - 
 
@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [BasicOpiated1](https://github.com/BasicOpiated1)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [N012025](https://github.com/N012025)
 - [r-via](https://github.com/r-via)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [Sams-20](https://github.com/Sams-20)
 
 #### 💬 Feedback
 
