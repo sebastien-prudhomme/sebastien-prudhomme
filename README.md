@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update docker.io/yuzutech/kroki to v0.34.0](https://github.com/cowboysysop/charts/pull/1043) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update docker/login-action action to v4.7.0](https://github.com/cowboysysop/charts/pull/1042) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update actions/setup-python action to v7.1.0](https://github.com/cowboysysop/charts/pull/1041) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
 - [ci: update cycjimmy/semantic-release-action action to v8](https://github.com/cowboysysop/docker-pytest/pull/646) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
-- [fix: update grpcio to v1.84.0](https://github.com/cowboysysop/docker-pytest/pull/645) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (1 week ago)
 
 #### 📜 My recent blog posts
 
