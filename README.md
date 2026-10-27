@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for 16 package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and raw. (3 days ago)
+- [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and raw. (3 days ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 - [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (1 month ago)
