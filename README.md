@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [christian-vdz](https://github.com/christian-vdz)
 - [BasicOpiated1](https://github.com/BasicOpiated1)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [N012025](https://github.com/N012025)
 - [r-via](https://github.com/r-via)
-- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 
 #### 💬 Feedback
 
