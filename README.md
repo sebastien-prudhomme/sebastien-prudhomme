@@ -31,7 +31,7 @@
 - [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
 - [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/cowboysysop/charts/pull/1044) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [feat: update docker.io/yuzutech/kroki to v0.35.0](https://github.com/cowboysysop/charts/pull/1043) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v4](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v4 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
