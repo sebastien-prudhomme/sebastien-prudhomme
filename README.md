@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (today)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (1 day ago)
 - [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and more. (2 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (3 weeks ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 weeks ago)
-- [vthuillier/job2mail](https://github.com/vthuillier/job2mail) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
