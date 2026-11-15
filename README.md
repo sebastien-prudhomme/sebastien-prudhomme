@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 weeks ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 weeks ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (1 month ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (4 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.68.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0), 4 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.47), 3 weeks ago) - Docker Image for Pytest
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.68.0](https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0), 5 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.47), 4 weeks ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 11 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update helm/kind-action action to v1.15.2](https://github.com/cowboysysop/charts/pull/1045) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (6 days ago)
-- [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (1 week ago)
-- [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/cowboysysop/charts/pull/1044) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [feat: update docker.io/yuzutech/kroki to v0.35.0](https://github.com/cowboysysop/charts/pull/1043) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v4 - autoclosed](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/55) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
+- [ci: update azure/setup-helm action to v5.1.0](https://github.com/cowboysysop/charts/pull/1046) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (today)
+- [ci: update helm/kind-action action to v1.15.2](https://github.com/cowboysysop/charts/pull/1045) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
+- [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (2 weeks ago)
+- [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/cowboysysop/charts/pull/1044) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
+- [feat: update docker.io/yuzutech/kroki to v0.36.0](https://github.com/cowboysysop/charts/pull/1043) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@
 
 #### ⭐ Recent Stars
 
-- [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (4 days ago)
-- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (5 days ago)
+- [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (5 days ago)
+- [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (6 days ago)
 - [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and more. (3 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 month ago)
