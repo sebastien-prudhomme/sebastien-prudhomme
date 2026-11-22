@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.48](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.48), today) - Docker Image for Pytest
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.71.0-nightly.20261122.geecccfcd5](https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.0-nightly.20261122.geecccfcd5), today) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.47](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.47), 1 month ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency python to v3.15.2](https://github.com/cowboysysop/docker-pytest/pull/649) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [fix: update dependency mariadb to v1.1.15](https://github.com/cowboysysop/docker-pytest/pull/648) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v5](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update dependency node to v24.22.3](https://github.com/cowboysysop/docker-pytest/pull/647) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update azure/setup-helm action to v5.1.0](https://github.com/cowboysysop/charts/pull/1046) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
-- [ci: update helm/kind-action action to v1.15.2](https://github.com/cowboysysop/charts/pull/1045) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
