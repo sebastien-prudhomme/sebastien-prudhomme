@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (1 month ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (today)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (1 month ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (4 months ago)
@@ -27,11 +27,11 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update dependency mariadb to v1.1.15](https://github.com/cowboysysop/docker-pytest/pull/648) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [feat!: update quay.io/go-skynet/local-ai docker tag to v5](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (today)
 - [ci: update dependency node to v24.22.3](https://github.com/cowboysysop/docker-pytest/pull/647) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (today)
 - [ci: update azure/setup-helm action to v5.1.0](https://github.com/cowboysysop/charts/pull/1046) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (1 week ago)
 - [ci: update helm/kind-action action to v1.15.2](https://github.com/cowboysysop/charts/pull/1045) on [cowboysysop/charts](https://github.com/cowboysysop/charts) (2 weeks ago)
-- [ci: update helm/chart-releaser-action action to v1.9.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/56) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@
 
 #### ⭐ Recent Stars
 
+- [coolify-terraform/terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify: manage 65 resources, 76 data sources, 2000&#43; tests. Self-hosted PaaS as code. (today)
 - [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (1 week ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (1 week ago)
 - [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and more. (4 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
