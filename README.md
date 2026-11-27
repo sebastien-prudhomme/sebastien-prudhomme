@@ -4,8 +4,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (1 day ago)
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (3 days ago)
+- [sebastien-prudhomme/cowboysysop-website](https://github.com/sebastien-prudhomme/cowboysysop-website) -  (2 days ago)
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) - Docker Image for Pytest (4 days ago)
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) - Cowboy Sysop Charts (1 month ago)
 - [sebastien-prudhomme/scorpion](https://github.com/sebastien-prudhomme/scorpion) -  (2 months ago)
 - [sebastien-prudhomme/test-kubara](https://github.com/sebastien-prudhomme/test-kubara) -  (4 months ago)
@@ -20,18 +20,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.71.1](https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1), 2 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.49](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.49), 3 days ago) - Docker Image for Pytest
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) ([v0.71.1](https://github.com/google-gemini/gemini-cli/releases/tag/v0.71.1), 3 days ago) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) ([v1.2.49](https://github.com/cowboysysop/docker-pytest/releases/tag/v1.2.49), 4 days ago) - Docker Image for Pytest
 - [cowboysysop/charts](https://github.com/cowboysysop/charts) ([kroki-6.2.0](https://github.com/cowboysysop/charts/releases/tag/kroki-6.2.0), 1 month ago) - Cowboy Sysop Charts
 - [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) ([whoami-6.0.0](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/releases/tag/whoami-6.0.0), 1 year ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependency pytest-asyncio to v1.5.0](https://github.com/cowboysysop/docker-pytest/pull/650) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (3 days ago)
-- [fix: update dependency python to v3.15.2](https://github.com/cowboysysop/docker-pytest/pull/649) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [fix: update dependency mariadb to v1.1.15](https://github.com/cowboysysop/docker-pytest/pull/648) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
-- [feat!: update quay.io/go-skynet/local-ai docker tag to v5](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (4 days ago)
-- [ci: update dependency node to v24.22.3](https://github.com/cowboysysop/docker-pytest/pull/647) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency pytest-asyncio to v1.5.0](https://github.com/cowboysysop/docker-pytest/pull/650) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (4 days ago)
+- [fix: update dependency python to v3.15.2](https://github.com/cowboysysop/docker-pytest/pull/649) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [fix: update dependency mariadb to v1.1.15](https://github.com/cowboysysop/docker-pytest/pull/648) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
+- [feat!: update quay.io/go-skynet/local-ai docker tag to v5](https://github.com/sebastien-prudhomme/cowboysysop-charts-test/pull/57) on [sebastien-prudhomme/cowboysysop-charts-test](https://github.com/sebastien-prudhomme/cowboysysop-charts-test) (5 days ago)
+- [ci: update dependency node to v24.22.3](https://github.com/cowboysysop/docker-pytest/pull/647) on [cowboysysop/docker-pytest](https://github.com/cowboysysop/docker-pytest) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [coolify-terraform/terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify: manage 66 resources, 80 data sources, 2050&#43; tests. Self-hosted PaaS as code. (4 days ago)
+- [coolify-terraform/terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify: manage 66 resources, 80 data sources, 2050&#43; tests. Self-hosted PaaS as code. (5 days ago)
 - [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (2 weeks ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (2 weeks ago)
 - [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and more. (1 month ago)
