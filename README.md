@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [coolify-terraform/terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify: manage 66 resources, 80 data sources, 2050&#43; tests. Self-hosted PaaS as code. (6 days ago)
+- [coolify-terraform/terraform-provider-coolify](https://github.com/coolify-terraform/terraform-provider-coolify) - Terraform provider for Coolify: manage 66 resources, 80 data sources, 2100&#43; tests. Self-hosted PaaS as code. (6 days ago)
 - [venslabs/vens](https://github.com/venslabs/vens) - Prioritize vulnerabilities by real risk, not just the generic CVSS score (2 weeks ago)
 - [cterence/homelab-gitops](https://github.com/cterence/homelab-gitops) - My homelab Kubernetes cluster managed by ArgoCD. (2 weeks ago)
 - [openartifact/openartifact](https://github.com/openartifact/openartifact) - Self-hosted artifact repository for many package formats: Maven, npm, PyPI, Docker/OCI, Helm, Debian, RPM, Go, Cargo, NuGet, RubyGems, Conda, Conan, Ivy, sbt and more. (1 month ago)
